@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - School Service Providers.md
       - Quick Links.md
       - Others.md
