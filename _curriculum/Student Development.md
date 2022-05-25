@@ -92,8 +92,8 @@ The school also participates in the Positive Parenting Programme (Triple P) wher
 # Useful Resources
 **Parent Kit:**
 
-https://www.moe.gov.sg/parentkit
+[https://www.moe.gov.sg/parentkit](https://www.moe.gov.sg/parentkit)
 
 **SEL Resources For Parents:**
 
-https://www.moe.gov.sg/programmes/social-and-emotional-learning/sel-resources-for-parents
+[https://www.moe.gov.sg/programmes/social-and-emotional-learning/sel-resources-for-parents](https://www.moe.gov.sg/programmes/social-and-emotional-learning/sel-resources-for-parents)
