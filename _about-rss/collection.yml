@@ -1,0 +1,4 @@
+collections:
+  about-rss:
+    output: true
+    order: []
