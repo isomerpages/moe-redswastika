@@ -19,5 +19,6 @@ For any school-related matters, please approach your child’s Form Teachers as 
 To instil the value of responsibility in our students, we will not facilitate the handing over of any student's work/item or passing of pocket money via the General Office. Students are to record instructions of work assigned from the Class Homework Whiteboard into their handbooks. Parents/Guardians are advised to remind their children/wards to bring their learning materials and homework assignments to school each day.
 
 
-Updating of Contact Details
+**Updating of Contact Details**
+
 To facilitate communication, it is important for the school to maintain an updated list of the main point-of-contact and the contact details of parents/guardians for our students. If there is a change in the main point-of-contact and/or the contact details of the parents/guardians for our students, please update the school promptly even if it is only for a temporary period. You may send the updates to your child’s/ward’s Form Teachers via email.
