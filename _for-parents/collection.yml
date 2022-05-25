@@ -1,5 +1,5 @@
 collections:
-  curriculum:
+  for-parents:
     output: true
     order:
       - Communication.md
