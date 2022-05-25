@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Red Swastika School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/RSS School Logo 2015.jpeg
 permalink: /
 notification: ""
 sections:
@@ -13,3 +13,4 @@ sections:
           description: ""
           url: ""
 ---
+
