@@ -3,7 +3,6 @@ title: Letters to Parents
 permalink: /letters-to-parents
 description: ""
 ---
-    
 <h2>January</h2><div><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u530/2022 Letters to Parents/School Welcome Letter 2022.pdf">School Welcome Letter 2022.pdf</a><br></div><div><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u530/2022 Letters to Parents/Update to Recess Arrangement and Safety Reminders.pdf">Update to Recess Arrangement and Safety Reminders.pdf</a><br></div><div><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u530/2022 Letters to Parents/2022 CNY Celebration Letter to Parents.pdf">2022 CNY Celebration Letter to Parents.pdf</a><br></div>
 <div><br></div>
 <h2>February</h2>
