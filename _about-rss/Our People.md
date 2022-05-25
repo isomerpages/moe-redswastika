@@ -3,8 +3,6 @@ title: Our People
 permalink: /about-rss/our-people
 description: ""
 ---
-
-
 <div id="_ptoo_130704" class="pageblock_box ">
     <h2 id="_ptoh_130704" class="ive_editable ive_ptoh">School Leaders</h2>
     <div id="_ptod_130704" class="ive_editable ive_ptod ive_content"><table style="width: 100%;" class="iveo_table ives_tab_modern2 ive_eobj_center">
@@ -634,4 +632,3 @@ MDM NURHAFIZAH BINTE ROSLE<br>
     <h2 id="_ptoh_130708" class="ive_editable ive_ptoh">2022 Form Teachers and Subject Teachers</h2>
     <div id="_ptod_130708" class="ive_editable ive_ptod ive_content"><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u530/2022 FT and Subject Teachers/22 March/2022 P1 FTs and Subject Teachers.pdf" target="">2022 P1 FTs and Subject Teachers.pdf</a><br><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u530/2022 FT and Subject Teachers/22 March/2022 P2 FTs and Subject Teachers.pdf" target="">2022 P2 FTs and Subject Teachers.pdf</a><br><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u530/2022 FT and Subject Teachers/18 April/2022 P3 FTs and Subject Teachers.pdf">2022 P3 FTs and Subject Teachers.pdf</a><br><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u530/2022 FT and Subject Teachers/31 March/2022 P4 FTs and Subject Teachers.pdf">2022 P4 FTs and Subject Teachers.pdf</a><br><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u530/2022 FT and Subject Teachers/18 April/2022 P5 FTs and Subject Teachers.pdf">2022 P5 FTs and Subject Teachers.pdf</a><br><a class="refobj" style="background-image: url(&quot;/site/ctx/ficon/pdf.gif&quot;); padding-right: 4px; padding-left: 18px;" href="/qql/slot/u530/2022 FT and Subject Teachers/31 Dec/2022 P6 FTs and Subject Teachers.pdf">2022 P6 FTs and Subject Teachers.pdf</a><br><br></div>
 </div>
-
