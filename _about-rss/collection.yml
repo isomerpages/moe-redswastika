@@ -2,6 +2,7 @@ collections:
   about-rss:
     output: true
     order:
+      - Contact Us.md
       - Our Financial and Non Financial Information.md
       - Principal's Message.md
       - Our History.md
