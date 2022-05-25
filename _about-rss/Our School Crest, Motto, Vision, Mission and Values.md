@@ -10,10 +10,12 @@ description: ""
 ![](/images/school%20motto%201.png)
 
 **School Vision 学校愿景**
+
 Caring Community, Innovative Leaders
 博爱，创新，引领
 
 **School Mission 学校使命**
+
 To nurture Joyful Learners with Exemplary Character through a Caring Culture
 
 **School Values 价值观**
