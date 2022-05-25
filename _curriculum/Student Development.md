@@ -16,7 +16,6 @@ In promoting the culture of care, we:
 **Our Programmes and Support Structures**
 
 The Student Development Team anchors its efforts on the ‘Three Littles’ to concretise the desired values, personal qualities and behavioral outcomes for our students.
-
 ![](/images/Icon.png)
 
 The following learning platforms and support structures are used:
@@ -31,13 +30,11 @@ We believe in starting the term right for our students. Hence, the Back To Schoo
 
 
 **Level-Focused Student Development Programmes**
-
 ![](/images/Level-Focused%20Student%20Development%20Programmes.png)
 
 **Positive Peer Relationships - Student Peer Supporters Programme and Buddy System**
 
 The 2-Tier Student Peer Supporters Programme aims to develop positive social skills in our students and promote an inclusive school environment.
-
 ![](/images/Positive%20Peer%20Relationships.png)
 
 **Positive Teacher-student Relationships**
@@ -48,7 +45,6 @@ We believe that teachers play a significant role as trusted adults whom students
 **Our Positive Discipline Approach**
 
 The school adopts a positive discipline approach that involves catching students doing right and leveraging reflective practice to help students take responsibility for their actions. To help students take responsibility for their actions, students are taught that their actions carry consequences. Anchored on a reflective approach, students face consequences that are based on the 3Rs (Restitution, Reconciliation, Resolution). Reflection questions are framed using the Three Littles as part of the school’s unique approach to character development.
-
 ![](/images/Our%20Positive%20Discipline%20Approach.png)
 
 **Parents Engagement**
