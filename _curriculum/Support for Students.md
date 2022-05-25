@@ -84,3 +84,7 @@ Transport Subsidy<br>
 </table>
 
 *Per Capita Income is the Gross Household Income divided by the number of household members which include the student, his parents, unmarried siblings and grandparents.*
+
+**NEU PC Plus Programme**
+
+Students from low income households who want to have a new computer at an affordable price can apply for one under the NEU PC Plus Programme administered by the Infocomm Media Development Authority (IMDA). Under this programme, eligible households can apply for one computer once every 3 years, regardless of the number of school-going children and/ or household members with permanent disability. For details about the NEU PC Plus Programme, please visit https://www.imda.gov.sg/programme-listing/neu-pc-plus or contact IMDA at 63773800.
