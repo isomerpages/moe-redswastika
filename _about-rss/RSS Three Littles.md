@@ -20,3 +20,5 @@ Values inculcation has been done uniquely in RSS through aligning the school val
 # Little Teacher
 A Little Teacher seeks to make life better for others through innovative ways of doing things better to build a caring and harmonious community. He is generous to share and work with others and makes constructive and respectful choices, considering the well-being of self and others. A Little Teacher is responsible and can be depended upon to lead others and work with others. He is resilient when faced with challenges.
 ![](/images/Little%20Teacher.png)
+
+
