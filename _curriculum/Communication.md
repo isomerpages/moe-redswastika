@@ -7,7 +7,7 @@ The school values parents/guardians as co-partners in educating our students. We
 
 * Student Handbook
 * Website
-* Emails (email addresses of all staff can be found on the school website) (Click here for more information)
+* Emails (email addresses of all staff can be found on the school website) (Click [here](/about-rss/our-people) for more information)
 * Phone Calls
 * Letters to Parents  (Click here for more information)
 * Parents Conferences (Click here for more information)
