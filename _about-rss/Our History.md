@@ -10,7 +10,7 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 
 
 
-| | | 
+|  | | 
 | -------- | -------- | 
 | ![principal 1](/images/former_chuang_shih_le.jpeg) | 
 During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Principal, transformed the school from a wooden single-storey building, with six classrooms at Somapah Road, into a well-equipped school with modern facilities at the present site at Bedok North Avenue 3 in 1981.     |
@@ -21,8 +21,3 @@ During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Prin
 | ![principal 6](/images/Mrs%20Jenny-Leong-small.jpeg)     | In 2011, Mrs Jenny Leong became the sixth Principal of the school. She was the first female Principal in the history of Red Swastika School. The school continued to thrive and sustain its academic and holistic excellence under her leadership. Under her leadership, student character development was emphasized through the Three Littles - Little Friend, Little Master and Little Teacher. In 2014, the school established the Learning for Life Programme (LLP) - Every RSS Student A Leader and in 2018, the Applied Learning Programme (ALP) - Tinkers to Thinkers (T2T). To retain the SAP school ethos and develop bilingual communicators and bi-cultural citizens, the school developed a SAP Flagship Programme providing three levels of development for the students. Mrs Leong’s strong belief in holistic education has also transformed the Physical Education and Aesthetics landscape of the school into an integral part of the student education. During her tenure, the school underwent the Primary Education Review and Implementation (PERl) upgrading.   |
 
 In 2019, the school began a new chapter under the leadership of Ms Jessie Lim. With the completion of the PERI upgrading works in July 2019, the school leveraged the new facilities such as the Indoor Sports Hall, teaching laboratory and indoor basketball courts to strengthen the holistic development of the students. From 2020, the school started operating as single-session - bringing together all her students to enjoy learning in a safe and caring environment.
-
-| |
-| -------- | 
-| ![](/images/former_chuang_shih_le.jpeg)       | 
-| During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Principal, transformed the school from a wooden single-storey building, with six classrooms at Somapah Road, into a well-equipped school with modern facilities at the present site at Bedok North Avenue 3 in 1981.       |
