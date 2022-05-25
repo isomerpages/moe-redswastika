@@ -9,5 +9,4 @@ Values inculcation has been done uniquely in RSS through aligning the school val
 
 | |  | 
 | -------- | -------- | 
-| A Little Friend cares for others and is generous in helping others. A Little Friend is respectful and gracious in his interactions with others. By being a Little Friend to others, RSS students establish and maintain healthy and rewarding relationships with those around them.     | ![](/images/Little%20Friend.png)     | 
-
+| A Little Friend cares for others and is generous in helping others. A Little Friend is respectful and gracious in his interactions with others. By being a Little Friend to others, RSS students establish and maintain healthy and rewarding relationships with those around them.     | ![](/images/Little%20Friend.png)     |
