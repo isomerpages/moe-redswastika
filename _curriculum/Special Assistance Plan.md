@@ -44,7 +44,7 @@ The theme is ‘Life’ where students learn about Tea Appreciation, Traditional
 
 卍慈学校的学生都会在六年的特选文化课程中接触不同的中华文学和历史。华文部门的老师们尽心尽力地设计有趣的文化课，并且亲自授课。课程内容包括三小故事(一年级)、　传统节日故事（二年级）、名人故事、寓言故事和神话故事（三年级）、《西游记》（四年级），　《三国演义》（五年级）以及茶文化、 中医学和新加坡先贤（六年级）。除此之外，课程也借助其他活动，如班级游戏竞赛、分组讨论、导读、专题作业、海报/书签设计等等，让学生更加有兴趣学习。学校也聘请商家主办品茶、邀请中医师主办专题讲座等等，让文化课程变得更多姿多彩、丰富有趣。
 
-# 
+ 
 ![](/images/Overseas%20Cultural%20Immersion%20Programme.png)
 
 **Overseas Cultural Immersion Programme海外浸濡与文化交流活动**
