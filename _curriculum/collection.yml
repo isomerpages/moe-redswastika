@@ -2,5 +2,6 @@ collections:
   curriculum:
     output: true
     order:
+      - Sexuality Education.md
       - Special Assistance Plan.md
       - Student Development.md
