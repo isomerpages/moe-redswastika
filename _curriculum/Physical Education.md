@@ -3,7 +3,7 @@ title: Physical Education
 permalink: /curriculum/physical-education
 description: ""
 ---
-![](/images/P5%20Leadership%20Adventure%20Camp.png)![](/images/FCube%20Programme.png)**Key Programmes / Activities**
+**Key Programmes / Activities**
 
 Physical education (PE) is an integral part of the school curriculum. It provides students with the opportunities to acquire the knowledge and skills that lead to a lifelong pursuit of active and healthy lifestyle, and provide the foundation for students who wish to pursue physical sports at a higher level.
 
