@@ -396,11 +396,10 @@ Term 4 Week 7<br>
 </tr>
 </tbody>
 </table>
-</div>
 
 # Information for parents
 
-8. 
+8.
 Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
 9.
