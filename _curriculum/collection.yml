@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - test.md
+      - Programme for Active Learning.md
       - Sexuality Education.md
       - Special Assistance Plan.md
       - Student Development.md
