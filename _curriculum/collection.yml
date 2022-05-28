@@ -2,6 +2,7 @@ collections:
   curriculum:
     output: true
     order:
+      - Physical Education.md
       - Programme for Active Learning.md
       - Sexuality Education.md
       - Special Assistance Plan.md
