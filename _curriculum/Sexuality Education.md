@@ -38,3 +38,10 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for 
 6. The upper primary years mark the onset of puberty.  With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. “Curious Minds” is a response to these challenges.
 
 7. The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, “Curious Minds (2nd Edition)”, aims to meet students’ developmental needs, give emphasis to the teaching of skills and values, and focus on helping students navigate *changes*, build healthy *relationships*, especially online relationships, and exercise *safety*.
+
+<body>
+<center>
+  <p><strong>At Red Swastika School, the following lessons from the Growing Years Programme will be taught in 2022:
+Primary 5<strong></p>
+</center>
+</body>
