@@ -387,5 +387,4 @@ Term 4 Week 7<br>
 </td>
 </tr>
 </tbody>
-</table></div>
-</div>
+</table>
