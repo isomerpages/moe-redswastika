@@ -24,6 +24,7 @@ description: ""
 
 You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for more information on MOE Sexuality Education. 
 
+
 # Overview of RED SWASTIKA’S Sexuality Education Programme for 2022
 
 4. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://www.moe.gov.sg/programmes/sexuality-education/scope-and-teaching-approach) for more information on the scope of Sexuality Education in the school curriculum.
@@ -42,7 +43,7 @@ You may click [here](https://www.moe.gov.sg/programmes/sexuality-education) for 
 <body>
 <center>
   <p><strong>At Red Swastika School, the following lessons from the Growing Years Programme will be taught in 2022:
-Primary 5<strong></p>
+Primary 5</strong></p>
 </center>
 	</body>
 	
@@ -388,4 +389,16 @@ Term 4 Week 7<br>
 </tr>
 </tbody>
 </table>
+</div>
+
+# Information for parents
+
+8. Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+9. Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here. The completed opt-out form is to be submitted by 24/01/2022.
+
+10. Parents can contact the school at 6443 0380 or email pear_siew_hoon@schools.gov.sg for discussion or to seek clarification about the school’s sexuality education programme.
+
+11. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
+
 	
