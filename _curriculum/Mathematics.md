@@ -40,4 +40,3 @@ The E2K Mathematics Programme is offered to selected P4 and P5 students to devel
 
 
 Students have the opportunities to work independently or collaborate with their peers, and engage in mathematical thinking through resources specially designed for this programme.
-
