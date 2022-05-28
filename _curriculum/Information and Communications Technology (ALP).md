@@ -13,7 +13,7 @@ Through well-designed programmes that encourage active participation and reflect
 
 **e-Pedagogy**
 
-This is the practice of teaching with technology for active learning that creates a participatory, connected and reflective classroom to nurture the future-ready learner. Guided by e-Pedagogy, our teachers design differentiated learning experiences that enhance student engagement, enable subject mastery and develop 21st Century Competencies in all students. Through the well-designed learning experiences, we also aim to develop self-directed learners who have the joy of learning and will learn for life.</br>
+This is the practice of teaching with technology for active learning that creates a participatory, connected and reflective classroom to nurture the future-ready learner. Guided by e-Pedagogy, our teachers design differentiated learning experiences that enhance student engagement, enable subject mastery and develop 21st Century Competencies in all students. Through the well-designed learning experiences, we also aim to develop self-directed learners who have the joy of learning and will learn for life.
 
 ![](/images/Active%20learning%20processes%20with%20technology.png)
 
@@ -45,4 +45,3 @@ Our Tier 2 Programme is for students who have a strong interest in coding. They 
 	<p><em>Robotics Club students showcasing the robots that they have designed and coded to other students.</em></p>
 </center>
 </body>
-
