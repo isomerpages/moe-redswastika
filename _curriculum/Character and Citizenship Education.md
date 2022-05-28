@@ -43,3 +43,28 @@ As values are closely related to language and culture, Mother Tongue Language te
 
 VIAs are learning experiences that support our students’ development to becoming socially responsible citizens who can contribute meaningfully to the school and community. RSS students in the lower primary (P1 and P2) start their service journey from home by assisting family members with household chores. They continue to extend their services to school through structured platforms to keep the school environment clean. Students in the middle primary (P3 and P4) show their appreciation to different groups of stakeholders who have supported them in school while students in the upper primary (P5 and P6) offer their services to the community - packing and sending gift packs to the needy around the community, taking part in donation drives.
 
+**Learning For Life (LLP) Character Lessons**
+
+![](/images/LLP.png)
+
+Teachers design and deliver the LLP Character lessons with intentionality. Adopting the spiral approach, students are taught the school vision, mission and values gradually and repeatedly, reinforcing the learning over time. Each lesson delivers rich content through various pedagogical approaches that are developmentally appropriate and engage students cognitively and affectively. To develop our students as reflective learners, they are given the opportunity to reflect on their learning at the end of every lesson.
+
+
+**Cyber Wellness (CW)**
+
+CW education in RSS is delivered over multiple learning platforms – FTGP, school-based enrichment (SBE) lessons and Assembly. Lessons are designed to teach students to be respectful, safe and responsible users of technology and be a positive peer advocate for online safety.
+
+**Education and Career Guidance (ECG)**
+
+ECG is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage. Students explore their values, interests and personality. They also learn about occupational clusters and the type of skills required for these clusters. To broaden the learning experiences in ECG, the school also leverages the partnership with the Alumni Association for members to share about their real-life work experiences with our students.
+
+
+[ Sexuality Education (SEd)](/curriculum/sexuality-education)
+
+Sexuality Education lessons are conducted for students at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature. They also gain a better understanding of how to develop healthy and rewarding relationships, as well as learn how to make informed and responsible decisions on sexuality matters.
+
+**RSS Character Affirmation Programme**
+
+![](/images/RSS.png)
+
+Our Character Affirmation Programme provides feedback to students on their character growth. It encourages our students to demonstrate the characteristics of the Three Littles. The school has put in place a student recognition structure which includes a 3-tiered Character Awards. Role models of the Three Littles from each class are nominated via the termly Class Affirmation Periods.
