@@ -13,3 +13,22 @@ An inquiry-based learning approach is used to help students make connections of 
 
 ![](/images/IBL%201.png)
 ![](/images/IBL%202.png)
+
+**Outdoor Experiential Learning**
+
+Students develop a better understanding of the relevance of Science in their daily lives through experiential learning activities like learning journeys and activities at the Outdoor Experiential Learning corners in the school.
+
+![](/images/OEL%201.png)
+![](/images/OEL%202.png)
+
+**Learning about Environmental Conservation**
+
+Through learning about the interactions between ‘Man and the Environment’, students can better appreciate the important role that every one of us plays in conservation. Students are given opportunities to show care and concern for the environment through taking part in conservation activities in the school.
+
+![](/images/LEC.png)
+
+**Developing the potential of our students through Enrichment Activities**
+
+Students with strong interest and aptitude in Science have opportunities to showcase their talents in school through participation in Science competitions and the E2K Science programme as well as displaying their work for others to appreciate.
+
+![](/images/developing%20the%20potential.png)
