@@ -58,5 +58,5 @@ description: ""
  为了鼓励学生多阅读，每个学生都得到一张阅读卡，每读完一本华文书，并完成图书推荐任务，可得到一张贴纸，阅读卡集满贴纸即可兑换一份小礼物作为奖励。
  
 **Useful Resources**
-* https://www.mtls.edu.sg/Gallery/CL-Pri-ExternalResources.pdf
-* https://www.cpcll.sg/
+* [https://www.mtls.edu.sg/Gallery/CL-Pri-ExternalResources.pdf](https://www.mtls.edu.sg/Gallery/CL-Pri-ExternalResources.pdf)
+* [https://www.cpcll.sg/](https://www.cpcll.sg/)
