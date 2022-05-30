@@ -3,7 +3,6 @@ title: Celebrating 70 Years of History & Heritage
 permalink: /celebrating-70-years-of-history-and-heritage
 description: ""
 ---
-
 It’s our 70th birthday, everyone! Join us and be a part of our celebration!
 
 
@@ -11,7 +10,7 @@ The theme for RSS’ 70th Anniversary Celebration is RSS Celebrates! 卍帜飘�
 
 <body>
 <center>
-  <p>The 70th Anniversary Logo</p>
+	<p><strong>The 70th Anniversary Logo</strong></p>
 </center>
 </body>
 
