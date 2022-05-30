@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Parent Volunteers.md
       - Overseas Partners.md
       - School Management Committee.md
