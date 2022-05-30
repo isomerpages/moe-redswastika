@@ -9,7 +9,7 @@ At RSS, we aim to nurture confident and effective communicators as well as criti
 
 # Our Key Programmes/Activities
 
-***Oracy Programmes***
+# Oracy Programmes
 
 **Effective Communication Programme (ECP)**
 
@@ -37,7 +37,7 @@ Students are progressively guided from P1 to P6 to develop their reading and con
 
 ![](/images/assembly%20talk.png)
 
-***Writing Programmes***
+# Writing Programmes
 
 **Use of Mentor Texts**
 
@@ -62,7 +62,7 @@ From Primary 3 to Primary 6, the students are engaged in process writing where e
 
 ![](/images/books.png)
 
-***Reading Programmes***
+# Reading Programmes
 
 **EL/CL Reading Programme**
 
@@ -82,7 +82,7 @@ Through the above activities, RSS students discover the joy of reading and open 
 
 ![](/images/author%20talks.png)
 
-***MOE Programmes***
+# MOE Programmes
 
 **STELLAR Programme**
 
