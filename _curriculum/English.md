@@ -81,3 +81,32 @@ This programme, as a part of the STELLAR Programme (as shown under MOE Programme
 Through the above activities, RSS students discover the joy of reading and open themselves up to a world beyond their imagination.
 
 ![](/images/author%20talks.png)
+
+***MOE Programmes***
+
+**STELLAR Programme**
+
+STELLAR (Strategies for English Language Learning and Reading) aims to foster a love for reading and a strong foundation in the receptive and productive skills. The STELLAR programme is built on the belief that enjoyment is a fundamental aspect of all positive reading and writing experiences.
+
+**The Lower Primary STELLAR comprises of the following strategies:**
+![](/images/The%20Lower%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png)
+
+**The Upper Primary STELLAR comprises of the following strategies:**
+![](/images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png)
+
+![](/images/chinese%20opera.png)
+![](/images/wishy%20washy.png)
+
+**Learning Support Programme (LSP), Reading Remediation Programme (RRP) and School-based Dyslexia Remediation (SDR)**
+
+The LSP (Primary 1 & Primary 2), RRP (Primary 3 & Primary 4) and SDR (Primary 3 & Primary 4) are literacy support programmes that cater to the needs of struggling readers. The lessons are conducted by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors who provide remediation in reading, using comprehensive teaching packages developed by the Reading Unit of EL Curriculum Planning and Development Division.
+
+![](/images/word%20games.png)
+
+# Useful links
+* [Strategies for English Language Learning and Reading (STELLAR)](https://www.schoolbag.edu.sg/story/the-stellar-way-to-english-language-learning)
+* [Learning Support Programme](https://www.schoolbag.edu.sg/story/learning-support-for-pupils-struggling-with-english-literacy)
+* [School-based Dyslexia Remediation (SDR)](https://www.schoolbag.edu.sg/story/school-based-dyslexia-remediation-(sdr)-programme)
+* [National Library Board](https://www.nlb.gov.sg/)
+* [Children and teens reads (Reading resource)](https://childrenandteens.nlb.gov.sg/)
+* [DiscoveReads (Reading resource)](https://eresources.nlb.gov.sg/ereads/DiscoveReads/All)
