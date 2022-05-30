@@ -5,5 +5,5 @@ description: ""
 ---
 **School Management Committee (2020- 2022)**
 
-![](/images/smc%201.png)
+![](/images/cms%204.png)
 ![](/images/smc%202.png)
