@@ -38,5 +38,3 @@ Integration of the 70th Celebration into Our Curriculum
 In addition to all the above-mentioned initiatives, the school has also integrated our anniversary celebration creatively into the curriculum through the implementation of engaging and meaningful learning activities. We hope these enjoyable activities will enable our staff and students to learn so much more about RSS and appreciate the school for who we are and what we can achieve.
 
 ![](/images/Integration.png)
-
-
