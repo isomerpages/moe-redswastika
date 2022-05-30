@@ -10,7 +10,7 @@ The school values parents/guardians as co-partners in educating our students. We
 * Emails (email addresses of all staff can be found on the school website) (Click [here](/about-rss/our-people) for more information)
 * Phone Calls
 * Letters to Parents  (Click [here](/letters-to-parents) for more information)
-* Parents Conferences (Click [here](parents-conferences) for more information)
+* Parents Conferences (Click [here](/parents-conferences) for more information)
 * Parent-Child-Teacher Conference
 * [P1 Zoom Orientation 2021.pdf](https://redswastika.moe.edu.sg/qql/slot/u530/P1%20Zoom%20Orientation%202021[1].pdf)
 
