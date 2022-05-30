@@ -59,7 +59,7 @@ CW education in RSS is delivered over multiple learning platforms – FTGP, scho
 ECG is about equipping students with the necessary knowledge, skills and values to make informed decisions at each key education stage. Students explore their values, interests and personality. They also learn about occupational clusters and the type of skills required for these clusters. To broaden the learning experiences in ECG, the school also leverages the partnership with the Alumni Association for members to share about their real-life work experiences with our students.
 
 
-[ Sexuality Education (SEd)](/curriculum/sexuality-education)
+**[ Sexuality Education (SEd)](/curriculum/sexuality-education)**
 
 Sexuality Education lessons are conducted for students at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature. They also gain a better understanding of how to develop healthy and rewarding relationships, as well as learn how to make informed and responsible decisions on sexuality matters.
 
