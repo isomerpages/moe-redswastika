@@ -56,5 +56,28 @@ Guided practices are designed for students to test drive and apply what they hav
 Students are engaged in independent writing where they apply what they have learnt to their own writing. 
 
 
-Process Writing
+**Process Writing**
+
 From Primary 3 to Primary 6, the students are engaged in process writing where each writing task is broken down into its smaller components. The students are guided to complete each component sequentially, and this helps make writing a more enjoyable task for many students. The students also learn that writing has to be planned, and it will evolve as it develops and takes shape. Process Writing consists of two major and interdependent phases: the prewriting phase and the writing phase. Prewriting helps writers to organize, sequence, and elaborate on their ideas prior to writing. The writing phase turns this organisation of ideas into a composition.
+
+![](/images/books.png)
+
+***Reading Programmes***
+
+**EL/CL Reading Programme**
+
+In collaboration with the CL department, My Book Recommendations, a booklet consisting of activities to promote reading, is given to each student. The booklets are customised for each level to cater to the needs of different reading ages. Both teachers and students are engaged in the activities, thus encouraging everyone @RSS to read widely. An example of an activity in the booklet is the Reading Bingo where students are engaged in various ways to pique their interest in EL and CL books.
+
+
+**Visits to RSS Library**
+
+Students are taken to the school library regularly where they are introduced to the different genres available. Through various library programmes, in-house or in collaboration with the National Library Board, the students are engaged in different activities that deepen their reading interest. Thematic book displays are also put up regularly to introduce students to the wide variety of good books in the library.
+
+
+**In-curriculum Reading Programme**
+
+This programme, as a part of the STELLAR Programme (as shown under MOE Programmes), aims to inculcate the love for reading in children. Comprising the Shared Book Approach in Primary 1 and Primary 2 and Supported Reading in Primary 3 to Primary 6, the programme is carried out regularly in class. In addition, there is also the Extensive Reading Programme where ‘book floods’ are made available in all EL classrooms – students borrow books from a flood (a huge supply) of books and get to read new books when their classes’ books are exchanged with others’.
+
+Through the above activities, RSS students discover the joy of reading and open themselves up to a world beyond their imagination.
+
+![](/images/author%20talks.png)
