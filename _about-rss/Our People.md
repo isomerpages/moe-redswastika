@@ -420,3 +420,29 @@ description: ""
 </tbody>
 </table>
 
+# Allied Educators
+
+<table>
+<tbody>
+  <tr>
+		<td><strong>SCHOOL COUNSELLOR</strong><br></td>
+    <td>MDM LAI OI LEE CHERYL<br></td>
+    <td><a href="mailto:lai_oi_lee_cheryl@schools.gov.sg" target="_blank" rel="noopener noreferrer">lai_oi_lee_cheryl@schools.gov.sg</a><br></td>
+  </tr>
+  <tr>
+		<td><strong>SPECIAL EDUCATIONAL NEEDS (SEN) OFFICER </strong></td>
+    <td>MDM ELYSE LIM</td>
+    <td><a href="mailto:lim_mei_chen@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_mei_chen@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+		<td><strong>SPECIAL EDUCATIONAL NEEDS (SEN) OFFICER </strong><br></td>
+    <td>MISS NURAINI NORDIN<br></td>
+    <td><a href="mailto:nuraini_nordin@schools.gov.sg" target="_blank" rel="noopener noreferrer">nuraini_nordin@schools.gov.sg</a><br></td>
+  </tr>
+  <tr>
+		<td><strong>SPECIAL EDUCATIONAL NEEDS (SEN) OFFICER </strong><br></td>
+    <td>MDM NURHAFIZAH BINTE ROSLE<br></td>
+    <td><a href="mailto:nurhafizah_Rosle@schools.gov.sg" target="_blank" rel="noopener noreferrer">nurhafizah_rosle@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
