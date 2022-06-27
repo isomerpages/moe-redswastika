@@ -10,16 +10,11 @@ Values inculcation has been done uniquely in RSS through aligning the school val
 # Little Friend
 
 
-|  |  |
-| -------- | -------- | 
-| A Little Friend cares for others and is generous in helping others. A Little Friend is respectful and gracious in his interactions with others. By being a Little Friend to others, RSS students establish and maintain healthy and rewarding relationships with those around them.     | ![](/images/Little%20Friend.png)     |
-
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg td{border-color:white;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg th{border-color:white;border-style:hidden;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
