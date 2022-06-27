@@ -451,9 +451,9 @@ description: ""
 
 # 2022 Form Teachers and Subject Teachers
 
-[2022 P1 FTs and Subject Teachers.pdf](https://redswastika.moe.edu.sg/qql/slot/u530/2022%20FT%20and%20Subject%20Teachers/27%20June/2022%20P1%20FTs%20and%20Subject%20Teachers.pdf)  
-[2022 P2 FTs and Subject Teachers.pdf](https://redswastika.moe.edu.sg/qql/slot/u530/2022%20FT%20and%20Subject%20Teachers/27%20June/2022%20P2%20FTs%20and%20Subject%20Teachers.pdf)  
-[2022 P3 FTs and Subject Teachers.pdf](https://redswastika.moe.edu.sg/qql/slot/u530/2022%20FT%20and%20Subject%20Teachers/27%20June/2022%20P3%20FTs%20and%20Subject%20Teachers.pdf)  
-[2022 P4 FTs and Subject Teachers.pdf](https://redswastika.moe.edu.sg/qql/slot/u530/2022%20FT%20and%20Subject%20Teachers/27%20June/2022%20P4%20FTs%20and%20Subject%20Teachers.pdf)  
-[2022 P5 FTs and Subject Teachers.pdf](https://redswastika.moe.edu.sg/qql/slot/u530/2022%20FT%20and%20Subject%20Teachers/27%20June/2022%20P5%20FTs%20and%20Subject%20Teachers.pdf)  
-[2022 P6 FTs and Subject Teachers.pdf](https://redswastika.moe.edu.sg/qql/slot/u530/2022%20FT%20and%20Subject%20Teachers/27%20June/2022%20P6%20FTs%20and%20Subject%20Teachers.pdf)
+[2022 P1 FTs and Subject Teachers.pdf](/files/2022%20P1%20FTs%20and%20Subject%20Teachers.pdf)
+<br>[2022 P2 FTs and Subject Teachers.pdf](/files/2022%20P2%20FTs%20and%20Subject%20Teachers.pdf)
+<br>[2022 P3 FTs and Subject Teachers.pdf](/files/2022%20P3%20FTs%20and%20Subject%20Teachers.pdf)
+<br>[2022 P4 FTs and Subject Teachers.pdf](/files/2022%20P4%20FTs%20and%20Subject%20Teachers.pdf)
+<br>[2022 P5 FTs and Subject Teachers.pdf](/files/2022%20P5%20FTs%20and%20Subject%20Teachers.pdf)
+<br>[2022 P6 FTs and Subject Teachers.pdf](/files/2022%20P6%20FTs%20and%20Subject%20Teachers.pdf)
