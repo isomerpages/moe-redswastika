@@ -9,14 +9,12 @@ description: ""
 
 # School Key Personnel 
 <table>
-<thead>
-  <tr>
-    <th>School Staff Developer<br></th>
-    <th>MR CHUA KWAN HENG<br></th>
-    <th><a href="mailto:chua_kwan_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer">chua_kwan_heng@schools.gov.sg</a><br></th>
-  </tr>
-</thead>
 <tbody>
+  <tr>
+    <td>School Staff Developer<br></td>
+    <td>MR CHUA KWAN HENG<br></td>
+    <td><a href="mailto:chua_kwan_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer">chua_kwan_heng@schools.gov.sg</a><br></td>
+  </tr>
   <tr>
     <td>Head of Department English Language</td>
     <td>MRS APRIL JOANN NOBLE</td>
