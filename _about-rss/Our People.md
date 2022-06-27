@@ -5,7 +5,25 @@ description: ""
 ---
 # School Leaders
 
-
+<table>
+<tbody>
+  <tr>
+    <td>Principal<br></td>
+    <td>MS JESSIE LIM<br></td>
+    <td><a href="mailto:Jessie_Lim@schools.gov.sg" target="_blank" rel="noopener noreferrer">jessie_lim@schools.gov.sg</a><br></td>
+  </tr>
+  <tr>
+    <td>Vice-Principal</td>
+    <td>MS ANGELA GOH</td>
+    <td><a href="mailto:angela_goh@schools.gov.sg" target="_blank" rel="noopener noreferrer">angela_goh@schools.gov.sg</a></td>
+  </tr>
+  <tr>
+    <td>Vice-Principal</td>
+    <td>MRS ESTHER TAN</td>
+    <td><a href="mailto:esther_e_tzy_kwei@schools.gov.sg" target="_blank" rel="noopener noreferrer">esther_e_tzy_kwei@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
 
 # School Key Personnel 
 <table>
