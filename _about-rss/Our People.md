@@ -40,6 +40,43 @@ MS JESSIE LIM<br>
 </div>
 
 
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-kiyx{background-color:#E5E5E5;color:#353535;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h9gj{background-color:#FFF;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-nr2b{background-color:#FFF;color:#353535;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-atpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:middle}
+.tg .tg-jjwa{background-color:#E5E5E5;color:#353535;text-align:left;vertical-align:middle}
+.tg .tg-eihd{background-color:#E5E5E5;color:#000000;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-nr2b">Principal<br></th>
+    <th class="tg-atpo">MS JESSIE LIM<br></th>
+    <th class="tg-h9gj"><a href="mailto:Jessie_Lim@schools.gov.sg" target="_blank" rel="noopener noreferrer">jessie_lim@schools.gov.sg</a><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-kiyx">Vice-Principal</td>
+    <td class="tg-jjwa">MS ANGELA GOH</td>
+    <td class="tg-eihd"><a href="mailto:angela_goh@schools.gov.sg" target="_blank" rel="noopener noreferrer"><span style="text-decoration:none">angela_goh@schools.gov.sg</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-nr2b">Vice-Principal</td>
+    <td class="tg-atpo">MRS ESTHER TAN</td>
+    <td class="tg-h9gj"><a href="mailto:esther_e_tzy_kwei@schools.gov.sg" target="_blank" rel="noopener noreferrer">esther_e_tzy_kwei@schools.gov.sg</a></td>
+  </tr>
+</tbody>
+</table>
+
+
 <div id="_ptoo_130705" class="pageblock_box ">
     <h2 id="_ptoh_130705" class="ive_editable ive_ptoh">School Key Personnel</h2>
     <div id="_ptod_130705" class="ive_editable ive_ptod ive_content"><table style="width: 100%;" class="iveo_table ives_tab_modern2 ive_eobj_center">
