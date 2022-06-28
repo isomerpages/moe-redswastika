@@ -4,10 +4,16 @@ permalink: /about-rss/our-school-crest-motto-vision-mission-and-values
 description: ""
 ---
 **School Crest 校徽**
-![](/images/RSS%20School%20Logo%202015.jpeg)
+
+<img src="/images/RSS%20School%20Logo%202015.jpeg" 
+     style="width:35%">
+
 
 **School Motto 校训**
-![](/images/school%20motto%201.png)
+
+<img src="/images/school%20motto%201.png" 
+     style="width:45%">
+
 
 **School Vision 学校愿景**
 
@@ -19,4 +25,6 @@ Caring Community, Innovative Leaders
 To nurture Joyful Learners with Exemplary Character through a Caring Culture
 
 **School Values 价值观**
-![](/images/school%20values.png)
+
+<img src="/images/school%20values.png" 
+     style="width:85%">
