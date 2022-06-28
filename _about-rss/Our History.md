@@ -23,6 +23,7 @@ During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Prin
 | ![principal 6](/images/Mrs%20Jenny-Leong-small.jpeg)     | In 2011, Mrs Jenny Leong became the sixth Principal of the school. She was the first female Principal in the history of Red Swastika School. The school continued to thrive and sustain its academic and holistic excellence under her leadership. Under her leadership, student character development was emphasized through the Three Littles - Little Friend, Little Master and Little Teacher. In 2014, the school established the Learning for Life Programme (LLP) - Every RSS Student A Leader and in 2018, the Applied Learning Programme (ALP) - Tinkers to Thinkers (T2T). To retain the SAP school ethos and develop bilingual communicators and bi-cultural citizens, the school developed a SAP Flagship Programme providing three levels of development for the students. Mrs Leong’s strong belief in holistic education has also transformed the Physical Education and Aesthetics landscape of the school into an integral part of the student education. During her tenure, the school underwent the Primary Education Review and Implementation (PERl) upgrading.   |
 
 
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -31,10 +32,10 @@ During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Prin
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 507px">
+<table class="tg" style="undefined;table-layout: fixed; width: 716px">
 <colgroup>
-<col style="width: 105px">
-<col style="width: 402px">
+<col style="width: 125px">
+<col style="width: 591px">
 </colgroup>
 <tbody>
   <tr>
