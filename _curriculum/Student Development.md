@@ -52,7 +52,7 @@ We believe that teachers play a significant role as trusted adults whom students
 The school adopts a positive discipline approach that involves catching students doing right and leveraging reflective practice to help students take responsibility for their actions. To help students take responsibility for their actions, students are taught that their actions carry consequences. Anchored on a reflective approach, students face consequences that are based on the 3Rs (Restitution, Reconciliation, Resolution). Reflection questions are framed using the Three Littles as part of the school’s unique approach to character development.
 
 <img src="/images/Our%20Positive%20Discipline%20Approach.png" 
-     style="width:45%">
+     style="width:55%">
 
 **Parents Engagement**
 
