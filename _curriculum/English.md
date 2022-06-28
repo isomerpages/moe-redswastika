@@ -125,9 +125,8 @@ STELLAR (Strategies for English Language Learning and Reading) aims to foster a 
 
 The LSP (Primary 1 & Primary 2), RRP (Primary 3 & Primary 4) and SDR (Primary 3 & Primary 4) are literacy support programmes that cater to the needs of struggling readers. The lessons are conducted by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors who provide remediation in reading, using comprehensive teaching packages developed by the Reading Unit of EL Curriculum Planning and Development Division.
 
-![](/images/word%20games.png)
-<img src="/images/pick%20tell.png" 
-     style="width:85%">
+<img src="/images/word%20games.png" 
+     style="width:75%">
 
 
 <br>
