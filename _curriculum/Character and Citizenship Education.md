@@ -46,12 +46,12 @@ As values are closely related to language and culture, Mother Tongue Language te
 <col style="width: 411px">
 <col style="width: 427px">
 </colgroup>
-<thead>
+<tbody>
   <tr>
     <td class="tg-1zpo"><img src="/images/NE.jpeg" alt="NE.jpg" width="394" height="269"></td>
     <td class="tg-1zpo">RSS commemorates four NE Commemorative Days every year – Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. These events provide opportunities for students to deepen their appreciation of our shared past and Singapore’s current realities, and foster a sense of hope and belonging to Singapore. The learning of school values exemplified by the Three Littles is intentionally weaved into the events for reinforcement. In addition, the school also brings in the discussion of contemporary issues to deepen students’ knowledge of current affairs.</td>
   </tr>
-</thead>
+</tbody>
 </table>
  
 **Values in Action (VIA)**
