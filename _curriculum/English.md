@@ -40,7 +40,7 @@ The P3 & P4 students perform a Readers’ Theatre for their teachers and classma
 Students are progressively guided from P1 to P6 to develop their reading and conversational skills. The consolidation and application of learning culminates in P5 and P6 where students learn to engage their audience through i) accurate, fluent and expressive reading; and ii) well-developed and interesting contents.
 
 <img src="/images/assembly%20talk.png" 
-     style="width:75%">
+     style="width:65%">
 
 
 <br>
