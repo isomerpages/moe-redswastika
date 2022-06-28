@@ -28,11 +28,16 @@ description: ""
 
  卍帜飘扬七十载， 母语双周更精彩！愿每位卍慈人都怀着感恩的心，回馈母校，回报社会！
  
- ![](/images/chinese%201.png)
- ![](/images/chinese%202.png)
- ![](/images/chinese%203.png)
- ![](/images/chinese%204.png)
- 
+ <img src="/images/chinese%201.png" 
+     style="width:65%">
+<img src="/images/chinese%202.png" 
+     style="width:65%">
+<img src="/images/chinese%203.png" 
+     style="width:65%">
+<img src="/images/chinese%204.png" 
+     style="width:65%">
+
+
 **华文阅读计划**
 
 华文部老师精心设计了校内阅读计划，旨在让学生有机会接触不同种类的华文读物，培养阅读华文读物的习惯。通过有趣的阅读活动，学生能爱上阅读，爱上华文。
