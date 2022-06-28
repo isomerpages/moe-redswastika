@@ -27,7 +27,7 @@ This activity extends the learning gleaned by the students when they were in P1.
 
 
 <img src="/images/pick%20tell.png" 
-     style="width:85%">
+     style="width:75%">
 
 
 **Primary 3 & Primary 4: Readers’ Theatre**
