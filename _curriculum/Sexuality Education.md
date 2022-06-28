@@ -83,7 +83,7 @@ Primary 5</strong></center>
   <tr>
     <td>Where I Belong</td>
     <td>What Are Families?<br>(30 min)</td>
-    <td>• know that there are different types of family structures<br>• know that every family is unique<br>• state that the three basic functions of families are to provide love, protection and guidance<br>identify the right sources of help to turn to when in need</td>
+    <td>• know that there are different types of family structures<br>• know that every family is unique<br>• state that the three basic functions of families are to provide love, protection and guidance<br>• identify the right sources of help to turn to when in need</td>
     <td>Term 3 Week 2<br></td>
   </tr>
   <tr>
