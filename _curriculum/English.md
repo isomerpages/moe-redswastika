@@ -37,7 +37,10 @@ Students are progressively guided from P1 to P6 to develop their reading and con
 
 ![](/images/assembly%20talk.png)
 
-# Writing Programmes
+
+<br>
+
+> Writing Programmes
 
 **Use of Mentor Texts**
 
@@ -62,7 +65,10 @@ From Primary 3 to Primary 6, the students are engaged in process writing where e
 
 ![](/images/books.png)
 
-# Reading Programmes
+<br>
+
+
+> Reading Programmes
 
 **EL/CL Reading Programme**
 
@@ -82,7 +88,10 @@ Through the above activities, RSS students discover the joy of reading and open 
 
 ![](/images/author%20talks.png)
 
-# MOE Programmes
+
+<br>
+
+> MOE Programmes
 
 **STELLAR Programme**
 
@@ -103,7 +112,10 @@ The LSP (Primary 1 & Primary 2), RRP (Primary 3 & Primary 4) and SDR (Primary 3 
 
 ![](/images/word%20games.png)
 
-# Useful links
+
+<br>
+
+>  Useful links
 * [Strategies for English Language Learning and Reading (STELLAR)](https://www.schoolbag.edu.sg/story/the-stellar-way-to-english-language-learning)
 * [Learning Support Programme](https://www.schoolbag.edu.sg/story/learning-support-for-pupils-struggling-with-english-literacy)
 * [School-based Dyslexia Remediation (SDR)](https://www.schoolbag.edu.sg/story/school-based-dyslexia-remediation-(sdr)-programme)
