@@ -18,7 +18,7 @@ In promoting the culture of care, we:
 The Student Development Team anchors its efforts on the ‘Three Littles’ to concretise the desired values, personal qualities and behavioral outcomes for our students.
 
 <img src="/images/Icon.png" 
-     style="width:25%">
+     style="width:30%">
 
 The following learning platforms and support structures are used:
 
