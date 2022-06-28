@@ -176,7 +176,7 @@ Parents may opt their children out of Sexuality Education lessons, and/or supple
 Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Updated%202022%20Parent%20Opt%20out%20form.pdf). The completed opt-out form is to be submitted by 24/01/2022.
 
 10.
-Parents can contact the school at 6443 0380 or email pear_siew_hoon@schools.gov.sg for discussion or to seek clarification about the school’s sexuality education programme.
+Parents can contact the school at 6443 0380 or email [pear\_siew\_hoon@schools.gov.sg](mailto:pear_siew_hoon@schools.gov.sg) for discussion or to seek clarification about the school’s sexuality education programme.
 
 11.
 Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements.
