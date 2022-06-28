@@ -7,13 +7,10 @@ description: ""
 
 Programme for Active Learning (PAL) is an integral part of the CCE curriculum for Primary 1 and 2 students. PAL offers learning experiences that are hands-on and experiential through the exposure to the 4 PAL domains:
 
-Sports and Games
-
-Outdoor Education
-
-Performing Arts
-
-Visual Arts
+* Sports and Games
+* Outdoor Education
+* Performing Arts
+* Visual Arts
 
 PAL provides opportunities for students to develop their character and enables them to cultivate social-emotional competencies. To achieve the learning outcomes of PAL, the learning experiences in the PAL modules are carefully curated to include the following characteristics:
 
