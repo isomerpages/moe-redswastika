@@ -7,7 +7,7 @@ RSS Parent Support Group (PSG) was set up in March 2015. We have since grown in 
 
 For more information, please visit our official facebook page (@RSSPSG).
 
-We invite all parents who are interested to be part of the RSS PSG family to drop us an email at rsspsg@gmail.com.
+We invite all parents who are interested to be part of the RSS PSG family to drop us an email at [rsspsg@gmail.com](mailto:rsspsg@gmail.com).
 
 Yours sincerely,
 <br>Cheng Ying Ling (Ms)
