@@ -94,7 +94,7 @@ This programme, as a part of the STELLAR Programme (as shown under MOE Programme
 Through the above activities, RSS students discover the joy of reading and open themselves up to a world beyond their imagination.
 
 
-<img src="images/author%20talks.png" 
+<img src="/images/author%20talks.png" 
      style="width:75%">
 
 
