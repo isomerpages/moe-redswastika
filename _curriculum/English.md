@@ -27,7 +27,7 @@ This activity extends the learning gleaned by the students when they were in P1.
 
 
 <img src="/images/pick%20tell.png" 
-     style="width:75%">
+     style="width:65%">
 
 
 **Primary 3 & Primary 4: Readers’ Theatre**
@@ -70,7 +70,7 @@ From Primary 3 to Primary 6, the students are engaged in process writing where e
 
 
 <img src="/images/books.png" 
-     style="width:75%">
+     style="width:65%">
 
 <br>
 
@@ -95,7 +95,7 @@ Through the above activities, RSS students discover the joy of reading and open 
 
 
 <img src="/images/author%20talks.png" 
-     style="width:75%">
+     style="width:65%">
 
 
 <br>
@@ -114,19 +114,19 @@ STELLAR (Strategies for English Language Learning and Reading) aims to foster a 
 **The Upper Primary STELLAR comprises of the following strategies:**
 
 <img src="/images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png" 
-     style="width:75%">
+     style="width:65%">
 
 <img src="/images/chinese%20opera.png" 
-     style="width:85%">
+     style="width:65%">
 <img src="/images/wishy%20washy.png" 
-     style="width:85%">
+     style="width:65%">
 
 **Learning Support Programme (LSP), Reading Remediation Programme (RRP) and School-based Dyslexia Remediation (SDR)**
 
 The LSP (Primary 1 & Primary 2), RRP (Primary 3 & Primary 4) and SDR (Primary 3 & Primary 4) are literacy support programmes that cater to the needs of struggling readers. The lessons are conducted by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors who provide remediation in reading, using comprehensive teaching packages developed by the Reading Unit of EL Curriculum Planning and Development Division.
 
 <img src="/images/word%20games.png" 
-     style="width:75%">
+     style="width:65%">
 
 
 <br>
