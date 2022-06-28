@@ -135,9 +135,8 @@ Primary 5</strong></center>
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
-.tg .tg-06je{background-color:#FFF;color:#484848;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-096r{color:#000000;text-align:left;vertical-align:top}
+.tg .tg-f8tx{color:#000000;text-align:center;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 727px">
 <colgroup>
@@ -148,52 +147,52 @@ Primary 5</strong></center>
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-06je">UNIT</td>
-    <td class="tg-06je">LESSONS / DURATION</td>
-    <td class="tg-06je">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</td>
-    <td class="tg-06je">TIME PERIOD<br></td>
+    <td class="tg-f8tx">UNIT</td>
+    <td class="tg-f8tx">LESSONS / DURATION</td>
+    <td class="tg-f8tx">Lesson Objectives<br>At the end of the lesson, pupils will be able to:</td>
+    <td class="tg-f8tx">TIME PERIOD<br></td>
   </tr>
   <tr>
-    <td class="tg-06je" rowspan="5">Are We More Than Friends?<br></td>
-    <td class="tg-ogew">Who Are My Friends?<br>(30 min)</td>
-    <td class="tg-06je">• identify the qualities of a healthy friendship<br>• recognise the importance of making wise choices in friendship</td>
-    <td class="tg-06je">Term 1 Week 4<br></td>
+    <td class="tg-096r" rowspan="5">Are We More Than Friends?<br></td>
+    <td class="tg-f8tx">Who Are My Friends?<br>(30 min)</td>
+    <td class="tg-096r">• identify the qualities of a healthy friendship<br>• recognise the importance of making wise choices in friendship</td>
+    <td class="tg-096r">Term 1 Week 4<br></td>
   </tr>
   <tr>
-    <td class="tg-ogew">Am I A Good Friend?<br>(30 min)</td>
-    <td class="tg-06je">• identify the qualities that they have as a friend<br>• recognise the importance of developing in oneself the qualities of a good friend</td>
-    <td class="tg-06je">Term 1 Week 4<br></td>
+    <td class="tg-f8tx">Am I A Good Friend?<br>(30 min)</td>
+    <td class="tg-096r">• identify the qualities that they have as a friend<br>• recognise the importance of developing in oneself the qualities of a good friend</td>
+    <td class="tg-096r">Term 1 Week 4<br></td>
   </tr>
   <tr>
-    <td class="tg-ogew">What is Love?<br>(30 min)</td>
-    <td class="tg-06je">• identify the characteristics of love and infatuation<br>• distinguish between the characteristics of love versus infatuation<br>• identify strong feelings arising from infatuation</td>
-    <td class="tg-06je">Term 2 Week 5<br></td>
+    <td class="tg-f8tx">What is Love?<br>(30 min)</td>
+    <td class="tg-096r">• identify the characteristics of love and infatuation<br>• distinguish between the characteristics of love versus infatuation<br>• identify strong feelings arising from infatuation</td>
+    <td class="tg-096r">Term 2 Week 5<br></td>
   </tr>
   <tr>
-    <td class="tg-ogew">Am I Falling In Love?<br>(30 min)</td>
-    <td class="tg-06je">• manage strong feelings arising from infatuation<br>• identify ways to manage and cope with teasing from peers</td>
-    <td class="tg-06je">Term 2 Week 5<br></td>
+    <td class="tg-f8tx">Am I Falling In Love?<br>(30 min)</td>
+    <td class="tg-096r">• manage strong feelings arising from infatuation<br>• identify ways to manage and cope with teasing from peers</td>
+    <td class="tg-096r">Term 2 Week 5<br></td>
   </tr>
   <tr>
-    <td class="tg-ogew">Main Task<br>(30 min)</td>
-    <td class="tg-06je">Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
-    <td class="tg-06je">Term 3 Week 1<br></td>
+    <td class="tg-f8tx">Main Task<br>(30 min)</td>
+    <td class="tg-096r">Description of the Main Task:<br>Pupils are to play the role of a game designer who wants to create a board game to help pupils of their age learn more about the Big Idea of Relationships, specifically on family, friendships, love and infatuation. They will consider the issues that their peers would face and craft questions and answers that they believe their peers would benefit most from knowing.</td>
+    <td class="tg-096r">Term 3 Week 1<br></td>
   </tr>
   <tr>
-    <td class="tg-06je" rowspan="3">Friends or Foes?<br></td>
-    <td class="tg-ogew">Are You Really My Friend?<br>(30 min)</td>
-    <td class="tg-06je">• identify the pros and cons of forming relationships through social networking websites<br>• know ways to keep themselves safe when using social networking websites</td>
-    <td class="tg-06je">Term 3 Week 1<br></td>
+    <td class="tg-096r" rowspan="3">Friends or Foes?<br></td>
+    <td class="tg-f8tx">Are You Really My Friend?<br>(30 min)</td>
+    <td class="tg-096r">• identify the pros and cons of forming relationships through social networking websites<br>• know ways to keep themselves safe when using social networking websites</td>
+    <td class="tg-096r">Term 3 Week 1<br></td>
   </tr>
   <tr>
-    <td class="tg-ogew">Is It All Safe?<br>(30 min)</td>
-    <td class="tg-06je">• know that some information (like pornography) received through the Internet may be harmful<br>• know ways to keep themselves safe when using social networking websites or the Internet</td>
-    <td class="tg-06je">Term 4 Week 7<br></td>
+    <td class="tg-f8tx">Is It All Safe?<br>(30 min)</td>
+    <td class="tg-096r">• know that some information (like pornography) received through the Internet may be harmful<br>• know ways to keep themselves safe when using social networking websites or the Internet</td>
+    <td class="tg-096r">Term 4 Week 7<br></td>
   </tr>
   <tr>
-    <td class="tg-ogew">Main Task<br>(30 min)</td>
-    <td class="tg-06je">Description of the Main Task:<br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-f8tx">Main Task<br>(30 min)</td>
+    <td class="tg-096r">Description of the Main Task:<br>Pupils are to apply their understanding of Safety in a variety of scenarios where the main character could be in a precarious situation. They will consider the situation from the point of view of the main character, discuss what they think and feel about the situation and what they will do or say to ensure their safety. These scenarios will provide pupils with the opportunity to demonstrate their understanding of Safety and that safety is a right and a responsibility.</td>
+    <td class="tg-096r"></td>
   </tr>
 </tbody>
 </table>
