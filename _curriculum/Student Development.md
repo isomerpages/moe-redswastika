@@ -44,9 +44,8 @@ The 2-Tier Student Peer Supporters Programme aims to develop positive social ski
 
 We believe that teachers play a significant role as trusted adults whom students can turn to for guidance. Hence, the school has put in place multiple avenues to help teachers establish rapport with our students. Through these avenues, teachers build positive teacher–student relationships (TSR) which would lead to positive student outcomes in terms of their learning, relationship management as well as their well-being.
 
-![](/images/Positive%20Teacher-student%20Relationships.png)
-<img src="/images/Icon.png" 
-     style="width:30%">
+<img src="/images/Positive%20Teacher-student%20Relationships.png" 
+     style="width:55%">
 
 **Our Positive Discipline Approach**
 
