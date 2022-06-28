@@ -36,7 +36,7 @@ During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Prin
     <td>In 1982, Mr Wong Sin Eng became the second Principal of the school. He continued to expand the infrastructure and develop other programmes to meet the demands of the evolving educational curriculum. Good progress was seen over the years and that led to the school being selected as one of the six primary schools to pilot the use of both Chinese and English as the main medium of instruction in 1987. In 1990, it became a Special Assistance Plan (SAP) School.</td>
   </tr>
   <tr>
-    <td><img src="https://redswastika.moe.edu.sg/qql/slot/u530/2021/About%20RSS/Our%20History/former_chia_tai_ching.jpg" alt="former_chia_tai_ching.jpg"></td>
+    <td><img src="/images/former_chuang_shih_le.jpeg" alt="former_chia_tai_ching.jpg"></td>
     <td>When Mr Wong Sin Eng retired in 1994, Mr Chia Tai Ching took over. A new three-storey extension building was completed in 1997, with a large hall, a three-storey building, a resource library, advance computer laboratories and a comfortable staff room. While maintaining academic excellence, the school strengthened the development of good character in students and also promoted the use of Information Technology in teaching and learning. As the school population grew, the school recognised the need to improve communication with parents and also to strengthen ties with former students. This led to the formation of the RSS Parent-Teacher Association in 1997 and the Alumni Association in 1998.</td>
   </tr>
   <tr>
