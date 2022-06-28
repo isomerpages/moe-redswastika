@@ -64,23 +64,25 @@ To promote collaborative home-school partnership, we organise the following enga
   padding:10px 5px;word-break:normal;}
 .tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-na62{font-size:18px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-axmw{font-size:18px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-ewmv{font-size:18px;text-align:left;vertical-align:middle}
+.tg .tg-pe1m{font-size:18px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-nx8p{font-size:18px;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <tbody>
   <tr>
-    <td class="tg-wa1i">Engagement Session</td>
-    <td class="tg-wa1i">Focus</td>
+    <td class="tg-axmw">Engagement Session</td>
+    <td class="tg-axmw">Focus</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Parent Conference</td>
-    <td class="tg-0lax">• Getting to know the Form Teachers<br>• Sharing on Curriculum Matters</td>
+    <td class="tg-na62">Parent Conference</td>
+    <td class="tg-ewmv">Getting to know the Form Teachers<br>Sharing on Curriculum Matters</td>
   </tr>
   <tr>
-    <td class="tg-1wig">Parent-Child-Teacher Conference</td>
-    <td class="tg-0lax">• Sharing on student’s holistic development</td>
+    <td class="tg-pe1m">Parent-Child-Teacher Conference</td>
+    <td class="tg-nx8p">Sharing on student’s holistic development</td>
   </tr>
 </tbody>
 </table>
