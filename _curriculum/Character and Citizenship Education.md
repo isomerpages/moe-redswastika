@@ -56,21 +56,53 @@ As values are closely related to language and culture, Mother Tongue Language te
  
 **Values in Action (VIA)**
 
-![](/images/VIA.jpeg)
-<img src="/images/principal.jpg" 
-     style="width:25%">
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 835px">
+<colgroup>
+<col style="width: 424px">
+<col style="width: 411px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1zpo">VIAs are learning experiences that support our students’ development to becoming socially responsible citizens who can contribute meaningfully to the school and community. RSS students in the lower primary (P1 and P2) start their service journey from home by assisting family members with household chores. They continue to extend their services to school through structured platforms to keep the school environment clean. Students in the middle primary (P3 and P4) show their appreciation to different groups of stakeholders who have supported them in school while students in the upper primary (P5 and P6) offer their services to the community - packing and sending gift packs to the needy around the community, taking part in donation drives.</td>
+    <td class="tg-1zpo"><img src="/images/VIA.jpeg" alt="VIA.jpg" width="394" height="307"></td>
+  </tr>
+</tbody>
+</table>
 
-VIAs are learning experiences that support our students’ development to becoming socially responsible citizens who can contribute meaningfully to the school and community. RSS students in the lower primary (P1 and P2) start their service journey from home by assisting family members with household chores. They continue to extend their services to school through structured platforms to keep the school environment clean. Students in the middle primary (P3 and P4) show their appreciation to different groups of stakeholders who have supported them in school while students in the upper primary (P5 and P6) offer their services to the community - packing and sending gift packs to the needy around the community, taking part in donation drives.
 
 **Learning For Life (LLP) Character Lessons**
 
-![](/images/LLP.png)
-<img src="/images/principal.jpg" 
-     style="width:25%">
 
 
-Teachers design and deliver the LLP Character lessons with intentionality. Adopting the spiral approach, students are taught the school vision, mission and values gradually and repeatedly, reinforcing the learning over time. Each lesson delivers rich content through various pedagogical approaches that are developmentally appropriate and engage students cognitively and affectively. To develop our students as reflective learners, they are given the opportunity to reflect on their learning at the end of every lesson.
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 840px">
+<colgroup>
+<col style="width: 428px">
+<col style="width: 412px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1zpo"><img src="/images/LLP.png" alt="LLP.PNG" width="394" height="261"></td>
+    <td class="tg-1zpo">Teachers design and deliver the LLP Character lessons with intentionality. Adopting the spiral approach, students are taught the school vision, mission and values gradually and repeatedly, reinforcing the learning over time. Each lesson delivers rich content through various pedagogical approaches that are developmentally appropriate and engage students cognitively and affectively. To develop our students as reflective learners, they are given the opportunity to reflect on their learning at the end of every lesson.</td>
+  </tr>
+</tbody>
+</table>
 
 
 **Cyber Wellness (CW)**
