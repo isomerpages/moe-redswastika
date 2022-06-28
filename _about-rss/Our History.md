@@ -26,11 +26,9 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 </colgroup>
 <tbody>
   <tr>
-    <th class="tg-iksn"><img src="/images/former_chuang_shih_le.jpeg" alt="former_chuang_shih_le.jpg"></th>
-    <th class="tg-iksn">During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Principal, transformed the school from a wooden single-storey building, with six classrooms at Somapah Road, into a well-equipped school with modern facilities at the present site at Bedok North Avenue 3 in 1981.</th>
+    <td class="tg-iksn"><img src="/images/former_chuang_shih_le.jpeg" alt="former_chuang_shih_le.jpg"></td>
+    <td class="tg-iksn">During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Principal, transformed the school from a wooden single-storey building, with six classrooms at Somapah Road, into a well-equipped school with modern facilities at the present site at Bedok North Avenue 3 in 1981.</td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td class="tg-iksn"><img src="/images/former_wong_sin_eng.jpeg" alt="former_wong_sin_eng.jpg"></td>
     <td class="tg-iksn">In 1982, Mr Wong Sin Eng became the second Principal of the school. He continued to expand the infrastructure and develop other programmes to meet the demands of the evolving educational curriculum. Good progress was seen over the years and that led to the school being selected as one of the six primary schools to pilot the use of both Chinese and English as the main medium of instruction in 1987. In 1990, it became a Special Assistance Plan (SAP) School.</td>
