@@ -13,11 +13,11 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 
 
 (/images/former_chuang_shih_le.jpeg) 
-| ![principal 2](/images/former_wong_sin_eng.jpeg)    
-| ![principal 3](/images/former_chia_tai_ching.jpeg)   
-| ![principal 4](/images/former_ong_kian_hin.jpeg)     
-| ![principal 5](/images/chua_ying_hwee.jpeg)   
-| ![principal 6](/images/Mrs%20Jenny-Leong-small.jpeg) 
+(/images/former_wong_sin_eng.jpeg)    
+(/images/former_chia_tai_ching.jpeg)   
+(/images/former_ong_kian_hin.jpeg)     
+(/images/chua_ying_hwee.jpeg)   
+(/images/Mrs%20Jenny-Leong-small.jpeg) 
 
 
 <style type="text/css">
@@ -35,29 +35,29 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-iksn"><img src="https://redswastika.moe.edu.sg/qql/slot/u530/2021/About%20RSS/Our%20History/former_chuang_shih_le.jpg" alt="former_chuang_shih_le.jpg"></th>
+    <th class="tg-iksn"><img src="/images/former_chuang_shih_le.jpeg" alt="former_chuang_shih_le.jpg"></th>
     <th class="tg-iksn">During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Principal, transformed the school from a wooden single-storey building, with six classrooms at Somapah Road, into a well-equipped school with modern facilities at the present site at Bedok North Avenue 3 in 1981.</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-iksn"><img src="https://redswastika.moe.edu.sg/qql/slot/u530/2021/About%20RSS/Our%20History/former_wong_sin_eng.jpg" alt="former_wong_sin_eng.jpg"></td>
+    <td class="tg-iksn"><img src="/images/former_wong_sin_eng.jpeg" alt="former_wong_sin_eng.jpg"></td>
     <td class="tg-iksn">In 1982, Mr Wong Sin Eng became the second Principal of the school. He continued to expand the infrastructure and develop other programmes to meet the demands of the evolving educational curriculum. Good progress was seen over the years and that led to the school being selected as one of the six primary schools to pilot the use of both Chinese and English as the main medium of instruction in 1987. In 1990, it became a Special Assistance Plan (SAP) School.</td>
   </tr>
   <tr>
-    <td class="tg-iksn"><img src="https://redswastika.moe.edu.sg/qql/slot/u530/2021/About%20RSS/Our%20History/former_chia_tai_ching.jpg" alt="former_chia_tai_ching.jpg"></td>
+    <td class="tg-iksn"><img src="/images/former_chia_tai_ching.jpeg" alt="former_chia_tai_ching.jpg"></td>
     <td class="tg-iksn">When Mr Wong Sin Eng retired in 1994, Mr Chia Tai Ching took over. A new three-storey extension building was completed in 1997, with a large hall, a three-storey building, a resource library, advance computer laboratories and a comfortable staff room. While maintaining academic excellence, the school strengthened the development of good character in students and also promoted the use of Information Technology in teaching and learning. As the school population grew, the school recognised the need to improve communication with parents and also to strengthen ties with former students. This led to the formation of the RSS Parent-Teacher Association in 1997 and the Alumni Association in 1998.</td>
   </tr>
   <tr>
-    <td class="tg-iksn"><img src="https://redswastika.moe.edu.sg/qql/slot/u530/2021/About%20RSS/Our%20History/former_ong_kian_hin.jpg" alt="former_ong_kian_hin.jpg"></td>
+    <td class="tg-iksn"><img src="/images/former_ong_kian_hin.jpeg" alt="former_ong_kian_hin.jpg"></td>
     <td class="tg-iksn">Mr Chia retired in Dec 2001 and was succeeded by Mr Ong Kian Hin in 2002. The school increased its Co-Curricular Activities (CCAs) to provide more platforms for holistic student development. The school underwent further infrastructural development and the restructured school building was officially opened in Aug 2007 before Mr Ong retired in Dec 2007. That year, the school also achieved 3 Sustained Achievement Awards in the areas of Physical Fitness, Sports and Aesthetics.</td>
   </tr>
   <tr>
-    <td class="tg-iksn"><img src="https://redswastika.moe.edu.sg/qql/slot/u530/2021/About%20RSS/Our%20History/chua_ying_hwee.jpg" alt="chua_ying_hwee.jpg"></td>
+    <td class="tg-iksn"><img src="/images/chua_ying_hwee.jpeg" alt="chua_ying_hwee.jpg"></td>
     <td class="tg-iksn">In January 2008, Mr Chua Ying Hwee took over as the school’s fifth Principal. The school had since set up partnerships with schools from five cities of China. The school continued to achieve its 3 Sustained Achievement Awards in Physical Fitness, Sports and Aesthetics. The school management team geared itself up to take the school, its staff and its students forward to meet the challenges of the 21st century.</td>
   </tr>
   <tr>
-    <td class="tg-iksn"><img src="https://redswastika.moe.edu.sg/qql/slot/u530/2021/About%20RSS/Our%20History/Mrs%20Jenny-Leong-small.jpg" alt="Mrs Jenny-Leong-small.jpg" width="100" height="131"></td>
+    <td class="tg-iksn"><img src="/images/Mrs%20Jenny-Leong-small.jpeg" alt="Mrs Jenny-Leong-small.jpg" width="100" height="131"></td>
     <td class="tg-iksn">In 2011, Mrs Jenny Leong became the sixth Principal of the school. She was the first female Principal in the history of Red Swastika School. The school continued to thrive and sustain its academic and holistic excellence under her leadership. Under her leadership, student character development was emphasized through the Three Littles - Little Friend, Little Master and Little Teacher. In 2014, the school established the Learning for Life Programme (LLP) - Every RSS Student A Leader and in 2018, the Applied Learning Programme (ALP) - Tinkers to Thinkers (T2T). To retain the SAP school ethos and develop bilingual communicators and bi-cultural citizens, the school developed a SAP Flagship Programme providing three levels of development for the students. Mrs Leong’s strong belief in holistic education has also transformed the Physical Education and Aesthetics landscape of the school into an integral part of the student education. During her tenure, the school underwent the Primary Education Review and Implementation (PERl) upgrading.</td>
   </tr>
 </tbody>
