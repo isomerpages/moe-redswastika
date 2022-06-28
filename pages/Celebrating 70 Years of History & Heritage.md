@@ -26,9 +26,10 @@ To celebrate this momentous milestone of our growth, the school has lined up a s
 
 This birthday celebration will not be complete without telling a story about our people and the journey we have travelled. We are producing a commemorative book, yes, a Coffee-table book that will tell a warm story about our RSS family history, quests and dreams. This ‘family storybook’ is about our beliefs, defining moments, special people, memorable spaces, progress and achievements, everything that defines our growth from the beginning at Somapah Road to now, where we are, at Bedok North Street 3.
 
-![](/images/Our%20Family%20Storybook.png)
+<img src="/images/Our%20Family%20Storybook.png" 
+     style="width:90%">
 
-[Read our family story book here!](https://redswastika-moe-edu-sg-admin.cwp.sg/qql/slot/u530/Flipping%20Book/RSS%2070th%20Ann%20Magazine.html)
+<a href="https://redswastika.moe.edu.sg/qql/slot/u530/Flipping%20Book/RSS%2070th%20Ann%20Magazine.html" target="_blank" rel="noopener"><strong><u>Read our family story book here!</u></strong></a>
 
 **Our Vision Wall**
 
