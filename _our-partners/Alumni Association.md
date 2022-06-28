@@ -9,7 +9,7 @@ The association aims to promote friendship and foster camaraderie amongst alumni
 
 Alumni who are interested to join RSSAA may download the [RSSAA Application Form](https://bit.ly/3FhoDB7) and submit it via email.
 
-RSSAA also welcomes your constructive feedback, suggestions and support. Please contact us at our official email: redswastikaalumni@gmail.com.
+RSSAA also welcomes your constructive feedback, suggestions and support. Please contact us at our official email: [redswastikaalumni@gmail.com](mailto:redswastikaalumni@gmail.com).
 
 For updates on RSSAA’s past and upcoming activities, please refer to our official Facebook page @ RSSAlumni
 
