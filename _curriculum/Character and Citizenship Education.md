@@ -120,9 +120,23 @@ Sexuality Education lessons are conducted for students at Primary 5 and 6. In SE
 
 **RSS Character Affirmation Programme**
 
-![](/images/RSS.png)
-<img src="/images/principal.jpg" 
-     style="width:25%">
-
-
-Our Character Affirmation Programme provides feedback to students on their character growth. It encourages our students to demonstrate the characteristics of the Three Littles. The school has put in place a student recognition structure which includes a 3-tiered Character Awards. Role models of the Three Littles from each class are nominated via the termly Class Affirmation Periods.
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 840px">
+<colgroup>
+<col style="width: 411px">
+<col style="width: 429px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-1zpo">Our Character Affirmation Programme provides feedback to students on their character growth. It encourages our students to demonstrate the characteristics of the Three Littles. The school has put in place a student recognition structure which includes a 3-tiered Character Awards. Role models of the Three Littles from each class are nominated via the termly Class Affirmation Periods.</td>
+    <td class="tg-1zpo"><img src="/images/RSS.png" alt="RSS.PNG" width="394" height="290"></td>
+  </tr>
+</tbody>
+</table>
