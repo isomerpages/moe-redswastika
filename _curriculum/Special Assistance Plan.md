@@ -20,7 +20,7 @@ We aim to:
 **Our Key Programmes/Activities重点项目**
 
 <img src="/images/Chinese%20Culture%20Programme.png" 
-     style="width:45%">
+     style="width:35%">
 
 **Chinese Culture Programme 中华文化课程**
 
