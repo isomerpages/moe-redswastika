@@ -44,7 +44,7 @@ Financial assistance scheme is available to ensure that no child is left behind 
 </tbody>
 </table>
 
-*Per Capita Income is the Gross Household Income divided by the number of household members which include the student, his parents, unmarried siblings and grandparents.*
+**Per Capita Income is the Gross Household Income divided by the number of household members which include the student, his parents, unmarried siblings and grandparents.*
 
 **NEU PC Plus Programme**
 
