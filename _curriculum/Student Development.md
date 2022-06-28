@@ -76,11 +76,11 @@ To promote collaborative home-school partnership, we organise the following enga
   </tr>
   <tr>
     <td class="tg-1wig">Parent Conference</td>
-    <td class="tg-0lax">Getting to know the Form Teachers<br>Sharing on Curriculum Matters</td>
+    <td class="tg-0lax">• Getting to know the Form Teachers<br>• Sharing on Curriculum Matters</td>
   </tr>
   <tr>
     <td class="tg-1wig">Parent-Child-Teacher Conference</td>
-    <td class="tg-0lax">Sharing on student’s holistic development</td>
+    <td class="tg-0lax">• Sharing on student’s holistic development</td>
   </tr>
 </tbody>
 </table>
