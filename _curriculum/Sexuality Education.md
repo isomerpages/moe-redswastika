@@ -115,10 +115,10 @@ Primary 5</strong></center>
 .tg .tg-untc{background-color:#ffffff;color:#000000;font-size:16px;text-align:center;vertical-align:top}
 .tg .tg-88pu{background-color:#ffffff;color:#000000;font-size:16px;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 726px">
+<table class="tg" style="undefined;table-layout: fixed; width: 724px">
 <colgroup>
-<col style="width: 159px">
-<col style="width: 180px">
+<col style="width: 135px">
+<col style="width: 202px">
 <col style="width: 273px">
 <col style="width: 114px">
 </colgroup>
@@ -131,45 +131,45 @@ Primary 5</strong></center>
   </tr>
   <tr>
     <td class="tg-88pu" rowspan="4">Gosh! I Am Changing</td>
-    <td class="tg-88pu">What Is Happening To Me?<br>(30 min)</td>
+    <td class="tg-untc">What Is Happening To Me?<br>(30 min)</td>
     <td class="tg-88pu">• know what puberty is<br>• identify the physical changes during puberty</td>
     <td class="tg-88pu">Term 1 Week 9<br></td>
   </tr>
   <tr>
-    <td class="tg-88pu">What Can I Do? (Part 1)<br>(30 min)</td>
+    <td class="tg-untc">What Can I Do? (Part 1)<br>(30 min)</td>
     <td class="tg-88pu">• identify the stresses caused by physical and emotional changes during puberty<br>• describe healthy ways to manage the stresses caused by physical and emotional changes during puberty<br>• describe the emotions caused by physical changes during puberty<br>recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td class="tg-88pu">Term 1 Week 9<br></td>
   </tr>
   <tr>
-    <td class="tg-88pu">What Can I Do? (Part 2)<br>(30 min)</td>
+    <td class="tg-untc">What Can I Do? (Part 2)<br>(30 min)</td>
     <td class="tg-88pu">• identify the stresses caused by physical and emotional changes during puberty<br>• describe healthy ways to manage the stresses caused by these physical and emotional changes during puberty<br>• describe the emotions caused by physical changes during puberty<br>• recognise that one’s identity does not change even when one’s body is experiencing change due to puberty</td>
     <td class="tg-88pu">Term 2 Week 1<br></td>
   </tr>
   <tr>
-    <td class="tg-88pu">Main Task<br>(30 min)</td>
+    <td class="tg-untc">Main Task<br>(30 min)</td>
     <td class="tg-88pu">Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
     <td class="tg-88pu">Term 2 Week 1<br></td>
   </tr>
   <tr>
     <td class="tg-88pu">Where I Belong</td>
-    <td class="tg-88pu">What Are Families?<br>(30 min)</td>
+    <td class="tg-untc">What Are Families?<br>(30 min)</td>
     <td class="tg-88pu">• know that there are different types of family structures<br>• know that every family is unique<br>• state that the three basic functions of families are to provide love, protection and guidance<br>• identify the right sources of help to turn to when in need</td>
     <td class="tg-88pu">Term 3 Week 2<br></td>
   </tr>
   <tr>
     <td class="tg-88pu">Where I Belong</td>
-    <td class="tg-88pu">What is My Role?<br>(30 min)</td>
+    <td class="tg-untc">What is My Role?<br>(30 min)</td>
     <td class="tg-88pu">• know that gender is about being male or female<br>• choose not to stereotype by gender</td>
     <td class="tg-88pu">Term 3 Week 2<br></td>
   </tr>
   <tr>
     <td class="tg-88pu" rowspan="2">How Do I Keep Myself Safe?</td>
-    <td class="tg-88pu">What is Safety?<br>(30 min)</td>
+    <td class="tg-untc">What is Safety?<br>(30 min)</td>
     <td class="tg-88pu">• know what sexual abuse is<br>• know that there are laws in Singapore that can protect them from sexual abuse<br>• know their rights in keeping themselves safe from sexual abuse</td>
     <td class="tg-88pu">Term 4 Week 1<br></td>
   </tr>
   <tr>
-    <td class="tg-88pu">Stop It! Run! Tell!<br>(30 min)</td>
+    <td class="tg-untc">Stop It! Run! Tell!<br>(30 min)</td>
     <td class="tg-88pu">• protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>• know their responsibilities in minimising the risk of sexual harm</td>
     <td class="tg-88pu">Term 4 Week 1</td>
   </tr>
