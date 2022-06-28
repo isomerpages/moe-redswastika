@@ -36,8 +36,7 @@ As advised by Health Promotion Board, first aid kit should not contain oral medi
 
 
 * Insurance
-
-The school has bought insurance for all students. Parents do not need to pay for the insurance. A letter to inform you of the policy coverage and benefits will be issued to your child.
+>* The school has bought insurance for all students. Parents do not need to pay for the insurance. A letter to inform you of the policy coverage and benefits will be issued to your child.
 
 # School Security & Road Safety
 **School Security**
