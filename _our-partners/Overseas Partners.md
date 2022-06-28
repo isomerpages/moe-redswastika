@@ -40,7 +40,9 @@ Our school has established strong ties and collaborations with various overseas 
 <br>SJKC Foon Yew 1 Primary School
 <br>(Since 2018)
 
-![](/images/Overseas%20Partners.png)
+
+<img src="/images/Overseas%20Partners.png" 
+     style="width:60%">
 
 # Chinese Ambassadors-in-Residence (CLARs) 驻校中华文化大使
 
