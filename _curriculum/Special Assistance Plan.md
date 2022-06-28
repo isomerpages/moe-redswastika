@@ -18,7 +18,9 @@ We aim to:
 3. develop learners who have a global outlook.
 
 **Our Key Programmes/Activities重点项目**
-![](/images/Chinese%20Culture%20Programme.png)
+
+<img src="/images/Chinese%20Culture%20Programme.png" 
+     style="width:45%">
 
 **Chinese Culture Programme 中华文化课程**
 
@@ -46,6 +48,7 @@ The theme is ‘Life’ where students learn about Tea Appreciation, Traditional
 
  
 ![](/images/Overseas%20Cultural%20Immersion%20Programme.png)
+
 
 **Overseas Cultural Immersion Programme海外浸濡与文化交流活动**
 
