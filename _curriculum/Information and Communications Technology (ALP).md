@@ -15,7 +15,8 @@ Through well-designed programmes that encourage active participation and reflect
 
 This is the practice of teaching with technology for active learning that creates a participatory, connected and reflective classroom to nurture the future-ready learner. Guided by e-Pedagogy, our teachers design differentiated learning experiences that enhance student engagement, enable subject mastery and develop 21st Century Competencies in all students. Through the well-designed learning experiences, we also aim to develop self-directed learners who have the joy of learning and will learn for life.
 
-![](/images/Active%20learning%20processes%20with%20technology.png)
+<img src="/images/Active%20learning%20processes%20with%20technology.png" 
+     style="width:35%">
 
 **Applied Learning Programme (ALP) – Tinkers to Thinkers**
 
