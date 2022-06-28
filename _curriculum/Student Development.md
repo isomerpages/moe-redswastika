@@ -58,39 +58,30 @@ The school adopts a positive discipline approach that involves catching students
 
 To promote collaborative home-school partnership, we organise the following engagement sessions with parents yearly:
 
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-wa1i{font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
 <tbody>
-<tr>
-<th>Engagement Session
-</th>
-<th>Focus
-</th>
-</tr>
-<tr>
-<td style="text-align: left;"><b>Parent Conference
-</b>
-</td>
-<td>
-<ul>
-<li style="text-align: left;">Getting to know the Form Teachers
-</li>
-<li style="text-align: left;">
-Sharing on Curriculum Matters
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td style="text-align: left;"><b>Parent-Child-Teacher Conference 
-</b>
-</td>
-<td>
-<ul>
-<li style="text-align: left;">Sharing on student’s holistic development
-</li>
-</ul>
-</td>
-</tr>
+  <tr>
+    <td class="tg-wa1i">Engagement Session</td>
+    <td class="tg-wa1i">Focus</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Parent Conference</td>
+    <td class="tg-0lax">Getting to know the Form Teachers<br>Sharing on Curriculum Matters</td>
+  </tr>
+  <tr>
+    <td class="tg-1wig">Parent-Child-Teacher Conference</td>
+    <td class="tg-0lax">Sharing on student’s holistic development</td>
+  </tr>
 </tbody>
 </table>
 
