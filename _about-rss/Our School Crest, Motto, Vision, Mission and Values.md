@@ -6,13 +6,13 @@ description: ""
 **School Crest 校徽**
 
 <img src="/images/RSS%20School%20Logo%202015.jpeg" 
-     style="width:35%">
+     style="width:30%">
 
 
 **School Motto 校训**
 
 <img src="/images/school%20motto%201.png" 
-     style="width:45%">
+     style="width:40%">
 
 
 **School Vision 学校愿景**
