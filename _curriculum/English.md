@@ -113,7 +113,7 @@ STELLAR (Strategies for English Language Learning and Reading) aims to foster a 
 
 **The Upper Primary STELLAR comprises of the following strategies:**
 
-<img src="images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png" 
+<img src="/images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png" 
      style="width:75%">
 
 <img src="/images/chinese%20opera.png" 
