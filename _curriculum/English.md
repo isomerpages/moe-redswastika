@@ -93,9 +93,9 @@ This programme, as a part of the STELLAR Programme (as shown under MOE Programme
 
 Through the above activities, RSS students discover the joy of reading and open themselves up to a world beyond their imagination.
 
-![](/images/author%20talks.png)
-<img src="/images/pick%20tell.png" 
-     style="width:85%">
+
+<img src="images/author%20talks.png" 
+     style="width:75%">
 
 
 <br>
@@ -107,20 +107,18 @@ Through the above activities, RSS students discover the joy of reading and open 
 STELLAR (Strategies for English Language Learning and Reading) aims to foster a love for reading and a strong foundation in the receptive and productive skills. The STELLAR programme is built on the belief that enjoyment is a fundamental aspect of all positive reading and writing experiences.
 
 **The Lower Primary STELLAR comprises of the following strategies:**
-![](/images/The%20Lower%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png)
-<img src="/images/pick%20tell.png" 
-     style="width:85%">
+
+<img src="/images/The%20Lower%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png" 
+     style="width:75%">
 
 **The Upper Primary STELLAR comprises of the following strategies:**
-![](/images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png)
-<img src="/images/pick%20tell.png" 
-     style="width:85%">
 
-![](/images/chinese%20opera.png)
-<img src="/images/pick%20tell.png" 
+<img src="images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png" 
+     style="width:75%">
+
+<img src="/images/chinese%20opera.png" 
      style="width:85%">
-![](/images/wishy%20washy.png)
-<img src="/images/pick%20tell.png" 
+<img src="/images/wishy%20washy.png" 
      style="width:85%">
 
 **Learning Support Programme (LSP), Reading Remediation Programme (RRP) and School-based Dyslexia Remediation (SDR)**
