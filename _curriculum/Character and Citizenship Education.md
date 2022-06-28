@@ -32,20 +32,43 @@ FTs bond with students through interaction activities during the lessons. Positi
 As values are closely related to language and culture, Mother Tongue Language teachers make use of stories, songs and cultural practices to teach values during CCE lessons. These lessons provide students with opportunities to discuss and internalize the values in the cultural context.
 
 **National Education (NE)**
-
-![](/images/NE.jpeg)
  
- RSS commemorates four NE Commemorative Days every year – Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. These events provide opportunities for students to deepen their appreciation of our shared past and Singapore’s current realities, and foster a sense of hope and belonging to Singapore. The learning of school values exemplified by the Three Littles is intentionally weaved into the events for reinforcement. In addition, the school also brings in the discussion of contemporary issues to deepen students’ knowledge of current affairs. 
+ <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 838px">
+<colgroup>
+<col style="width: 411px">
+<col style="width: 427px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-1zpo"><img src="/images/NE.jpeg" alt="NE.jpg" width="394" height="269"></td>
+    <td class="tg-1zpo">RSS commemorates four NE Commemorative Days every year – Total Defence Day, International Friendship Day, Racial Harmony Day and National Day. These events provide opportunities for students to deepen their appreciation of our shared past and Singapore’s current realities, and foster a sense of hope and belonging to Singapore. The learning of school values exemplified by the Three Littles is intentionally weaved into the events for reinforcement. In addition, the school also brings in the discussion of contemporary issues to deepen students’ knowledge of current affairs.</td>
+  </tr>
+</thead>
+</table>
  
 **Values in Action (VIA)**
 
 ![](/images/VIA.jpeg)
+<img src="/images/principal.jpg" 
+     style="width:25%">
+
 
 VIAs are learning experiences that support our students’ development to becoming socially responsible citizens who can contribute meaningfully to the school and community. RSS students in the lower primary (P1 and P2) start their service journey from home by assisting family members with household chores. They continue to extend their services to school through structured platforms to keep the school environment clean. Students in the middle primary (P3 and P4) show their appreciation to different groups of stakeholders who have supported them in school while students in the upper primary (P5 and P6) offer their services to the community - packing and sending gift packs to the needy around the community, taking part in donation drives.
 
 **Learning For Life (LLP) Character Lessons**
 
 ![](/images/LLP.png)
+<img src="/images/principal.jpg" 
+     style="width:25%">
+
 
 Teachers design and deliver the LLP Character lessons with intentionality. Adopting the spiral approach, students are taught the school vision, mission and values gradually and repeatedly, reinforcing the learning over time. Each lesson delivers rich content through various pedagogical approaches that are developmentally appropriate and engage students cognitively and affectively. To develop our students as reflective learners, they are given the opportunity to reflect on their learning at the end of every lesson.
 
@@ -66,5 +89,8 @@ Sexuality Education lessons are conducted for students at Primary 5 and 6. In SE
 **RSS Character Affirmation Programme**
 
 ![](/images/RSS.png)
+<img src="/images/principal.jpg" 
+     style="width:25%">
+
 
 Our Character Affirmation Programme provides feedback to students on their character growth. It encourages our students to demonstrate the characteristics of the Three Littles. The school has put in place a student recognition structure which includes a 3-tiered Character Awards. Role models of the Three Littles from each class are nominated via the termly Class Affirmation Periods.
