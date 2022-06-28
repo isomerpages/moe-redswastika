@@ -51,9 +51,6 @@ The Primary 5 & 6 Sexuality Education Teaching and Learning resource package, â€
 <center><strong>At Red Swastika School, the following lessons from the Growing Years Programme will be taught in 2022:
 Primary 5</strong></center>
 
-
-</table>
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
