@@ -26,14 +26,14 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-iksn{background-color:#FFF;border-color:inherit;color:#353535;text-align:left;vertical-align:top}
+.tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 681px">
+<table class="tg" style="undefined;table-layout: fixed; width: 716px">
 <colgroup>
-<col style="width: 140px">
-<col style="width: 541px">
+<col style="width: 125px">
+<col style="width: 591px">
 </colgroup>
-<thead>
+<tbody>
   <tr>
     <th class="tg-iksn"><img src="/images/former_chuang_shih_le.jpeg" alt="former_chuang_shih_le.jpg"></th>
     <th class="tg-iksn">During its first 31 years from 1951 to 1981, Mr Chuang Shih Ie, the pioneer Principal, transformed the school from a wooden single-storey building, with six classrooms at Somapah Road, into a well-equipped school with modern facilities at the present site at Bedok North Avenue 3 in 1981.</th>
