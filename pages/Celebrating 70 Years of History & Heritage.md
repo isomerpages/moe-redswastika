@@ -29,7 +29,7 @@ This birthday celebration will not be complete without telling a story about our
 <img src="/images/Our%20Family%20Storybook.png" 
      style="width:90%">
 
-<a href="https://redswastika.moe.edu.sg/qql/slot/u530/Flipping%20Book/RSS%2070th%20Ann%20Magazine.html" target="_blank" rel="noopener"><strong><u>Read our family story book here!</u></strong></a>
+<center><a href="https://redswastika.moe.edu.sg/qql/slot/u530/Flipping%20Book/RSS%2070th%20Ann%20Magazine.html" target="_blank" rel="noopener"><strong><u>Read our family story book here!</u></strong></a></center>
 
 **Our Vision Wall**
 
