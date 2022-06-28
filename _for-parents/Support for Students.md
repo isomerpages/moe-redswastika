@@ -15,7 +15,7 @@ Financial assistance scheme is available to ensure that no child is left behind 
 <table>
 <tbody>
   <tr>
-    <td colspan="2">MOE Financial Assistance Scheme (FAS)</td>
+		<td colspan="2"><strong>MOE Financial Assistance Scheme (FAS)</strong></td>
   </tr>
   <tr>
     <td>Eligibility<br></td>
