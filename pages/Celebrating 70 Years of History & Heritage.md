@@ -14,7 +14,9 @@ The theme for RSS’ 70th Anniversary Celebration is RSS Celebrates! 卍帜飘�
 </center>
 </body>
 
-![](/images/Logo.png)
+<img src="/images/Logo.png" 
+     style="width:35%">
+
 
 **Founder’s Day**
 
