@@ -25,14 +25,14 @@ Should your child fall ill during the school day, you will be informed to pick h
 As advised by Health Promotion Board, first aid kit should not contain oral medications or any other forms of topical medications (e.g. antiseptic cream, mopiko, zam-buk, ointment etc) in view of possible allergic reactions. As such, the school will not administer any oral medications and provide topical medication.
 
 # Safety Matters
-****
-* Sports (Click [here](https://redswastika.moe.edu.sg/qql/slot/u530/2021/For%20Parents/Healthy%20and%20Safety%20Matters/Safety%20Matters/5%20DOs%20of%20PE%20%20PAL.pdf) for more information)
+
+* Sports (Click [here](/files/5%20DOs%20of%20PE%20%20PAL.pdf) for more information)
 
 
-* Special Rooms (Click [here](https://redswastika.moe.edu.sg/qql/slot/u530/2021/For%20Parents/Healthy%20and%20Safety%20Matters/Safety%20Matters/Art%20Room%20Safety.pdf) for more information)
+* Special Rooms (Click [here](/files/Art%20Room%20Safety.pdf) for more information)
 
 
-* Facilities (Click [here](https://redswastika.moe.edu.sg/qql/slot/u530/2021/For%20Parents/Healthy%20and%20Safety%20Matters/Safety%20Matters/Safety%20Rules%20for%20Usage%20of%20School%20Facilities%20for%20sch%20website.pdf) for more information)
+* Facilities (Click [here](/files/Safety%20Rules%20for%20Usage%20of%20School%20Facilities%20for%20sch%20website.pdf) for more information)
 
 
 * Insurance
