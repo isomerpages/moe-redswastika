@@ -43,12 +43,17 @@ The 2-Tier Student Peer Supporters Programme aims to develop positive social ski
 **Positive Teacher-student Relationships**
 
 We believe that teachers play a significant role as trusted adults whom students can turn to for guidance. Hence, the school has put in place multiple avenues to help teachers establish rapport with our students. Through these avenues, teachers build positive teacher–student relationships (TSR) which would lead to positive student outcomes in terms of their learning, relationship management as well as their well-being.
+
 ![](/images/Positive%20Teacher-student%20Relationships.png)
+<img src="/images/Icon.png" 
+     style="width:30%">
 
 **Our Positive Discipline Approach**
 
 The school adopts a positive discipline approach that involves catching students doing right and leveraging reflective practice to help students take responsibility for their actions. To help students take responsibility for their actions, students are taught that their actions carry consequences. Anchored on a reflective approach, students face consequences that are based on the 3Rs (Restitution, Reconciliation, Resolution). Reflection questions are framed using the Three Littles as part of the school’s unique approach to character development.
-![](/images/Our%20Positive%20Discipline%20Approach.png)
+
+<img src="/images/Our%20Positive%20Discipline%20Approach.png" 
+     style="width:45%">
 
 **Parents Engagement**
 
