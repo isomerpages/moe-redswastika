@@ -173,7 +173,7 @@ Primary 5</strong></center>
 Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
 9.
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://redswastika-moe-edu-sg-admin.cwp.sg/qql/slot/u530/2022%20Sexual%20Education/Updated%202022%20Parent%20Opt%20out%20form.pdf). The completed opt-out form is to be submitted by 24/01/2022.
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](/files/Updated%202022%20Parent%20Opt%20out%20form.pdf). The completed opt-out form is to be submitted by 24/01/2022.
 
 10.
 Parents can contact the school at 6443 0380 or email pear_siew_hoon@schools.gov.sg for discussion or to seek clarification about the school’s sexuality education programme.
