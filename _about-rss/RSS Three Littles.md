@@ -16,6 +16,29 @@ Values inculcation has been done uniquely in RSS through aligning the school val
 | A Little Friend cares for others and is generous in helping others. A Little Friend is respectful and gracious in his interactions with others. By being a Little Friend to others, RSS students establish and maintain healthy and rewarding relationships with those around them.     | ![](/images/Little%20Friend.png)     |
 
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 837px">
+<colgroup>
+<col style="width: 426px">
+<col style="width: 411px">
+</colgroup>
+<thead>
+  <tr>
+    <td class="tg-1zpo">A Little Friend cares for others and is generous in helping others. A Little Friend is respectful and gracious in his interactions with others. By being a Little Friend to others, RSS students establish and maintain healthy and rewarding relationships with those around them.</td>
+    <td class="tg-1zpo"><img src="https://redswastika.moe.edu.sg/qql/slot/u530/2021/About%20RSS/RSS%20Three%20Littles/Little%20Friend.png" alt="Little Friend.png" width="379" height="242"></td>
+  </tr>
+</thead>
+</table>
+
+
+
 # Little Master
 
 
