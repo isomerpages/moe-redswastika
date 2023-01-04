@@ -284,21 +284,12 @@ description: ""
     <td>MRS NEO BOCK LIAN<br></td>
     <td><a href="mailto:neo_bock_lian@schools.gov.sg" target="_blank" rel="noopener noreferrer">neo_bock_lian@schools.gov.sg</a></td>
   </tr>
-  <tr>
-    <td>MS NUR AZILLA BINTE NAZLI</td>
-    <td><a href="mailto:nur_azilla_nazli@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_azilla_nazli@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td>MS NURFATIN BTE AZNI</td>
     <td><a href="mailto:nurfatin_azni@schools.gov.sg" target="_blank" rel="noopener noreferrer">nurfatin_azni@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>MS NUR SYAFIQAH SHAFARI<br></td>
     <td><a href="mailto:sirajudeen_sulthan_sikkandarsh@schools.gov.sg" target="_blank" rel="noopener noreferrer">nur_syafiqah_shafari@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>MR ONG CHONG CHENG</td>
-    <td><a href="mailto:ong_chong_cheng@schools.gov.sg" target="_blank" rel="noopener noreferrer">ong_chong_cheng@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>MS PEAR SIEW HOON</td>
@@ -345,10 +336,6 @@ description: ""
     <td><a href="mailto:tan_yee_hwee@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_yee_hwee@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>MRS TANG PEI PEI</td>
-    <td><a href="mailto:tang_pei_pei@schools.gov.sg" target="_blank" rel="noopener noreferrer">tang_pei_pei@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td>MR TAY MUHAMMAD ROBBY IZWAN</td>
     <td><a href="mailto:tay_muhammad_robby_izwan@schools.gov.sg" target="_blank" rel="noopener noreferrer">tay_muhammad_robby_izwan@schools.gov.sg</a></td>
   </tr>
@@ -369,10 +356,6 @@ description: ""
     <td><a href="mailto:teo_xin_wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">teo_xin_wei@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>MS THAM SOOK YEE MELISSA</td>
-    <td><a href="mailto:melissa_tham_sook_yee@schools.gov.sg" target="_blank" rel="noopener noreferrer">melissa_tham_sook_yee@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td>MDM WANG KUN</td>
     <td><a href="mailto:wang_kun@schools.gov.sg" target="_blank" rel="noopener noreferrer">wang_kun@schools.gov.sg</a></td>
   </tr>
@@ -385,10 +368,6 @@ description: ""
     <td><a href="mailto:wang_meng_song@schools.gov.sg" target="_blank" rel="noopener noreferrer">wang_meng_song@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>MR WANG SIYANG<br></td>
-    <td><a href="mailto:wang_siyang_b@schools.gov.sg" target="_blank" rel="noopener noreferrer">wang_siyang_b@schools.gov.sg</a></td>
-  </tr>
-  <tr>
     <td>MRS WOON-TOH SHU YING</td>
     <td><a href="mailto:toh_shu_ying@schools.gov.sg" target="_blank" rel="noopener noreferrer">toh_shu_ying@schools.gov.sg</a></td>
   </tr>
@@ -399,10 +378,6 @@ description: ""
   <tr>
     <td>MDM WONG SIEW LING REBECCA<br></td>
     <td><a href="mailto:wong_siew_ling_rebecca@schools.gov.sg" target="_blank" rel="noopener noreferrer">wong_siew_ling_rebecca@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>MR WONG LI HAO JAMES</td>
-    <td><a href="mailto:wong_li_hao_james@schools.gov.sg" target="_blank" rel="noopener noreferrer">wong_li_hao_james@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>MS WONG LI QING, VALERIE</td>
