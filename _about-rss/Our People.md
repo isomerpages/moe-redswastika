@@ -30,8 +30,8 @@ description: ""
 <tbody>
   <tr>
     <td>School Staff Developer<br></td>
-    <td>MR CHUA KWAN HENG<br></td>
-    <td><a href="mailto:chua_kwan_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer">chua_kwan_heng@schools.gov.sg</a><br></td>
+    <td>MRS NATHALIE TAY<br></td>
+    <td><a href="mailto:ong_shin_leei_nathalie@schools.gov.sg" target="_blank" rel="noopener noreferrer">ong_shin_leei_nathalie@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>Head of Department English Language</td>
@@ -45,23 +45,37 @@ description: ""
   </tr>
   <tr>
     <td>Head of Department Mathematics</td>
-    <td>MRS NATHALIE TAY</td>
-    <td><a href="mailto:ong_shin_leei_nathalie@schools.gov.sg" target="_blank" rel="noopener noreferrer">ong_shin_leei_nathalie@schools.gov.sg</a></td>
+    <td>MRS GOH-WOON HUI HUI</td>
+    <td><a href="mailto:woon_hui_hui@schools.gov.sg" target="_blank" rel="noopener noreferrer">woon_hui_hui@schools.gov.sg</a></td>
+  </tr>
+	  <tr>
+    <td>Head of Department Science</td>
+    <td>MS SHARIFAH FADILLAH BTE SYED M I</td>
+    <td><a href="mailto:sharifah_fadillah_syed@schools.gov.sg" target="_blank" rel="noopener noreferrer">sharifah_fadillah_syed@schools.gov.sg</a></td>
   </tr>
   <tr>
-    <td>Head of Department<br>Student Management<br></td>
+    <td>Head of Department<br>Student Well Being & Management<br></td>
     <td>MRS CHING KIM SIONG</td>
     <td><a href="mailto:ching_kim_siong@schools.gov.sg" target="_blank" rel="noopener noreferrer">ching_kim_siong@schools.gov.sg</a></td>
+  </tr>
+	  <tr>
+    <td>Head of Department CCE</td>
+    <td>MR LEE BENG TECK JONATHAN</td>
+    <td><a href="mailto:lee_beng_teck_jonathan@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_beng_teck_jonathan@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Head of Department PE &amp;CCA (Covering)</td>
     <td>MR KHO HAN KOON, MIKE</td>
     <td><a href="mailto:kho_han_koon@schools.gov.sg" target="_blank" rel="noopener noreferrer">kho_han_koon@schools.gov.sg</a></td>
   </tr>
+	  <tr>
+    <td>Head of Department ICT & Data Management   (Covering)</td>
+    <td>MS LIM EE MIN</td>
+    <td><a href="mailto:lim_ee_min@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_ee_min@schools.gov.sg
   <tr>
     <td>Year Head (Upper Pri)</td>
-    <td>MR LEE BENG TECK JONATHAN</td>
-    <td><a href="mailto:lee_beng_teck_jonathan@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_beng_teck_jonathan@schools.gov.sg</a></td>
+    <td>MR CHUA KWAN HENG</td>
+    <td><a href="mailto:chua_kwan_heng@schools.gov.sg" target="_blank" rel="noopener noreferrer">chua_kwan_heng@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Year Head (Middle Pri)<br></td>
@@ -100,8 +114,8 @@ description: ""
   </tr>
   <tr>
     <td>Subject Head<br>ICT &amp; Data Management<br></td>
-    <td>MS LIM EE MIN<br></td>
-    <td><a href="mailto:lim_ee_min@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_ee_min@schools.gov.sg</a><br></td>
+    <td>MR WANG SIYANG<br></td>
+    <td><a href="mailto:wang_siyang_b@schools.gov.sg" target="_blank" rel="noopener noreferrer">wang_siyang_b@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>Subject Head<br>SAP</td>
@@ -112,6 +126,11 @@ description: ""
     <td>Subject Head<br>Student Leadership<br></td>
     <td>MR LEE WEI LOONG</td>
     <td><a href="mailto:lee_wei_loong@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_wei_loong@schools.gov.sg</a></td>
+  </tr>
+			 <tr>
+    <td>Subject Head<br>Student Wellbeing<br></td>
+    <td>MDM LIEW HWEE HONG</td>
+    <td><a href="mailto:liew_hwee_hong@schools.gov.sg" target="_blank" rel="noopener noreferrer">liew_hwee_hong@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Senior Teacher<br>(Chinese Language)</td>
@@ -456,5 +475,3 @@ description: ""
 <br>[2023 P4 FTs and Subject Teachers.pdf](/files/2023%20P4%20FTs%20and%20Subject%20Teachers.pdf)
 <br>[2023 P5 FTs and Subject Teachers.pdf](/files/2023%20P5%20FTs%20and%20Subject%20Teachers.pdf)
 <br>[2023 P6 FTs and Subject Teachers.pdf](/files/2023%20P6%20FTs%20and%20Subject%20Teachers.pdf)
-
-
