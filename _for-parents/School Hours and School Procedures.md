@@ -1,10 +1,8 @@
 ---
 title: School Hours and School Procedures
-permalink: /curriculum/school-hours-and-school-procedures
+permalink: /curriculum/school-hours-and-school-procedures/
 description: ""
 ---
-
-
 ![](/images/RSS%20time%20table%20clear.png)
 
 **Absence and Early Dismissal**
