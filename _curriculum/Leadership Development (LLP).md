@@ -1,6 +1,6 @@
 ---
 title: Leadership Development (LLP)
-permalink: /curriculum/leadership-development-llp
+permalink: /curriculum/leadership-development-llp/
 description: ""
 ---
 **Key Programmes / Activities**

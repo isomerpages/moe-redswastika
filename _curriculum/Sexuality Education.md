@@ -1,6 +1,6 @@
 ---
 title: Sexuality Education
-permalink: /curriculum/sexuality-education
+permalink: /curriculum/sexuality-education/
 description: ""
 ---
 # MOE Sexuality Education in Schools

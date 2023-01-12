@@ -1,6 +1,6 @@
 ---
 title: Physical Education
-permalink: /curriculum/physical-education
+permalink: /curriculum/physical-education/
 description: ""
 ---
 **Key Programmes / Activities**

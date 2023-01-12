@@ -1,6 +1,6 @@
 ---
 title: Celebrating 70 Years of History & Heritage
-permalink: /celebrating-70-years-of-history-and-heritage
+permalink: /celebrating-70-years-of-history-and-heritage/
 description: ""
 ---
 It’s our 70th birthday, everyone! Join us and be a part of our celebration!

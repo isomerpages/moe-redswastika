@@ -1,6 +1,6 @@
 ---
 title: School Service Providers
-permalink: /curriculum/school-service-providers
+permalink: /curriculum/school-service-providers/
 description: ""
 ---
 <div id="_ptoo_130714" class="pageblock_box ">

@@ -1,6 +1,6 @@
 ---
 title: Parents' Conferences
-permalink: /parents-conferences
+permalink: /parents-conferences/
 description: ""
 ---
 

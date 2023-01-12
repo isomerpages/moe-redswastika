@@ -1,6 +1,6 @@
 ---
 title: English
-permalink: /curriculum/english
+permalink: /curriculum/english/
 description: ""
 ---
 # Our Objectives

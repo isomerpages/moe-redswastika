@@ -1,6 +1,6 @@
 ---
 title: RSS Three Littles
-permalink: /about-rss/rss-three-littles
+permalink: /about-rss/rss-three-littles/
 description: ""
 ---
 # RSS Three Littles

@@ -1,6 +1,6 @@
 ---
 title: Aesthetics
-permalink: /curriculum/aesthetics
+permalink: /curriculum/aesthetics/
 description: ""
 ---
 **Key Programmes / Activities**

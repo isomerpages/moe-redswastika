@@ -1,6 +1,6 @@
 ---
 title: Alumni Association
-permalink: /our-partners/alumni-association
+permalink: /our-partners/alumni-association/
 description: ""
 ---
 The Red Swastika School Alumni Association was formed in August 1998 with the mission to connect the School and the Alumni. Once a Swastikian, forever a Swastikian (一日卍慈人，一生卍慈情) – this sums up our belief that there will always be a part of RSS in every student and staff.

@@ -1,6 +1,6 @@
 ---
 title: Character and Citizenship Education
-permalink: /curriculum/character-and-citizenship-education
+permalink: /curriculum/character-and-citizenship-education/
 description: ""
 ---
 **Key Programmes / Activities**

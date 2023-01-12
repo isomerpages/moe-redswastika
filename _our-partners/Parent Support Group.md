@@ -1,6 +1,6 @@
 ---
 title: Parent Support Group
-permalink: /our-partners/parent-support-group
+permalink: /our-partners/parent-support-group/
 description: ""
 ---
 RSS Parent Support Group (PSG) was set up in March 2015. We have since grown in strength and size and our main aim is to create a platform for parents to support the school and one another.

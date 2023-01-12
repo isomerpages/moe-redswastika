@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-permalink: /about-rss/contact-us
+permalink: /about-rss/contact-us/
 description: ""
 ---
 <table border="0" style="width: 100%;" class="iveo_table ives_tab_simple3 ive_eobj_center">

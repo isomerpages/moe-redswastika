@@ -1,6 +1,6 @@
 ---
 title: Mathematics
-permalink: /curriculum/mathematics
+permalink: /curriculum/mathematics/
 description: ""
 ---
 **Key Programmes / Activities**
