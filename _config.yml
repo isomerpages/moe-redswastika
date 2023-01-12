@@ -49,6 +49,6 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://moe-redswastika-staging.netlify.app
-prod: https://moe-redswastika-prod.netlify.app
+staging: https://staging.d21u19chvbygr0.amplifyapp.com
+prod: https://master.d21u19chvbygr0.amplifyapp.com
 shareicon: /images/RSS School Logo 2015.jpeg
