@@ -1,6 +1,6 @@
 ---
 title: Special Assistance Plan
-permalink: /curriculum/special-assistance-plan
+permalink: /curriculum/special-assistance-plan/
 description: ""
 ---
 # Special Assistance Programme (SAP)

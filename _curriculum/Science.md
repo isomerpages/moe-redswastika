@@ -1,6 +1,6 @@
 ---
 title: Science
-permalink: /curriculum/science
+permalink: /curriculum/science/
 description: ""
 ---
 **Key Programmes / Activities**

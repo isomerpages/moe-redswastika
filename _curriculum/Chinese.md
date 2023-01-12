@@ -1,6 +1,6 @@
 ---
 title: Chinese
-permalink: /curriculum/chinese
+permalink: /curriculum/chinese/
 description: ""
 ---
 **Our Objectives 目标**

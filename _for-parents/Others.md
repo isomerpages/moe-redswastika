@@ -1,6 +1,6 @@
 ---
 title: Others
-permalink: /curriculum/others
+permalink: /curriculum/others/
 description: ""
 ---
 **Birthday Celebration**

@@ -1,6 +1,6 @@
 ---
 title: Health and Safety Matters
-permalink: /curriculum/health-and-safety-matters
+permalink: /curriculum/health-and-safety-matters/
 description: ""
 ---
 # Health Matters

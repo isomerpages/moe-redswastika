@@ -1,6 +1,6 @@
 ---
 title: Student Development
-permalink: /curriculum/student-development
+permalink: /curriculum/student-development/
 description: ""
 ---
 # Key Programmes / Activities

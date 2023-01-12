@@ -1,6 +1,6 @@
 ---
 title: Quick Links
-permalink: /curriculum/quick-links
+permalink: /curriculum/quick-links/
 description: ""
 ---
 * [Ministry of Health Website](https://www.moh.gov.sg/)

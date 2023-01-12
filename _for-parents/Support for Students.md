@@ -1,6 +1,6 @@
 ---
 title: Support for Students
-permalink: /curriculum/support-for-students
+permalink: /curriculum/support-for-students/
 description: ""
 ---
 **Edusave Pupils Fund**

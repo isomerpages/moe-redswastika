@@ -1,6 +1,6 @@
 ---
 title: Programme for Active Learning
-permalink: /curriculum/programme-for-active-learning
+permalink: /curriculum/programme-for-active-learning/
 description: ""
 ---
 **Key Programmes / Activities**

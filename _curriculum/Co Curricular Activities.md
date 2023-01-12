@@ -1,6 +1,6 @@
 ---
 title: Co Curricular Activities
-permalink: /curriculum/co-curricular-activities
+permalink: /curriculum/co-curricular-activities/
 description: ""
 ---
 **Key Programmes / Activities**

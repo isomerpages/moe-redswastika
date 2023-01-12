@@ -1,6 +1,6 @@
 ---
 title: Communication
-permalink: /curriculum/Communication
+permalink: /curriculum/Communication/
 description: ""
 ---
 The school values parents/guardians as co-partners in educating our students. We communicate with parents via:

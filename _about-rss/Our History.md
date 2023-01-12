@@ -1,6 +1,6 @@
 ---
 title: Our History
-permalink: /about-rss/our-history
+permalink: /about-rss/our-history/
 description: ""
 ---
 **Red Swastika School's History**

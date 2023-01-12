@@ -1,6 +1,6 @@
 ---
 title: Overseas Partners
-permalink: /our-partners/overseas-partners
+permalink: /our-partners/overseas-partners/
 description: ""
 ---
 Our school has established strong ties and collaborations with various overseas learning institutions over the past years.
