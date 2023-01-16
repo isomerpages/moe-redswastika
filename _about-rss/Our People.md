@@ -161,10 +161,9 @@ description: ""
    </tr> 
 			</tbody>
 </table>
-		</table>
+	<table>	</table>
 		
 ## Teachers
-<p>	
 <table>
 <tbody>
   <tr>
