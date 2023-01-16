@@ -1,5 +1,5 @@
 title: Red Swastika School
-url: ""
+url: https://redswastika.moe.edu.sg
 favicon: /images/RSS School Logo 2015.jpeg
 colors:
   primary-color: "#020f6a"
@@ -52,3 +52,7 @@ plugins:
 staging: https://staging.d21u19chvbygr0.amplifyapp.com
 prod: https://master.d21u19chvbygr0.amplifyapp.com
 shareicon: /images/RSS School Logo 2015.jpeg
+is_government: false
+facebook-pixel: ""
+google_analytics: ""
+linkedin-insights: ""
