@@ -156,8 +156,8 @@ description: ""
   <tr>
     <td>LSM<br></td>
     <td>MDM SNG MENG FONG</td>
-    <td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a></td>
-</tr>
+    <td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a>    </td>
+ </tr>
 	</tbody>
 </table>
 	<p></p>
