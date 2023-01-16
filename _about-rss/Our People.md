@@ -414,7 +414,6 @@ description: ""
   </tr>
 </tbody>
 </table>
-<br>
 
 # Allied Educators
 <table>
@@ -441,9 +440,6 @@ description: ""
   </tr>
 </tbody>
 </table>
-<br>
-
-
 
 # 2023 Form Teachers and Subject Teachers
 [2023 P1 FTs and Subject Teachers.pdf](/files/2023%20P1%20FTs%20and%20Subject%20Teachers.pdf)
