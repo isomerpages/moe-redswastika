@@ -27,7 +27,7 @@ The **goals** of Sexuality Education are:
 
 
 3.
-The** **Key Messages** of Sexuality Education** are:
+The **Key Messages** of Sexuality Education** are:
 <p style="margin-left: 40px">(i)            Love and respect yourself as you love and respect others;</p>
 <p style="margin-left: 40px">(ii)          Build positive relationships based on love and respect (which are the foundation for strong families);</p>
 <p style="margin-left: 40px">(iii)         Make responsible decisions for yourself, your family and society; and</p>
@@ -46,7 +46,7 @@ The subjects that incorporate topics on sexuality include:
 <p style="margin-left: 40px">a.       Science</p>
 <p style="margin-left: 40px">b.       Character and Citizenship Education (CCE)</p>
 
-###### <u>**Sexuality Education Lessons**</u>
+ <u><b>Sexuality Education Lessons</b></u>
 
 6.
 The upper primary years mark the onset of puberty. With better nutrition and improved health care, children are reaching puberty at a younger age and have to grapple with physical, emotional and psychological changes in themselves. The implication is that our children are becoming biologically ready for sexual activity sooner without necessarily having the corresponding cognitive or emotional maturity to modulate their behaviours. Furthermore, our young are also exposed to a wide range of influences that could endanger health and undermine the integrity of the family. Our students require guidance so that they can respond with discernment to the sexual messages in the media and other sources. 
@@ -103,33 +103,6 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 </td>
     <td class="tg-88pu">Term 2 Week 2<br></td>
   </tr>
-  <tr>
-    <td class="tg-untc">Main Task<br>(30 min)</td>
-    <td class="tg-88pu">Description of the Main Task:<br><br>Pupils are to play the role of an Uncle/Aunt Agony to help a peer address his/her experiences during puberty. They will consider the situation from the point of view of the peer and share ways to help him/her cope with the changes he/she is going through.</td>
-    <td class="tg-88pu">Term 2 Week 1<br></td>
-  </tr>
-  <tr>
-    <td class="tg-88pu">Where I Belong</td>
-    <td class="tg-untc">What Are Families?<br>(30 min)</td>
-    <td class="tg-88pu">• know that there are different types of family structures<br>• know that every family is unique<br>• state that the three basic functions of families are to provide love, protection and guidance<br>• identify the right sources of help to turn to when in need</td>
-    <td class="tg-88pu">Term 3 Week 2<br></td>
-  </tr>
-  <tr>
-    <td class="tg-88pu">Where I Belong</td>
-    <td class="tg-untc">What is My Role?<br>(30 min)</td>
-    <td class="tg-88pu">• know that gender is about being male or female<br>• choose not to stereotype by gender</td>
-    <td class="tg-88pu">Term 3 Week 2<br></td>
-  </tr>
-  <tr>
-    <td class="tg-88pu" rowspan="2">How Do I Keep Myself Safe?</td>
-    <td class="tg-untc">What is Safety?<br>(30 min)</td>
-    <td class="tg-88pu">• know what sexual abuse is<br>• know that there are laws in Singapore that can protect them from sexual abuse<br>• know their rights in keeping themselves safe from sexual abuse</td>
-    <td class="tg-88pu">Term 4 Week 1<br></td>
-  </tr>
-  <tr>
-    <td class="tg-untc">Stop It! Run! Tell!<br>(30 min)</td>
-    <td class="tg-88pu">• protect themselves by resisting, removing themselves from harm and seeking help from a trusted adult<br>• know their responsibilities in minimising the risk of sexual harm</td>
-    <td class="tg-88pu">Term 4 Week 1</td>
   </tr>
 </tbody>
 </table>
@@ -193,7 +166,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
 Parents may opt their children out of Sexuality Education lessons, and/or supplementary sexuality education programmes by MOE-approved external providers.
 
 9.
-Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [Here](/files/2023%20Parents%20opt%20out%20form.pdf) . The completed opt-out form is to be submitted by 01/02/2023.
+Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [Here](/files/2023%20Parents%20opt%20out%20form.pdf)  The completed opt-out form is to be submitted by 01/02/2023.
 
 10.
 Parents can contact the school at 6443 0380 or email [pear\_siew\_hoon@schools.gov.sg](mailto:pear_siew_hoon@schools.gov.sg) for discussion or to seek clarification about the school’s sexuality education programme.
