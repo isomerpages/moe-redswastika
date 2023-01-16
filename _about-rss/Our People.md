@@ -23,7 +23,8 @@ description: ""
  </tr>
  </tbody>
  </table>
-
+<p></p>
+	
 # School Key Personnel 
 
 <table>
@@ -158,10 +159,11 @@ description: ""
     <td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a></td>
 </tr>
 		</tbody>
-</table><p></p>
+</table>
+	<p></p>
 
+	
 # Teachers
-
 <table>
 <tbody>
   <tr>
