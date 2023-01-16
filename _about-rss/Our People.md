@@ -414,9 +414,8 @@ description: ""
   </tr>
 </tbody>
 </table>
-
+<br>
 # Allied Educators
-
 <table>
 <tbody>
   <tr>
