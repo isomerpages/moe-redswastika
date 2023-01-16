@@ -20,7 +20,7 @@ description: ""
     <td>Vice-Principal</td>
     <td>MRS ESTHER TAN</td>
     <td><a href="mailto:esther_e_tzy_kwei@schools.gov.sg" target="_blank" rel="noopener noreferrer">esther_e_tzy_kwei@schools.gov.sg</a></td>
- </tr>
+		</tr>
 	</tbody>
 </table>
 	
