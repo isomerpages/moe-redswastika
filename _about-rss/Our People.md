@@ -157,15 +157,14 @@ description: ""
     <td>LSM<br></td>
     <td>MDM SNG MENG FONG</td>
     <td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a>    </td>
- </tr>
-	</tbody>
+  </tr>
+</tbody>
 </table>
-	<p></p>
+<br>
 
-	
 # Teachers
 <table>
-  <tbody>
+<tbody>
   <tr>
     <td>MR ANG RUI XIANG JASPER</td>
     <td><a href="mailto:ang_rui_xiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">ang_rui_xiang@schools.gov.sg</a></td>
