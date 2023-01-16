@@ -11,4 +11,5 @@ sections:
         - title: Celebrating 70 Years of History & Heritage
           description: ""
           url: /celebrating-70-years-of-history-and-heritage
+      background: /images/School Landing Page Version 3.gif
 ---
