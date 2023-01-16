@@ -6,6 +6,7 @@ description: ""
 # School Leaders
 <table>
 <tbody>
+  <tr>
     <td>Principal<br></td>
     <td>MS JESSIE LIM<br></td>
     <td><a href="mailto:Jessie_Lim@schools.gov.sg" target="_blank" rel="noopener noreferrer">jessie_lim@schools.gov.sg</a><br></td>
