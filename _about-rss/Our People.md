@@ -166,10 +166,10 @@ description: ""
 		
 ## Teachers
 <table>
-<tbody>
-  <tr>
-    <td>MR ANG RUI XIANG JASPER</td>
-    <td><a href="mailto:ang_rui_xiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">ang_rui_xiang@schools.gov.sg</a></td>
+	<tbody>
+		<tr>
+			<td>MR ANG RUI XIANG JASPER</td>
+			<td><a href="mailto:ang_rui_xiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">ang_rui_xiang@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>MR ADRIAN LIM SOO JIN</td>
