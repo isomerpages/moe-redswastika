@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/red swas gif.gif
+      background: /images/School Landing Page.gif
       key_highlights:
         - title: Celebrating 70 Years of History & Heritage
           description: ""
