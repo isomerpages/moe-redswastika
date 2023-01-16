@@ -154,9 +154,9 @@ This lesson is conducted separately for boys and girls in different classrooms, 
     <td class="tg-096r">Term 2 Week 4<br></td>
   </tr>
 
-  </tr>
-</tbody>
-</table>
+  <tr></tr>
+<tbody></tbody>
+<table></table>
 
 
 
