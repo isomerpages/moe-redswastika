@@ -3,7 +3,6 @@ title: Our People
 permalink: /about-rss/our-people/
 description: ""
 ---
-
 <table>
 	<th>
 	
@@ -31,13 +30,14 @@ description: ""
 
 
 
-<th>
+
+
+<table>
+	<th>
 	
 ## School Key Personnel
 	
 </th>
-
-<table>
 	<tbody>
 		<tr>
     <td>School Staff Developer<br></td>
