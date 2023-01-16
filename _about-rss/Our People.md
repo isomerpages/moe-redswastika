@@ -28,7 +28,7 @@ description: ""
 <table></table>
 
 ## School Key Personnel 
-<table></table>
+
 <table>
 	<tbody>
 		<tr>
@@ -162,6 +162,7 @@ description: ""
 			</tr>
 			</tbody>
 </table>
+		</table>
 		
 		
 
