@@ -56,7 +56,7 @@ The upper primary years mark the onset of puberty. With better nutrition and imp
 Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
 
-
+<center><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 FOR PRIMARY 5</strong></center>	
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -64,45 +64,47 @@ Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-untc{background-color:#ffffff;color:#000000;font-size:16px;text-align:center;vertical-align:top}
-.tg .tg-88pu{background-color:#ffffff;color:#000000;font-size:16px;text-align:left;vertical-align:top}
+.tg .tg-096r{color:#000000;text-align:left;vertical-align:top}
+.tg .tg-f8tx{color:#000000;text-align:center;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 724px">
+<table class="tg" style="undefined;table-layout: fixed; width: 727px">
 <colgroup>
-<col style="width: 135px">
-<col style="width: 202px">
+<col style="width: 134px">
+<col style="width: 204px">
 <col style="width: 273px">
-<col style="width: 114px">
+<col style="width: 116px">
 </colgroup>
-<center><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 FOR PRIMARY 5</strong></center>	
 <tbody>
   <tr>
-    <td class="tg-untc">CCE(FTGP) THEME</td>
-    <td class="tg-untc">LESSONS / DURATION</td>
-    <td class="tg-untc">LESSON OVERVIEW<br>
-    <td class="tg-88pu">TIME PERIOD<br>(e.g Term 1 Week 2)</td>
+    <td class="tg-f8tx">UNIT</td>
+    <td class="tg-f8tx">LESSONS TITLE/ DURATION</td>
+    <td class="tg-f8tx">Lesson Overview<br>At the end of the lesson, pupils will be able to:</td>
+    <td class="tg-f8tx">TIME PERIOD (e.g Term 1 Week 2)<br></td>
   </tr>
   <tr>
-    <td class="tg-88pu" rowspan="4">Growing Years</td>
-    <td class="tg-untc">The Changes in Me<br>(60 min)</td>
-    <td class="tg-88pu">This lesson focuses on helping students identify the emotions and stress caused by physical changes during puberty. Students will learn to describe the healthy ways to manage their negative feelings during this time. They will also learn to recognise that one’s identity need not be negatively affected, even when one’s body is experiencing changes due to puberty. 
-			<br></br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
+    <td class="tg-096r" rowspan="5">Growing Years<br></td>
+    <td class="tg-f8tx">Are We More than Friends?Lesson 1<br>(60 min)</td>
+    <td class="tg-096r">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
+    <td class="tg-096r">Term 1 Week 4<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tx">Are We More than Friends? Lesson 2<br>(60 min)</td>
+    <td class="tg-096r">In this lesson, students will learn healthy ways to manage the emotions arising from infatuation and recognise the importance of respecting the boundaries of any relationship. They will also recognise the negative impact of teasing their peers who may be experiencing the feelings of infatuation and learn to behave maturely towards each other.</td>
+    <td class="tg-096r">Term 2 Week 8 and 9<br></td>
+  </tr>
+  <tr>
+    <td class="tg-f8tx">Did You Know?<br>(60 min)</td>
+    <td class="tg-096r">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>. 
+<br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
 </td>
-    <td class="tg-88pu">Term 2 Week 1<br></td>
+    <td class="tg-096r">Term 2 Week 4<br></td>
   </tr>
-  <tr>
-    <td class="tg-untc">Did You Know?<br>(60 min)</td>
-    <td class="tg-88pu">This lesson focuses on helping students know what pornography is and how it can affect themselves and others. Students will learn about the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy ‘Stop-Think-Do’
-	<br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</td>
-    <td class="tg-88pu">Term 2 Week 1 and 2<br></td>
-  </tr>
-  <tr>
-    <td class="tg-untc">Keeping Myself Safe<br>(60 min)</td>
-    <td class="tg-88pu">In this lesson, students will learn about sexual abuse, how it can happen during online and offline interactions and the impact of such abuse on victims. They also learn how to take precautionary measures to be safe and how to seek help for themselves and their friends.
-This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
-</td>
-    <td class="tg-88pu">Term 2 Week 2<br></td>
-  </tr>
+
+ </tr>
+</tbody>
+</table>
+
+
 
 
 
