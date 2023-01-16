@@ -159,6 +159,7 @@ description: ""
    </tr> 
 			</tbody>
 </table>
+		</table>
 		
 ## Teachers
 <p>	
