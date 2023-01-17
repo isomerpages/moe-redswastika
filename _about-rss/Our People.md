@@ -5,8 +5,7 @@ description: ""
 ---
 <table>
 	<th>
-
-# School Leaders
+		# School Leaders
 	</th>
 </table>
 	
