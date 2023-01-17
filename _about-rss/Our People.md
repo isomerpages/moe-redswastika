@@ -5,6 +5,8 @@ description: ""
 ---
 # School Leaders
 <table>
+	</table>
+<table>
 		<tbody>
   <tr>
     <td>Principal<br></td>
@@ -21,20 +23,11 @@ description: ""
     <td>MRS ESTHER TAN</td>
     <td><a href="mailto:esther_e_tzy_kwei@schools.gov.sg" target="_blank" rel="noopener noreferrer">esther_e_tzy_kwei@schools.gov.sg</a></td>
 		</tr>
-	</tbody>
-</table>
-	
+		</tbody>
+	</table>
 
-
-
-
-
+# School Key Personnel
 <table>
-	<th>
-	
-## School Key Personnel
-	
-</th>
 	<tbody>
 		<tr>
     <td>School Staff Developer<br></td>
@@ -166,14 +159,8 @@ description: ""
     <td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a>    </td>
 			</tr>
 			</tbody>
-</table>
-		</table>
+	</table>
 		
-		
-
-		
-		
-
 ## Teachers
 		
 <table>
@@ -448,8 +435,8 @@ description: ""
     <td>MDM NURHAFIZAH BINTE ROSLE<br></td>
     <td><a href="mailto:nurhafizah_Rosle@schools.gov.sg" target="_blank" rel="noopener noreferrer">nurhafizah_rosle@schools.gov.sg</a></td>
   </tr>
-</tbody>
-</table>
+		</tbody>
+	</table>
 
 ## 2023 Form Teachers and Subject Teachers
 * [2023 P1 FTs and Subject Teachers.pdf](/files/2023%20P1%20FTs%20and%20Subject%20Teachers.pdf)
