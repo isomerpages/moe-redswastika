@@ -8,7 +8,10 @@ description: ""
 
 # School Leaders
 	</th>
-	<tbody>
+</table>
+	
+<table>
+		<tbody>
   <tr>
     <td>Principal<br></td>
     <td>MS JESSIE LIM<br></td>
