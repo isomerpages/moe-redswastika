@@ -411,12 +411,10 @@ description: ""
     <td>MDM ZOU YIXUAN</td>
     <td><a href="mailto:zou_yixuan@schools.gov.sg" target="_blank" rel="noopener noreferrer">zou_yixuan@schools.gov.sg</a></td>
   </tr>
-  </tbody>
-  </table>
+			</tbody>
+		</table>
 
-<table>
-	</table>
-	
+
 ## Allied Educators
 <table>
 <tbody>
