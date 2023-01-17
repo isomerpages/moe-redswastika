@@ -161,12 +161,11 @@ description: ""
 	</table>
 <table>
 	
-			</tr>
-	</tbody>
+				</tr>
+			</tbody>
 		</table>
 		
-<table>
-		</table>
+
 
 # 		Teachers
 		
