@@ -1,0 +1,11 @@
+collections:
+  about-rss:
+    output: true
+    order:
+      - Principal's Message.md
+      - Our History.md
+      - Our School Crest, Motto, Vision, Mission and Values.md
+      - RSS Three Littles.md
+      - Our People.md
+      - Our Financial and Non Financial Information.md
+      - Contact Us.md

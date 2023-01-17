@@ -1,13 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/RSS_Logo.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About RSS
+    collection: about-rss
+  - title: For Parents
+    collection: for-parents
+  - title: Curriculum
+    collection: curriculum
+  - title: Our Partners
+    collection: our-partners
+  - title: "Celebrating 70 Years "
+    url: /celebrating-70-years-of-history-and-heritage

@@ -1,0 +1,18 @@
+collections:
+  curriculum:
+    output: true
+    order:
+      - English.md
+      - Chinese.md
+      - Mathematics.md
+      - Science.md
+      - Aesthetics.md
+      - Character and Citizenship Education.md
+      - Co Curricular Activities.md
+      - Information and Communications Technology (ALP).md
+      - Leadership Development (LLP).md
+      - Physical Education.md
+      - Programme for Active Learning.md
+      - Sexuality Education.md
+      - Special Assistance Plan.md
+      - Student Development.md
