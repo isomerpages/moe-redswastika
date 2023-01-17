@@ -3,12 +3,7 @@ title: Our People
 permalink: /about-rss/our-people/
 description: ""
 ---
-<table>
-	<th>
-		# School Leaders
-	</th>
-</table>
-	
+# School Leaders
 <table>
 		<tbody>
   <tr>
