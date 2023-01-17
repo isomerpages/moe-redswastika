@@ -28,8 +28,6 @@ description: ""
 
 # School Key Personnel
 <table>
-	</table>
-<table>
 	<tbody>
 		<tr>
     <td>School Staff Developer<br></td>
@@ -159,6 +157,10 @@ description: ""
     <td>LSM<br></td>
     <td>MDM SNG MENG FONG</td>
     <td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a>    </td>
+			</tr>
+	</table>
+<table>
+	
 			</tr>
 	</tbody>
 		</table>
@@ -422,8 +424,10 @@ description: ""
 <table>
 	</table>
 	
-
-## Allied Educators
+<p>
+	</p>
+	
+# Allied Educators
 <table>
 <tbody>
   <tr>
@@ -443,8 +447,10 @@ description: ""
 	</tr>
 			</tbody>
 	</table>
-
-## 2023 Form Teachers and Subject Teachers
+<p>
+	</p>
+	
+# 2023 Form Teachers and Subject Teachers
 
 <table>
 	<tbody>
@@ -460,4 +466,3 @@ description: ""
 		</tr>
 	</tbody>
 	</table>
-	
