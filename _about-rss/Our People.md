@@ -28,6 +28,8 @@ description: ""
 
 # School Key Personnel
 <table>
+	</table>
+<table>
 	<tbody>
 		<tr>
     <td>School Staff Developer<br></td>
@@ -161,10 +163,13 @@ description: ""
 			</tbody>
 	</table>
 		
-## Teachers
+<table>
+		</table>
+
+# 		Teachers
 		
 <table>
-	<tbody>
+		<tbody>
 		<tr>
 			<td>MR ANG RUI XIANG JASPER</td>
 			<td><a href="mailto:ang_rui_xiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">ang_rui_xiang@schools.gov.sg</a></td>
@@ -444,6 +449,3 @@ description: ""
 * [2023 P4 FTs and Subject Teachers.pdf](/files/2023%20P4%20FTs%20and%20Subject%20Teachers.pdf)
 * [2023 P5 FTs and Subject Teachers.pdf](/files/2023%20P5%20FTs%20and%20Subject%20Teachers.pdf)
 * [2023 P6 FTs and Subject Teachers.pdf](/files/2023%20P6%20FTs%20and%20Subject%20Teachers.pdf)
-
-
-
