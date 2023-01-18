@@ -158,38 +158,38 @@ description: ""
 			<td>MDM SNG MENG FONG</td>
 			<td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a></td>
 		</tr>
-		<tr>
+		<tr></table>
 
 		
+
+			
 # Teacher
 <table>
-	<tbody>
-		<tr>
-			<td>MR ANG RUI XIANG JASPER</td>
-			<td><a href="mailto:ang_rui_xiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">ang_rui_xiang@schools.gov.sg</a></td>
-		</tr>
-		<tr>
-			<td>MR ADRIAN LIM SOO JIN</td>
-			<td><a href="mailto:adrian_lim_soo_jin@schools.gov.sg" target="_blank" rel="noopener noreferrer">adrian_lim_soo_jin@schools.gov.sg</a></td>
-		</tr>
-		<tr>
-			<td>MS AMIRAH BINTE ZAINALABIDIN</td>
-			<td><a href="mailto:amirah_zainalabidin@schools.gov.sg" target="_blank" rel="noopener noreferrer">amirah_zainalabidin@schools.gov.sg</a></td>
-		</tr>
-		<tr>
-    <td>MR ANG CHEE WAI PATRICK</td>
-    <td><a href="mailto:ang_chee_wai_patrick@schools.gov.sg" target="_blank" rel="noopener noreferrer">ang_chee_wai_patrick@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>MDM CHAN SOOK MEI CORINNA</td>
+<tbody>
+<tr>
+<td>MR ANG RUI XIANG JASPER</td>
+<td><a href="mailto:ang_rui_xiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">ang_rui_xiang@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>MR ADRIAN LIM SOO JIN</td>
+<td><a href="mailto:adrian_lim_soo_jin@schools.gov.sg" target="_blank" rel="noopener noreferrer">adrian_lim_soo_jin@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>MS AMIRAH BINTE ZAINALABIDIN</td>
+<td><a href="mailto:amirah_zainalabidin@schools.gov.sg" target="_blank" rel="noopener noreferrer">amirah_zainalabidin@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>MR ANG CHEE WAI PATRICK</td>
+<td><a href="mailto:ang_chee_wai_patrick@schools.gov.sg" target="_blank" rel="noopener noreferrer">ang_chee_wai_patrick@schools.gov.sg</a></td>
+</tr>
+<tr>
+<td>MDM CHAN SOOK MEI CORINNA</td>
     <td><a href="mailto:corinna_chan_sook_mei@schools.gov.sg" target="_blank" rel="noopener noreferrer">corinna_chan_sook_mei@schools.gov.sg</a></td>
-  </tr>
-  <tr>
+	 </tr><tr>
     <td>MS CHEN JIATING ABIGAIL </td>
     <td><a href="mailto:chen_jiating@schools.gov.sg" target="_blank" rel="noopener noreferrer">chen_jiating@schools.gov.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>MR CHENG CHAI CHYUAN (DEXTER)</td>
+		</tr>
+		<tr><td>MR CHENG CHAI CHYUAN (DEXTER)</td>
     <td><a href="mailto:cheng_chai_chyuan@schools.gov.sg" target="_blank" rel="noopener noreferrer">cheng_chai_chyuan@schools.gov.sg</a></td>
   </tr>
   <tr>
