@@ -79,8 +79,9 @@ description: ""
 	 </tr><tr>
     <td>MS CHEN JIATING ABIGAIL </td>
     <td><a href="mailto:chen_jiating@schools.gov.sg" target="_blank" rel="noopener noreferrer">chen_jiating@schools.gov.sg</a><br></td>
-		</tr>
-		<tr><td>MR CHENG CHAI CHYUAN (DEXTER)</td>
+	</tr>
+	<tr>
+		<td>MR CHENG CHAI CHYUAN (DEXTER)</td>
     <td><a href="mailto:cheng_chai_chyuan@schools.gov.sg" target="_blank" rel="noopener noreferrer">cheng_chai_chyuan@schools.gov.sg</a></td>
   </tr>
   <tr>
