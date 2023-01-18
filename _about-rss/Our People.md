@@ -28,7 +28,7 @@ description: ""
 |  | |  |
 | -------- | -------- | -------- |
 | School Staff Developer     | MRS NATHALIE TAY     | [ong_shin_leei_nathalie@schools.gov.sg  ](mailto:ong_shin_leei_nathalie@schools.gov.sg  )   |
-| Head of Department English Language     | MRS APRIL JOANN NOBLE     | [sobrielo_april_joann@schools.gov.sg](mailto:sobrielo_april_joann@schools.gov.sg)    |
+| Head of Department <br> English Language     | MRS APRIL JOANN NOBLE     | [sobrielo_april_joann@schools.gov.sg](mailto:sobrielo_april_joann@schools.gov.sg)    |
 | Head of Department Chinese Language    | MRS POON WAI KUAN     | [poon_wai_kuan@schools.gov.sg ](mailto:poon_wai_kuan@schools.gov.sg )    |
 | Head of Department Mathematics     | MRS GOH-WOON HUI HUI     | [woon_hui_hui@schools.gov.sg](mailto:woon_hui_hui@schools.gov.sg)    |
 | Head of Department Science    | MS SHARIFAH FADILLAH BTE SYED M I     | [sharifah_fadillah_syed@schools.gov.sg](mailto:sharifah_fadillah_syed@schools.gov.sg)    |
