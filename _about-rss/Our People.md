@@ -48,11 +48,11 @@ description: ""
 | Subject Head SAP    | MDM KOH SWEE YEN     | [koh_swee_yen@schools.gov.sg ](mailto:koh_swee_yen@schools.gov.sg )    |
 | Subject Head Student Leadership     | MR LEE WEI LOONG     | [lee_wei_loong@schools.gov.sg](mailto:lee_wei_loong@schools.gov.sg)|
 | Subject Head Student Well-being     | MDM LIEW HWEE HONG     |[ liew_hwee_hong@schools.gov.sg ](mailto: liew_hwee_hong@schools.gov.sg )   |
-| Senior Teacher (Chinese Language)    | MR XIE TIANYI     | xie_tianyi@schools.gov.sg     |
-| Senior Teacher (Mathematics)     | MRS GO LEE CHING     | lim_lee_ching@schools.gov.sg    |
-| Senior Teacher (Lower Primary Learners)     | MDM SITI AMINAH BTE MOHAMMAD ISA     | siti_aminah_mohammad_isa@schools.gov.sg     |
-| LSC     | MDM LOKE HUI JUN MICHELLE    | loke_hui_jun_michelle@schools.gov.sg     |
-| LSM     | MDM SNG MENG FONG    | sng_meng_fong@schools.gov.sg     |
+| Senior Teacher (Chinese Language)    | MR XIE TIANYI     | [xie_tianyi@schools.gov.sg](mailto:xie_tianyi@schools.gov.sg)     |
+| Senior Teacher (Mathematics)     | MRS GO LEE CHING     | [lim_lee_ching@schools.gov.sg](mailto:lim_lee_ching@schools.gov.sg)    |
+| Senior Teacher (Lower Primary Learners)     | MDM SITI AMINAH BTE MOHAMMAD ISA     | [siti_aminah_mohammad_isa@schools.gov.sg](mailto:siti_aminah_mohammad_isa@schools.gov.sg)     |
+| LSC     | MDM LOKE HUI JUN MICHELLE    | [loke_hui_jun_michelle@schools.gov.sg ](mailto:loke_hui_jun_michelle@schools.gov.sg )    |
+| LSM     | MDM SNG MENG FONG    | [sng_meng_fong@schools.gov.sg](mailto:sng_meng_fong@schools.gov.sg)     |
 
 
 # Teacher
