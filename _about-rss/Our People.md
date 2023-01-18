@@ -153,12 +153,12 @@ description: ""
 			<td><a href="mailto:loke_hui_jun_michelle@schools.gov.sg" target="_blank" rel="noopener noreferrer">loke_hui_jun_michelle@schools.gov.sg</a></td>
 		</tr>
 		<tr>
-			<td>LSM<br></td>
+			<td>LSM</td>
 			<td>MDM SNG MENG FONG</td>
 			<td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a></td>
 		</tr>
 	</tbody>
-	</table>
+		</table>
 		
 # Teacher
 <table>
