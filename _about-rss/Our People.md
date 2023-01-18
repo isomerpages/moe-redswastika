@@ -25,7 +25,6 @@ description: ""
 	</table>
 
 # School Key Personnel
-
 |  | |  |
 | -------- | -------- | -------- |
 | School Staff Developer     | MRS NATHALIE TAY     | ong_shin_leei_nathalie@schools.gov.sg     |
