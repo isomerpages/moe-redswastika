@@ -37,7 +37,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;"><a href="/files/P1%20Booklist%202023.pdf" target="_blank">2022 Booklists</a></td>
+<td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;"><a href="/files/P1%20Booklist%202023.pdf" target="_blank">2023 Booklists</a></td>
 </tr>
 </tbody>
 </table>
