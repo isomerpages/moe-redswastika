@@ -172,7 +172,7 @@ description: ""
 </div>
 </td>
 <td>
-<div style="text-align: left;">Commit Learning Schoolhouse
+<div style="text-align: left;">NASCANS PHI @ Red Swastika School
 </div>
 </td>
 </tr>
@@ -182,7 +182,7 @@ description: ""
 <td>
 <div style="text-align: left;"><span style="background-color: initial;">During school term</span>
 </div>
-<div style="text-align: left;"><span style="background-color: initial;">Monday to Fridays   :    1.00pm - 7.00pm</span>
+<div style="text-align: left;"><span style="background-color: initial;">Monday to Fridays   :    1.30pm - 7.00pm</span>
 </div>
 <div style="text-align: left;"><span style="background-color: initial;">During school holidays</span>
 </div>
@@ -195,7 +195,9 @@ description: ""
 <tr>
 <td style="text-align: left;">Contact:
 </td>
-<td style="text-align: left;"><a href="mailto:enquiry@commitlearning.com.sg" target="">enquiry@commitlearning.com.sg</a><br>
+<td style="text-align: left;"><a href="mailto:rsscc
+@nascans.com" target="">rsscc
+@nascans.com</a><br>
 </td>
 </tr>
 </tbody>
