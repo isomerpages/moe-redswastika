@@ -27,32 +27,32 @@ description: ""
 
 |  | |  |
 | -------- | -------- | -------- |
-| School Staff Developer     | MRS NATHALIE TAY     | [ong_shin_leei_nathalie@schools.gov.sg](ong_shin_leei_nathalie@schools.gov.sg)     |
-| Head of Department English Language     | MRS APRIL JOANN NOBLE     | [sobrielo_april_joann@schools.gov.sg ](sobrielo_april_joann@schools.gov.sg )   |
-| Head of Department Chinese Language    | MRS POON WAI KUAN     | [poon_wai_kuan@schools.gov.sg](poon_wai_kuan@schools.gov.sg)     |
-| Head of Department Mathematics     | MRS GOH-WOON HUI HUI     | [woon_hui_hui@schools.gov.sg](woon_hui_hui@schools.gov.sg)    |
-| Head of Department Science    | MS SHARIFAH FADILLAH BTE SYED M I     | [sharifah_fadillah_syed@schools.gov.sg](sharifah_fadillah_syed@schools.gov.sg)    |
-| Head of Department Student Well-Being & Management     | MRS CHING KIM SIONG     | [ching_kim_siong@schools.gov.sg](ching_kim_siong@schools.gov.sg)   |
-| Head of Department CCE     | MR LEE BENG TECK JONATHAN     | [lee_beng_teck_jonathan@schools.gov.sg](lee_beng_teck_jonathan@schools.gov.sg)     |
-| Head of Department PE & CCA (Covering)    | MR KHO HAN KOON, MIKE    | [kho_han_koon@schools.gov.sg](kho_han_koon@schools.gov.sg)     |
-| Head of Department ICT & Data Management (Covering)    | MS LIM EE MIN     | [lim_ee_min@schools.gov.sg ](lim_ee_min@schools.gov.sg )    |
-| Year Head (Upper Pri)     | MR CHUA KWAN HENG     | [chua_kwan_heng@schools.gov.sg](chua_kwan_heng@schools.gov.sg)    |
-| Year Head (Middle Pri)     | MS TAN ZHI LING     | [tan_zhi_ling@schools.gov.sg](tan_zhi_ling@schools.gov.sg) |
-| Year Head (Lower Pri)     | MRS CAROL TNG     | [carol_cheong_sok_hiang@schools.gov.sg](carol_cheong_sok_hiang@schools.gov.sg)     |
-| Level Head English Language    | MDM SAIRA BANU     | [saira_banu_mohd_nasir@schools.gov.sg](saira_banu_mohd_nasir@schools.gov.sg)     |
-| Level Head Mathematics     | MRS LILIAN PEH (LEE PECK LENG)     | [lee_peck_leng_lilian@schools.gov.sg ](lee_peck_leng_lilian@schools.gov.sg )    |
-| Level Head Science    | MRS LANE LOW    | [koh_suyi_lane@schools.gov.sg](koh_suyi_lane@schools.gov.sg)     |
-| Level Head Chinese Language (Internal)     | MR FONG YI SHYANG     | [fong_yi_shyang@schools.gov.sg ](fong_yi_shyang@schools.gov.sg )   |
-| Subject Head CCE     | MRS CHUA HUIXIN     | [wang_huixin@schools.gov.sg](wang_huixin@schools.gov.sg)     |
-| Subject Head ICT & Data Management (Internal)     | MR WANG SIYANG    | [wang_siyang_b@schools.gov.sg](wang_siyang_b@schools.gov.sg)     |
-| Subject Head SAP    | MDM KOH SWEE YEN     | [koh_swee_yen@schools.gov.sg](koh_swee_yen@schools.gov.sg)     |
-| Subject Head Student Leadership     | MR LEE WEI LOONG     | [lee_wei_loong@schools.gov.sg](lee_wei_loong@schools.gov.sg)|
-| Subject Head Student Well-being     | MDM LIEW HWEE HONG     | [liew_hwee_hong@schools.gov.sg](liew_hwee_hong@schools.gov.sg)    |
-| Senior Teacher (Chinese Language)    | MR XIE TIANYI     | [xie_tianyi@schools.gov.sg](xie_tianyi@schools.gov.sg)     |
-| Senior Teacher (Mathematics)     | MRS GO LEE CHING     | [lim_lee_ching@schools.gov.sg](lim_lee_ching@schools.gov.sg)    |
-| Senior Teacher (Lower Primary Learners)     | MDM SITI AMINAH BTE MOHAMMAD ISA     | [siti_aminah_mohammad_isa@schools.gov.sg](siti_aminah_mohammad_isa@schools.gov.sg)     |
-| LSC     | MDM LOKE HUI JUN MICHELLE    | [loke_hui_jun_michelle@schools.gov.sg](loke_hui_jun_michelle@schools.gov.sg)     |
-| LSM     | MDM SNG MENG FONG    | [sng_meng_fong@schools.gov.sg](sng_meng_fong@schools.gov.sg)     |
+| School Staff Developer     | MRS NATHALIE TAY     | [ong_shin_leei_nathalie@schools.gov.sg  ](mailto:ong_shin_leei_nathalie@schools.gov.sg  )   |
+| Head of Department English Language     | MRS APRIL JOANN NOBLE     | sobrielo_april_joann@schools.gov.sg    |
+| Head of Department Chinese Language    | MRS POON WAI KUAN     | poon_wai_kuan@schools.gov.sg     |
+| Head of Department Mathematics     | MRS GOH-WOON HUI HUI     | woon_hui_hui@schools.gov.sg    |
+| Head of Department Science    | MS SHARIFAH FADILLAH BTE SYED M I     | sharifah_fadillah_syed@schools.gov.sg    |
+| Head of Department Student Well-Being & Management     | MRS CHING KIM SIONG     | ching_kim_siong@schools.gov.sg   |
+| Head of Department CCE     | MR LEE BENG TECK JONATHAN     | lee_beng_teck_jonathan@schools.gov.sg     |
+| Head of Department PE & CCA (Covering)    | MR KHO HAN KOON, MIKE    | kho_han_koon@schools.gov.sg     |
+| Head of Department ICT & Data Management (Covering)    | MS LIM EE MIN     | lim_ee_min@schools.gov.sg     |
+| Year Head (Upper Pri)     | MR CHUA KWAN HENG     | chua_kwan_heng@schools.gov.sg    |
+| Year Head (Middle Pri)     | MS TAN ZHI LING     | tan_zhi_ling@schools.gov.sg    |
+| Year Head (Lower Pri)     | MRS CAROL TNG     | carol_cheong_sok_hiang@schools.gov.sg     |
+| Level Head English Language    | MDM SAIRA BANU     | saira_banu_mohd_nasir@schools.gov.sg     |
+| Level Head Mathematics     | MRS LILIAN PEH (LEE PECK LENG)     | lee_peck_leng_lilian@schools.gov.sg     |
+| Level Head Science    | MRS LANE LOW    | koh_suyi_lane@schools.gov.sg     |
+| Level Head Chinese Language (Internal)     | MR FONG YI SHYANG     | fong_yi_shyang@schools.gov.sg    |
+| Subject Head CCE     | MRS CHUA HUIXIN     | wang_huixin@schools.gov.sg     |
+| Subject Head ICT & Data Management (Internal)     | MR WANG SIYANG    | wang_siyang_b@schools.gov.sg     |
+| Subject Head SAP    | MDM KOH SWEE YEN     | koh_swee_yen@schools.gov.sg     |
+| Subject Head Student Leadership     | MR LEE WEI LOONG     | lee_wei_loong@schools.gov.sg|
+| Subject Head Student Well-being     | MDM LIEW HWEE HONG     | liew_hwee_hong@schools.gov.sg    |
+| Senior Teacher (Chinese Language)    | MR XIE TIANYI     | xie_tianyi@schools.gov.sg     |
+| Senior Teacher (Mathematics)     | MRS GO LEE CHING     | lim_lee_ching@schools.gov.sg    |
+| Senior Teacher (Lower Primary Learners)     | MDM SITI AMINAH BTE MOHAMMAD ISA     | siti_aminah_mohammad_isa@schools.gov.sg     |
+| LSC     | MDM LOKE HUI JUN MICHELLE    | loke_hui_jun_michelle@schools.gov.sg     |
+| LSM     | MDM SNG MENG FONG    | sng_meng_fong@schools.gov.sg     |
 
 
 # Teacher
