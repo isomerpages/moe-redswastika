@@ -28,7 +28,9 @@ description: ""
 
 # School Key Personnel
 <table>
-		<tbody>
+	</table>
+<table>
+	<tbody>
 		<tr>
     <td>School Staff Developer<br></td>
     <td>MRS NATHALIE TAY<br></td>
@@ -96,7 +98,7 @@ description: ""
   <tr>
     <td>Level Head<br>Mathematics</td>
     <td>MRS LILIAN PEH (LEE PECK LENG)</td>
-    <td></td>
+    <td><a href="mailto:lee_peck_leng_lilian@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_peck_leng_lilian@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>Level Head<br>Science</td>
@@ -156,12 +158,14 @@ description: ""
   <tr>
     <td>LSM<br></td>
     <td>MDM SNG MENG FONG</td>
-    <td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a>    </td>
+    <td><a href="mailto:sng_meng_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">sng_meng_fong@schools.gov.sg</a></td>
 			</tr>
-	</table>
-			
+			</tbody>
+</table>
+		
+# Teacher
 <table>
-		<tbody>
+	<tbody>
 		<tr>
 			<td>MR ANG RUI XIANG JASPER</td>
 			<td><a href="mailto:ang_rui_xiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">ang_rui_xiang@schools.gov.sg</a></td>
