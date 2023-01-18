@@ -28,7 +28,7 @@ description: ""
 
 # School Key Personnel
 <table>
-	<tbody>
+		<tbody>
 		<tr>
     <td>School Staff Developer<br></td>
     <td>MRS NATHALIE TAY<br></td>
@@ -161,6 +161,8 @@ description: ""
 	</table>
 	<br>
 	</br>
+	</table>
+
 		
 # Teachers
 <table>
