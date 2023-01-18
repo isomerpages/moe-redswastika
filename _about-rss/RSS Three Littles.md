@@ -21,7 +21,7 @@ Values inculcation has been done uniquely in RSS through aligning the school val
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 837px">
+<table class="tg" style="undefined;table-layout: fixed; width: 820px">
 <colgroup>
 <col style="width: 426px">
 <col style="width: 411px">
