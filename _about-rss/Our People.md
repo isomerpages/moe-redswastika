@@ -315,17 +315,17 @@ description: ""
 <table>
 <tbody>
   <tr>
-		<td>SCHOOL COUNSELLOR<br></td>
+		<td>School Counsellor<br></td>
     <td>MDM LAI OI LEE CHERYL<br></td>
     <td><a href="mailto:lai_oi_lee_cheryl@schools.gov.sg" target="_blank" rel="noopener noreferrer">lai_oi_lee_cheryl@schools.gov.sg</a><br></td>
   </tr>
   <tr>
-		<td>SPECIAL EDUCATIONAL NEEDS (SEN) OFFICER</td>
+		<td>Special Education Needs (SEN) Officer</td>
     <td>MDM ELYSE LIM</td>
     <td><a href="mailto:lim_mei_chen@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_mei_chen@schools.gov.sg</a></td>
   </tr>
    <tr>
-		<td>SPECIAL EDUCATIONAL NEEDS (SEN) OFFICER<br></td>
+		<td>Special Education Needs (SEN) Officer<br></td>
     <td>MDM NURHAFIZAH BINTE ROSLE<br></td>
 		<td><a href="mailto:nurhafizah_Rosle@schools.gov.sg" target="_blank" rel="noopener noreferrer">nurhafizah_rosle@schools.gov.sg</a></td>
 	</tr>
@@ -335,18 +335,11 @@ description: ""
 	</p>
 	
 # 2023 Form Teachers and Subject Teachers
-
-<table>
-	<tbody>
-		<tr>
-			
-* [2023 P1 FTs and Subject Teachers.pdf](/files/2023%20P1%20FTs%20and%20Subject%20Teachers.pdf)
 		
+* [2023 P1 FTs and Subject Teachers.pdf](/files/2023%20P1%20FTs%20and%20Subject%20Teachers.pdf)
 * [2023 P2 FTs and Subject Teachers.pdf](/files/2023%20P2%20FTs%20and%20Subject%20Teachers.pdf)
 * [2023 P3 FTs and Subject Teachers.pdf](/files/2023%20P3%20FTs%20and%20Subject%20Teachers.pdf)
 * [2023 P4 FTs and Subject Teachers.pdf](/files/2023%20P4%20FTs%20and%20Subject%20Teachers.pdf)
 * [2023 P5 FTs and Subject Teachers.pdf](/files/2023%20P5%20FTs%20and%20Subject%20Teachers.pdf)
 * [2023 P6 FTs and Subject Teachers.pdf](/files/2023%20P6%20FTs%20and%20Subject%20Teachers.pdf)
-		</tr>
-	</tbody>
-	</table>
+	
