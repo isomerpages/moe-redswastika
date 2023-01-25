@@ -33,8 +33,8 @@ The application for the Parent Volunteer Scheme for the 2024 Primary One Registr
 		b) Copy of both parents' NRIC
 		c) Recent coloured photograph of both parents (IC/Passport size)
 	
-6. For more information on the Primary One Registration process, please visit https://www.moe.gov.sg/primary/p1-registration. To verify the home-school distance, please refer to the One Map School Query Service https://www.onemap.gov.sg/main/v2/schoolquery managed by the Singapore Land Authority (SLA).
+6. For more information on the Primary One Registration process, please visit [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration). To verify the home-school distance, please refer to the One Map School Query Service [https://www.onemap.gov.sg/main/v2/schoolquery](https://www.onemap.gov.sg/main/v2/schoolquery) managed by the Singapore Land Authority (SLA).
 7. Please note that the residential address indicated in this application form would be used for registration during the Primary One Registration Exercise. Kindly update the school if there is any change to your residential address.
 8.  Please note that the Mother Tongue Language option offered by Red Swastika School is Higher Chinese Language only for Primary 1 to 4; and Chinese and Higher Chinese at Primary 5 & 6.
 9.  PV scheme does not guarantee a place in the school but accords only an eligibility to register in Phase 2B. 
-10.  Parents who are interested may click on the link below to apply. https://go.gov.sg/rsspv2023
+10.  Parents who are interested may click on the link below to apply. [https://go.gov.sg/rsspv2023](https://go.gov.sg/rsspv2023)
