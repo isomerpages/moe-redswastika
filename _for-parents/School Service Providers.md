@@ -37,9 +37,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: left;">Link for Booklist:</td>
-	<td style="text-align: left;"> [2023 Booklist] 
-		(/files/P1%20Booklist%202023.pdf) </td>
+<td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;"><a href="https://cms.isomer.gov.sg/sites/moe-redswastika/media/files/mediaDirectory/files/editMediaSettings/P1%20Booklist%202023.pdf">2023 Booklists</a></td>
 </tr>
 </tbody>
 </table>
