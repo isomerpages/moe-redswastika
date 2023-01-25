@@ -37,7 +37,9 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;"><a href="https://redswastika.moe.edu.sg/rss/2022-booklists" target="_blank">2022 Booklists</a></td>
+<td style="text-align: left;">Link for Booklist:</td>
+	<td style="text-align: left;"> [2023 Booklist] 
+		(/files/P1%20Booklist%202023.pdf) </td>
 </tr>
 </tbody>
 </table>
