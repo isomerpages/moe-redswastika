@@ -21,5 +21,4 @@ In growing our 卍慈的孩子, we are greatly blessed to have the strong suppor
 At Red Swastika School, we are proud of our heritage and our RSS story. We hope that you will also gain a better understanding of our school through your viewing of our school website.
 
 **Ms Jessie Lim**
-
-**Principal**
+<br>**Principal**

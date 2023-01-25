@@ -21,7 +21,7 @@ Values inculcation has been done uniquely in RSS through aligning the school val
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 837px">
+<table class="tg" style="undefined;table-layout: fixed; width: 820px">
 <colgroup>
 <col style="width: 426px">
 <col style="width: 411px">
@@ -29,7 +29,7 @@ Values inculcation has been done uniquely in RSS through aligning the school val
 <tbody>
   <tr>
     <td class="tg-1zpo">A Little Friend cares for others and is generous in helping others. A Little Friend is respectful and gracious in his interactions with others. By being a Little Friend to others, RSS students establish and maintain healthy and rewarding relationships with those around them.</td>
-    <td class="tg-1zpo"><img src="/images/Little%20Friend.png" alt="Little Friend.png" width="379" height="242"></td>
+    <td class="tg-1zpo"><img src="/images/Little%20Friend.png" alt="Little Friend.png" width="360" height="230"></td>
   </tr>
 </tbody>
 </table>

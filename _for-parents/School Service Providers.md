@@ -37,7 +37,7 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;"><a href="https://redswastika.moe.edu.sg/rss/2022-booklists" target="_blank">2022 Booklists</a></td>
+<td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;"><a href="https://cms.isomer.gov.sg/sites/moe-redswastika/media/files/mediaDirectory/files/editMediaSettings/P1%20Booklist%202023%20v2.pdf">2023 Booklists</a></td>
 </tr>
 </tbody>
 </table>
@@ -111,7 +111,7 @@ description: ""
 <td style="text-align: left;">Contact:
 </td>
 <td style="text-align: left;">6775 5115/ 8444 5115<span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp; &nbsp;</span><span>&nbsp;&nbsp;</span></td>
-</tr><tr><td style="text-align: left;">School Bus Application Form:</td><td style="text-align: left;"><a href="/qql/slot/u530/Request for School Bus Services - P1 2022.pdf" target="_blank">Request for School Bus Services – P1 2022&nbsp;</a></td></tr>
+</tr><tr><td style="text-align: left;">School Bus Application Form:</td><td style="text-align: left;"><a href="https://cms.isomer.gov.sg/sites/moe-redswastika/media/files/mediaDirectory/files/editMediaSettings/Request%20for%20School%20Bus%20Services%20-%20P1%202023.pdf" target="_blank">Request for School Bus Services – P1 2023&nbsp;</a></td></tr>
 </tbody>
 </table>
 </div>
@@ -172,7 +172,7 @@ description: ""
 </div>
 </td>
 <td>
-<div style="text-align: left;">Commit Learning Schoolhouse
+<div style="text-align: left;">NASCANS PHI @ Red Swastika School
 </div>
 </td>
 </tr>
@@ -182,7 +182,7 @@ description: ""
 <td>
 <div style="text-align: left;"><span style="background-color: initial;">During school term</span>
 </div>
-<div style="text-align: left;"><span style="background-color: initial;">Monday to Fridays   :    1.00pm - 7.00pm</span>
+<div style="text-align: left;"><span style="background-color: initial;">Monday to Fridays   :    1.30pm - 7.00pm</span>
 </div>
 <div style="text-align: left;"><span style="background-color: initial;">During school holidays</span>
 </div>
@@ -195,7 +195,9 @@ description: ""
 <tr>
 <td style="text-align: left;">Contact:
 </td>
-<td style="text-align: left;"><a href="mailto:enquiry@commitlearning.com.sg" target="">enquiry@commitlearning.com.sg</a><br>
+<td style="text-align: left;"><a href="mailto:rsscc
+@nascans.com" target="">rsscc
+@nascans.com</a><br>
 </td>
 </tr>
 </tbody>
