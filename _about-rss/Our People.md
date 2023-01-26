@@ -43,7 +43,7 @@ description: ""
 | Level Head <br> Mathematics     | MRS LILIAN PEH (LEE PECK LENG)     | [lee_peck_leng_lilian@schools.gov.sg](mailto:lee_peck_leng_lilian@schools.gov.sg)     |
 | Level Head <br> Science    | MRS LANE LOW    | [koh_suyi_lane@schools.gov.sg](mailto:koh_suyi_lane@schools.gov.sg)     |
 | Level Head <br> Chinese Language (Internal)     | MR FONG YI SHYANG     | [fong_yi_shyang@schools.gov.sg](mailto:fong_yi_shyang@schools.gov.sg)    |
-| Subject Head <br> CCE     | MRS CHUA HUIXIN     | [wang_huixin@schools.gov.sg ](mailto:wang_huixin@schools.gov.sg )    |
+| Subject Head <br> Aesthetics     | MS TAN SHI YING     | [tan_shi_ying_a@schools.gov.sg ](mailto:Tan_Shi_Ying_A@schools.gov.sg )    | Subject Head <br> CCE     | MRS CHUA HUIXIN     | [wang_huixin@schools.gov.sg ](mailto:wang_huixin@schools.gov.sg )    |
 | Subject Head <br> ICT & Data Management (Internal)     | MR WANG SIYANG    | [wang_siyang_b@schools.gov.sg](mailto:wang_siyang_b@schools.gov.sg)     |
 | Subject Head <br> SAP    | MDM KOH SWEE YEN     | [koh_swee_yen@schools.gov.sg ](mailto:koh_swee_yen@schools.gov.sg )    |
 | Subject Head <br> Student Leadership     | MR LEE WEI LOONG     | [lee_wei_loong@schools.gov.sg](mailto:lee_wei_loong@schools.gov.sg)|
@@ -77,7 +77,12 @@ description: ""
 <tr>
 <td>MDM CHAN SOOK MEI CORINNA</td>
     <td><a href="mailto:corinna_chan_sook_mei@schools.gov.sg" target="_blank" rel="noopener noreferrer">corinna_chan_sook_mei@schools.gov.sg</a></td>
-	 </tr><tr>
+	 </tr>
+	<tr>
+<td>MS CHAN YING YING</td>
+    <td><a href="mailto:chan_ying_ying@schools.gov.sg" target="_blank" rel="noopener noreferrer">chan_ying_ying@schools.gov.sg</a></td>
+	 </tr>
+	<tr>
     <td>MS CHEN JIATING ABIGAIL </td>
     <td><a href="mailto:chen_jiating@schools.gov.sg" target="_blank" rel="noopener noreferrer">chen_jiating@schools.gov.sg</a><br></td>
 	</tr>
@@ -120,6 +125,10 @@ description: ""
   <tr>
     <td>MDM HO MAY LING</td>
     <td><a href="mailto:ho_may_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer">ho_may_ling@schools.gov.sg</a></td>
+  </tr>
+	  <tr>
+    <td>MDM HOW YU JIE</td>
+    <td><a href="mailto:how_yu_jie_rosalind@schools.gov.sg" target="_blank" rel="noopener noreferrer">how_yu_jie_rosalind@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>MS KHAIRUNISYA BTE HANAFI</td>
@@ -168,10 +177,6 @@ description: ""
   <tr>
     <td>MR MUHAMMAD KHALIS BIN ABDUL JALIL</td>
     <td><a href="mailto:muhammad_khalis_abdul_jalil@schools.gov.sg" target="_blank" rel="noopener noreferrer">muhammad_khalis_abdul_jalil@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>MR MUHAMMAD SHAFIQ BIN SHAIK HUSSAIN</td>
-    <td><a href="mailto:muhammad_shafiq_shaik_huss@schools.gov.sg" target="_blank" rel="noopener noreferrer">muhammad_shafiq_shaik_huss@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>MRS NEO BOCK LIAN<br></td>
