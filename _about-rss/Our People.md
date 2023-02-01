@@ -142,6 +142,10 @@ description: ""
     <td>MS LEE JAY GEE</td>
     <td><a href="mailto:lee_jay_gee@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_jay_gee@schools.gov.sg</a></td>
   </tr>
+	  <tr>
+    <td>MS LEE YEE YONG</td>
+    <td><a href="mailto:Lee_Yee_Yong@schools.gov.sg" target="_blank" rel="noopener noreferrer">lee_yee_yong@schools.gov.sg</a></td>
+  </tr>
   <tr>
     <td>MS LEUNG RUI FANG</td>
     <td><a href="mailto:leung_rui_fang@schools.gov.sg" target="_blank" rel="noopener noreferrer">leung_rui_fang@schools.gov.sg</a></td>
