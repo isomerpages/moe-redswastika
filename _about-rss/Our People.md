@@ -43,7 +43,8 @@ description: ""
 | Level Head <br> Mathematics     | MRS LILIAN PEH (LEE PECK LENG)     | [lee_peck_leng_lilian@schools.gov.sg](mailto:lee_peck_leng_lilian@schools.gov.sg)     |
 | Level Head <br> Science    | MRS LANE LOW    | [koh_suyi_lane@schools.gov.sg](mailto:koh_suyi_lane@schools.gov.sg)     |
 | Level Head <br> Chinese Language (Internal)     | MR FONG YI SHYANG     | [fong_yi_shyang@schools.gov.sg](mailto:fong_yi_shyang@schools.gov.sg)    |
-| Subject Head <br> Aesthetics     | MS TAN SHI YING     | [tan_shi_ying_a@schools.gov.sg ](mailto:Tan_Shi_Ying_A@schools.gov.sg )    | Subject Head <br> CCE     | MRS CHUA HUIXIN     | [wang_huixin@schools.gov.sg ](mailto:wang_huixin@schools.gov.sg )    |
+| Subject Head <br> Aesthetics     | MS TAN SHI YING     | [tan_shi_ying_a@schools.gov.sg ](mailto:Tan_Shi_Ying_A@schools.gov.sg )   
+| Subject Head <br> CCE     | MRS WANG HUIXIN    | [wang_huixin@schools.gov.sg](mailto:wang_siyang_b@schools.gov.sg)     |
 | Subject Head <br> ICT & Data Management (Internal)     | MR WANG SIYANG    | [wang_siyang_b@schools.gov.sg](mailto:wang_siyang_b@schools.gov.sg)     |
 | Subject Head <br> SAP    | MDM KOH SWEE YEN     | [koh_swee_yen@schools.gov.sg ](mailto:koh_swee_yen@schools.gov.sg )    |
 | Subject Head <br> Student Leadership     | MR LEE WEI LOONG     | [lee_wei_loong@schools.gov.sg](mailto:lee_wei_loong@schools.gov.sg)|
