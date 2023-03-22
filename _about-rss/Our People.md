@@ -95,6 +95,9 @@ description: ""
     <td>MRS CHEONG FONG LIN</td>
     <td><a href="mailto:chan_fong_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer">chan_fong_ling@schools.gov.sg</a></td>
   </tr>
+	    <td>MS CHIA AN YI</td>
+    <td><a href="mailto:chan_fong_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer">chia_an_yi@schools.gov.sg</a></td>
+  </tr>
   <tr>
     <td>MDM CHONG MEE FUNG</td>
     <td><a href="mailto:chong_mee_fung@schools.gov.sg" target="_blank" rel="noopener noreferrer">chong_mee_fung@schools.gov.sg</a></td>
@@ -130,6 +133,9 @@ description: ""
 	  <tr>
     <td>MDM HOW YU JIE</td>
     <td><a href="mailto:how_yu_jie_rosalind@schools.gov.sg" target="_blank" rel="noopener noreferrer">how_yu_jie_rosalind@schools.gov.sg</a></td>
+  </tr>
+	    <td>MR JONATHAN NG JUNMING</td>
+    <td><a href="mailto:Jonathan_Ng_Junming@schools.gov.sg" target="_blank" rel="noopener noreferrer">jonathan_ng_junming@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>MS KHAIRUNISYA BTE HANAFI</td>
@@ -330,6 +336,11 @@ description: ""
 		<td>School Counsellor<br></td>
     <td>MDM LAI OI LEE CHERYL<br></td>
     <td><a href="mailto:lai_oi_lee_cheryl@schools.gov.sg" target="_blank" rel="noopener noreferrer">lai_oi_lee_cheryl@schools.gov.sg</a><br></td>
+  </tr>
+	 <tr>
+		<td>Special Education Needs (SEN) Officer</td>
+    <td>MS BONG SHI QI SHIRLEY</td>
+    <td><a href="mailto:" target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr>
 		<td>Special Education Needs (SEN) Officer</td>
