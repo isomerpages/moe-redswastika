@@ -96,7 +96,7 @@ description: ""
     <td><a href="mailto:chan_fong_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer">chan_fong_ling@schools.gov.sg</a></td>
   </tr>
 	    <td>MS CHIA AN YI</td>
-    <td><a href="mailto:chan_fong_ling@schools.gov.sg" target="_blank" rel="noopener noreferrer">chia_an_yi@schools.gov.sg</a></td>
+    <td><a href="mailto:chia_an_yi@schools.gov.sg" target="_blank" rel="noopener noreferrer">chia_an_yi@schools.gov.sg</a></td>
   </tr>
   <tr>
     <td>MDM CHONG MEE FUNG</td>
