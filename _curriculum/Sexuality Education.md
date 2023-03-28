@@ -137,8 +137,8 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
 
 <tr>
+    <td class="tg-f8tx">Growing Years</td>
     <td class="tg-f8tx">Did You Know?<br>(60 min)</td>
-    <td class="tg-f8tx">Are We More than Friends?Lesson 1<br>(60 min)</td>
     <td class="tg-096r">This lesson focuses on helping students to know what pornography is and how it can affect themselves and others. Students will learn the dangers of being exposed to sexually explicit materials and reject the viewing and/or reading of pornographic materials. They will learn to evaluate their own responses when they encounter pornography by applying the strategy <b>‘Stop-Think-Do’</b>. 
 <br><br>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.
   <td class="tg-096r">Term 2 Week 2<br></td>
@@ -146,7 +146,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
   </tr>
 
   <tr>
-    <td class="tg-096r" rowspan="5">Growing Years<br></td>
+    <td class="tg-096r" rowspan="5"><br></td>
     <td class="tg-f8tx">Are We More than Friends?Lesson 1<br>(60 min)</td>
     <td class="tg-096r">In this lesson, students will learn to distinguish between the characteristics of love and infatuation, and identify the strong emotions that may arise from experiencing the feelings of infatuation. They will recognise that experiencing feelings of infatuation is part of growing up and becoming infatuated with someone does not mean that they should be involved in a romantic relationship. Instead, they should focus on building strong and healthy friendships with their circles of friends.</td>
     <td class="tg-096r">Term 2 Week 7<br></td>
