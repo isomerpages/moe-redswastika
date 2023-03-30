@@ -60,8 +60,8 @@ description: ""
 
 |  |                             |
 |------------------------------------|-----------------------------------------------|
-| MR ANG RUI XIANG JASPER            | ang_rui_xiang@schools.gov.sg                  |
-| MR ADRIAN LIM SOO JIN              | adrian_lim_soo_jin@schools.gov.sg             |
+| MR ANG RUI XIANG JASPER            | [ang_rui_xiang@schools.gov.sg](mailto:ang_rui_xiang@schools.gov.sg)                  |
+| MR ADRIAN LIM SOO JIN              | [adrian_lim_soo_jin@schools.gov.sg](mailto:adrian_lim_soo_jin@schools.gov.sg)             |
 | MS AMIRAH BINTE ZAINALABIDIN       | amirah_zainalabidin@schools.gov.sg            |
 | MR ANG CHEE WAI PATRICK            | ang_chee_wai_patrick@schools.gov.sg           |
 | MDM CHAN SOOK MEI CORINNA          | corinna_chan_sook_mei@schools.gov.sg          |
