@@ -105,7 +105,7 @@ This lesson is conducted separately for boys and girls in different classrooms, 
     <td class="tg-096r">Term 2 Week 2<br></td>
   </tr>
 </tbody>
-</table>
+</table><br>
 
 
 <center><strong>2023 SEXUALITY EDUCATION LESSONS IN CCE 2021 FOR PRIMARY 6</strong></center>	
