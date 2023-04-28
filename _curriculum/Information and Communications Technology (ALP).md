@@ -5,7 +5,7 @@ description: ""
 ---
 **Our Objectives**
 
-Through well-designed programmes that encourage active participation and reflection, we aim to develop future-ready and responsible digital learners who are rooted in sound values, equipped with essential knowledge and skills, and committed to giving back to the community.
+Through the use of information and communications technology, we aim to develop future-ready and responsible digital learners who are rooted in sound values, equipped with essential knowledge and skills, and committed to giving back to the community.
 
 **Our Key Programmes / Activities**
 
@@ -13,10 +13,9 @@ Through well-designed programmes that encourage active participation and reflect
 
 **e-Pedagogy**
 
-This is the practice of teaching with technology for active learning that creates a participatory, connected and reflective classroom to nurture the future-ready learner. Guided by e-Pedagogy, our teachers design differentiated learning experiences that enhance student engagement, enable subject mastery and develop 21st Century Competencies in all students. Through the well-designed learning experiences, we also aim to develop self-directed learners who have the joy of learning and will learn for life.
+This is the practice of teaching with technology for active learning that creates a participatory, connected and reflective classroom to nurture the future-ready learner. Guided by e-Pedagogy, our teachers design differentiated learning experiences that enhance student engagement, enable subject mastery and develop 21st Century Competencies in our students. Through well-designed learning experiences, we aim to develop our students as self-directed learners who enjoy the joy of learning.
 
-<img src="/images/Active%20learning%20processes%20with%20technology.png" 
-     style="width:35%">
+<img src="/images/Active%20learning%20processes%20with%20technology.png" style="width:35%">
 
 **Applied Learning Programme (ALP) – Tinkers to Thinkers**
 
@@ -32,17 +31,16 @@ Our Tier 1 programme is designed to expose all students to the coding world thro
 ![](/images/Tinkers%20to%20Thinkers.png)
 
 ![](/images/recreating%20notification%20board.png)
-<body>
+
 <center>
 	<p><em>Our P3 students re-creating the notification board in our MRT trains.</em></p>
 </center>
-</body>
+
 
 Our Tier 2 Programme is for students who have a strong interest in coding. They are invited to join the Robotics Club where they continue to hone their skills while learning to design and building robots. Students are also given opportunities to participate in various competitions where they are challenged to solve problems by applying the knowledge and skills acquired. Moving forward, the school has plans to engage our Tier 2 students in collaboration projects with secondary schools – this will further develop our student to become innovative leaders who are committed to contributing to the community.
 
 ![](/images/robotics%20club.png)
-<body>
+
 <center>
 	<p><em>Robotics Club students showcasing the robots that they have designed and coded to other students.</em></p>
 </center>
-</body>
