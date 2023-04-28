@@ -21,9 +21,9 @@ This is the practice of teaching with technology for active learning that create
 
 As the Chinese saying goes, “学无止境” — learning never stops and we should learn for life. In line with this belief, our ALP, Tinkers to Thinkers, aims to nurture the joy of learning in our students by creating an exciting but safe learning environment for them to tinker, explore, innovate, and grow.
 
-We believe that a child who tinkers is constantly involved in the thinking process. Our ALP provides the students with the opportunities to tinker with block-based coding. Through it, they develop computational thinking and 21st CC skills, and also attain a greater awareness of how coding and technology can be used in real world situations. They are then challenged to create solutions to real world problems, with the use of coding and technology.
+We believe that a child who tinkers is constantly involved in the thinking process. Our ALP provides students with the opportunities to tinker with block-based coding. Through such learning experiences, they develop computational thinking. 21st Century Competencies and also attain greater awareness of how coding and technology can be used in the real world. They are challenged to create solutions to real world problems, with the use of coding and technology.
 
-Our Tier 1 programme is designed to expose all students to the coding world through 3 different stages:
+Our Tier 1 programme is designed to expose all students to coding through 3 different stages:
 * Stage 1 - Imagine through PLAY
 * Stage 2 - Ignite the PASSION
 * Stage 3 - Innovate with PURPOSE
