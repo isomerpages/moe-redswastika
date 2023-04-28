@@ -32,20 +32,21 @@ Our Tier 1 programme is designed to expose all students to coding through 3 diff
 
 ![](/images/p1%20and%20p2%20students%20computational%20thinking%20skills.png)
 
-
-	<p><em><u>Our P1 and P2 students learning Computational Thinking Skills through Computer Science Unplugged activities and screenless coding sets.</u></em></p>
+<center>
+	<p><em><u>Our P1 and P2 students learning Computational Thinking Skills through Computer Science Unplugged activities and screenless coding sets.</u></em></p></center>
 
 
 ![](/images/p3%20students%20microbits.png)
 
-
-	<p><em><u>Our P3 students redesigning bus stops using Micro:bits, block-based coding and sustainable materials to support commuters’ needs.</u></em></p>
+<center>
+	<p><em><u>Our P3 students redesigning bus stops using Micro:bits, block-based coding and sustainable materials to support commuters’ needs.</u></em></p></center>
 
 
 ![](/images/p5%20students%20computer%20vision.png)
 
-
+<center>
 	<p><em><u>Our P5 students learning ‘computer vision’, converting inputs through their actions into data for machine learning.</u></em></p>
+	</center>
 
 
 Our Tier 2 Programme is for students who have a strong interest in coding. They are invited to join the Robotics Club where they continue to hone their skills in coding. Students are also given opportunities to participate in various competitions where they are challenged to solve problems by applying the knowledge and skills acquired. 
