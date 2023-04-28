@@ -11,13 +11,13 @@ The Aesthetics Department is committed to nurturing our students to be joyful le
 
 The Art Programme in RSS provides students with opportunities to explore and experiment with a variety of media and tools. Students are exposed to a multitude of art forms such as 2D, 3D, digital and traditional artworks. In P1, students get to rethink their idea of art materials and are exposed to materials in the environment – leaves, stones, sticks. The GIF Animation programme and Photography programme at P2 and P3, respectively, enable students to explore other media through the use of digital technology on top of the more traditional ones. As they move up to P4, students explore drawing using unconventional materials such as charcoal. At P5 and P6, students have the opportunities to hone their visual design skills.
 
-![](/images/Art_1.png)
+![](/images/aesthetics.png)
 
 In addition to art practices, the Art programme in RSS also comprises cultural experiences. To achieve the school’s goal of nurturing bilingual and bi-cultural students with a global outlook, the Art programme in RSS is specially designed to
 incorporate a rich and broad understanding and experience of the Chinese, local and global culture. The Mother-Tongue Language Fortnight (MTLF) Art programme and the Primary 4 Museum-based Art learning journey are examples of programmes that aim to deepen students’ understanding and appreciation of the local and Chinese culture. Through these rich and varied learning experiences, our students enjoy art, learn to communicate visually and make meaning through connecting with society and culture. 
 
 
-![](/images/Aesthetics%2024August.jpeg)
+![](/images/aesthetics2.png)
 
 **Music Programme**
 
