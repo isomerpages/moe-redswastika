@@ -20,8 +20,8 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
-<col style="width: 30%">
-<col style="width: 70%">
+<col style="width: 25%">
+<col style="width: 75%">
 </colgroup>
 <tbody>
   <tr>
@@ -41,7 +41,7 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 		<td class="tg-iksn">Mr Chia retired in Dec 2001 and was succeeded by <strong>Mr Ong Kian Hin</strong> in 2002. The school increased its Co-Curricular Activities (CCAs) to provide more platforms for holistic student development. The school underwent further infrastructural development and the restructured school building was officially opened in Aug 2007 before Mr Ong retired in Dec 2007. That year, the school also achieved 3 Sustained Achievement Awards in the areas of Physical Fitness, Sports and Aesthetics.</td>
   </tr>
   <tr>
-    <td class="tg-iksn"><img src="/images/chua_ying_hwee.jpeg" alt="chua_ying_hwee.jpg"></td>
+    <td class="tg-iksn"><img src="/images/chua_ying_hwee.jpeg" alt="chua_ying_hwee.jpg" width="100" height="131"></td>
 		<td class="tg-iksn">In January 2008, <strong>Mr Chua Ying Hwee</strong> took over as the school’s fifth Principal. The school had since set up partnerships with schools from five cities of China. The school continued to achieve its 3 Sustained Achievement Awards in Physical Fitness, Sports and Aesthetics. The school management team geared itself up to take the school, its staff and its students forward to meet the challenges of the 21st century.</td>
   </tr>
   <tr>
