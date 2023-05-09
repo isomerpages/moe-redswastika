@@ -10,12 +10,11 @@ description: ""
 Red Swastika School was founded by the World Red Swastika Society (Singapore Administration Centre). As an extension of its charitable mandate and to achieve the noble objective of transforming people through education, the Society built a school on site at Somapah Road in Changi. The more-than-three-acres piece of land was donated by then President of the Society, Mr Quek Shin, who saw the need to provide free primary education for the poor and to aid in the promotion of education in the outlying areas. Originally known as “Wan Tzu School”, the school was later renamed Red Swastika School. The foundation stone was laid at the school opening ceremony on 13th January 1951.
 
 
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:24px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:inherit;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:24px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:inherit;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
