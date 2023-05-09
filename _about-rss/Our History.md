@@ -12,9 +12,9 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:16px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Lato;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:16px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Lato;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
