@@ -28,4 +28,3 @@ description: ""
 *  Official absences ordered by any government agency 
 
 8. Students should stay within the school premises during school hours and not leave without permission.
-
