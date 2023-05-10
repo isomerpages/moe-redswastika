@@ -3,7 +3,9 @@ title: English
 permalink: /curriculum/english/
 description: ""
 ---
-# Our Objectives
+
+
+<h1>Our Objectives</h1>
 
 At RSS, we aim to nurture confident and effective communicators as well as critical thinkers who are able to use the English Language to deepen their insights, connect with others effectively and contribute to the community.
 
