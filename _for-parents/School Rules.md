@@ -7,18 +7,25 @@ description: ""
 
 2. Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
 
-3. Students should keep a neat and tidy hairstyle. They should not dye or highlight their hair at all times. Male students must be clean shaven and neat in appearance. Girls with long hair should have them tied up neatly.
+3. Students should keep a neat and tidy hairstyle. They should not dye or highlight their hair at all times. Male students must be clean shaven and neat in appearance. Girls with long hair should tie their hair up neatly. 
 
-4. Students should demonstrate the school values exemplified by the RSS Three Littles.
+4. All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or is intended to be used to cause harm to others. 
 
-5. Students should greet teachers, school staff, and one another politely.
+5. Students are not allowed to wear jewellery or bring expensive / inappropriate items to school. 
 
-6. Students should be engaged learners at all times. They should complete their assignments and hand in their work on time.
+6. Students should demonstrate the school values exemplified by the RSS Three Littles: 
+* Students must be punctual for all school activities. 
+*  Students should greet teachers, school staff, and one another politely. 
+* Students must show care and respect for their teachers and peers. 
+* Students should be engaged learners at all times. 
+* Students should complete their assignments and hand in their work on time. 
+* Students should keep the school premises and its surroundings clean. 
 
-7. Students should stay within the school premises during school hours and not leave without permission.
 
-8. Students should keep the school premises and its surroundings clean.
+7. Students should produce a medical certificate or letter of excuse from their parents/ guardians when they are unable to attend school. For all weighted assessments and examinations, only the following will be accepted as valid reasons for absence: 
+* Medical reasons supported by a Medical Certificate (MC) from a doctor or medical practitioner who is registered under the Medical registration Act on the Singapore Medical Council website. 
+* Bereavement of family members. A medical certificate or copy of the death certificate has to be given to the Form Teacher when the student returns to school to support his/her absence. 
+*  Official absences ordered by any government agency 
 
-9. Students are not allowed to have in their possession any weapon. They are not allowed to bring any weapon-like item which is used or intended to be used to cause harm to others. They are also not allowed to wear jewellery, bring any expensive items and/or inappropriate items to school.
+8. Students should stay within the school premises during school hours and not leave without permission.
 
-10. Students should produce a medical certificate or letter of excuse from their parents/guardians when they are unable to attend school.
