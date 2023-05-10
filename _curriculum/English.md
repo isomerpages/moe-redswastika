@@ -97,6 +97,15 @@ Through the above activities, RSS students discover the joy of reading and open 
 <img src="/images/author%20talks.png" style="width:65%">
 
 
+<u>RSS Reads!</u>
+<br>
+RSS Reads! is a termly event organized by both the English and Chinese Language departments with the main objective of deepening the students’ love in reading. Every term, the students will be presented with a different theme – a way in which the joy in reading can be cultivated and translated into actions. We look forward to seeing how our students can materialise their love for reading through the different termly themes. 
+
+<u>Term 1:</u><br>
+The theme for term 1 was ‘Superheroes’. Staff and students came dressed as their favourite hero from a book/real-life event that inspired them. Some also brought along a prop that represented their chosen hero. The students also brough the book related to their chosen hero as they were given the opportunity to read about it in class and share their ‘hero’ stories with their peers and teachers.
+
+![](/images/rss%20reads1.jpg)
+Look out for the other RSS Reads! activities in the coming terms. 
 <br>
 
 &gt; MOE Programmes
