@@ -8,9 +8,8 @@ description: ""
 At RSS, we aim to nurture confident and effective communicators as well as critical thinkers who are able to use the English Language to deepen their insights, connect with others effectively and contribute to the community.
 
 # Our Key Programmes/Activities
-<br>
 
-Oracy Programmes
+ <p style="color:#FF0000">Oracy Programmes</p> 
 
 **Effective Communication Programme (ECP)**
 
@@ -26,7 +25,7 @@ The P1 students are guided to prepare a speech on a given topic within their kno
 This activity extends the learning gleaned by the students when they were in P1. The P2 students pick an item from a collection before they are guided to prepare and present a speech in relation to the chosen item. Through this activity, the students learn to generate ideas creatively and they continue to hone their public speaking and writing skills.
 
 
-<img src="/images/pick%20tell.png" style="width:65%">
+<img style="width:65%" src="/images/pick%20tell.png">
 
 
 **Primary 3 &amp; Primary 4: Readers’ Theatre**
@@ -44,7 +43,7 @@ Our P6 students will find that producing a podcast is a great way for them to de
 
 <br>
 
-&gt; Writing Programmes
+ <p style="color:#FF0000">Writing Programmes</p> 
 
 **Use of Mentor Texts**
 
@@ -68,7 +67,7 @@ Students are engaged in independent writing where they apply what they have lear
 From Primary 3 to Primary 6, the students are engaged in process writing where each writing task is broken down into its smaller components. The students are guided to complete each component sequentially, and this helps make writing a more enjoyable task for many students. The students also learn that writing has to be planned, and it will evolve as it develops and takes shape. Process Writing consists of two major and interdependent phases: the prewriting phase and the writing phase. Prewriting helps writers to organize, sequence, and elaborate on their ideas prior to writing. The writing phase turns this organisation of ideas into a composition.
 
 
-<img src="/images/books.png" style="width:65%">
+<img style="width:65%" src="/images/books.png">
 
 <br>
 
@@ -94,7 +93,7 @@ Through the above activities, RSS students discover the joy of reading and open 
 
 
 
-<img src="/images/author%20talks.png" style="width:65%">
+<img style="width:65%" src="/images/author%20talks.png">
 
 
 <u>RSS Reads!</u>
@@ -116,20 +115,20 @@ STELLAR (Strategies for English Language Learning and Reading) aims to foster a 
 
 **The Lower Primary STELLAR comprises of the following strategies:**
 
-<img src="/images/The%20Lower%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png" style="width:65%">
+<img style="width:65%" src="/images/The%20Lower%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png">
 
 **The Upper Primary STELLAR comprises of the following strategies:**
 
-<img src="/images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png" style="width:65%">
+<img style="width:65%" src="/images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png">
 
-<img src="/images/chinese%20opera.png" style="width:65%">
-<img src="/images/wishy%20washy.png" style="width:65%">
+<img style="width:65%" src="/images/chinese%20opera.png">
+<img style="width:65%" src="/images/wishy%20washy.png">
 
 **Learning Support Programme (LSP), Reading Remediation Programme (RRP) and School-based Dyslexia Remediation (SDR)**
 
 The LSP (Primary 1 &amp; Primary 2), RRP (Primary 3 &amp; Primary 4) and SDR (Primary 3 &amp; Primary 4) are literacy support programmes that cater to the needs of struggling readers. The lessons are conducted by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors who provide remediation in reading, using comprehensive teaching packages developed by the Reading Unit of EL Curriculum Planning and Development Division.
 
-<img src="/images/word%20games.png" style="width:65%">
+<img style="width:65%" src="/images/word%20games.png">
 
 
 <br>
