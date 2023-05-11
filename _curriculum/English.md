@@ -3,14 +3,13 @@ title: English
 permalink: /curriculum/english/
 description: ""
 ---
-# Our Objectives
+<h1>Our Objectives</h1>
 
 At RSS, we aim to nurture confident and effective communicators as well as critical thinkers who are able to use the English Language to deepen their insights, connect with others effectively and contribute to the community.
 
 # Our Key Programmes/Activities
-<br>
 
-> Oracy Programmes
+ <p style="color:#FF0000">Oracy Programmes</p> 
 
 **Effective Communication Programme (ECP)**
 
@@ -26,30 +25,29 @@ The P1 students are guided to prepare a speech on a given topic within their kno
 This activity extends the learning gleaned by the students when they were in P1. The P2 students pick an item from a collection before they are guided to prepare and present a speech in relation to the chosen item. Through this activity, the students learn to generate ideas creatively and they continue to hone their public speaking and writing skills.
 
 
-<img src="/images/pick%20tell.png" 
-     style="width:65%">
+<img style="width:65%" src="/images/pick%20tell.png">
 
 
-**Primary 3 & Primary 4: Readers’ Theatre**
+**Primary 3 &amp; Primary 4: Readers’ Theatre**
 
-The P3 & P4 students perform a Readers’ Theatre for their teachers and classmates based on a script of their choice. They work collaboratively as a team to “act out” the different roles in a story by reading in an expressive manner, using effective vocal cues. Through this activity, the students learn effective dramatization skills and continue to build their confidence in engaging an audience.
+The P3 &amp; P4 students perform a Readers’ Theatre for their teachers and classmates based on a script of their choice. They work collaboratively as a team to “act out” the different roles in a story by reading in an expressive manner, using effective vocal cues. Through this activity, the students learn effective dramatization skills and continue to build their confidence in engaging an audience.
 
 
-**Primary 5 & Primary 6: Reading Aloud and Stimulus-Based Conversations**
+**Primary 5: Debate**
 
-Students are progressively guided from P1 to P6 to develop their reading and conversational skills. The consolidation and application of learning culminates in P5 and P6 where students learn to engage their audience through i) accurate, fluent and expressive reading; and ii) well-developed and interesting contents.
+Using debates in the classroom provide students the opportunity to work in a collaborative and cooperative group setting. The students get the opportunity to discuss and organize their points of view for one side of an argument as they discover new information and put knowledge into action. Classroom debates also help students learn through friendly competition, examine controversial topics as well as strengthen their skills in the areas of leadership, communication, problem solving and presentation. 
 
-<img src="/images/assembly%20talk.png" 
-     style="width:65%">
+**Primary 6: Podcast**
 
+Our P6 students will find that producing a podcast is a great way for them to develop their oral and creative writing skills. As they plan and structure their podcast, write and edit their scripts as well as record and edit their audio, the students will be able to express their ideas in a unique and creative way which is also a favourable avenue with the current times. 
 
 <br>
 
-> Writing Programmes
+ <p style="color:#FF0000">Writing Programmes</p> 
 
 **Use of Mentor Texts**
 
-We adopt the ‘I Do-We Do-You Do’ model in teaching writing. In Primary 3 and 4, students read and emulate mentor texts that serve as models of good writing. 
+We adopt the ‘I Do-We Do-You Do’ model in teaching writing. In Primary 3 and 4, students read and emulate mentor texts that serve as models of good writing.
 
 *I Do:*  
 
@@ -57,7 +55,7 @@ Based on the learning focus of a lesson, the teacher introduces a mentor text to
 
 *We Do:* 
 
-Guided practices are designed for students to test drive and apply what they have learnt from a mentor text.  The activities are conducted in pairs or in a group to encourage collaborative learning.
+Guided practices are designed for students to test drive and apply what they have learnt from a mentor text. The activities are conducted in pairs or in a group to encourage collaborative learning.
 
 *You Do:* 
 
@@ -69,13 +67,12 @@ Students are engaged in independent writing where they apply what they have lear
 From Primary 3 to Primary 6, the students are engaged in process writing where each writing task is broken down into its smaller components. The students are guided to complete each component sequentially, and this helps make writing a more enjoyable task for many students. The students also learn that writing has to be planned, and it will evolve as it develops and takes shape. Process Writing consists of two major and interdependent phases: the prewriting phase and the writing phase. Prewriting helps writers to organize, sequence, and elaborate on their ideas prior to writing. The writing phase turns this organisation of ideas into a composition.
 
 
-<img src="/images/books.png" 
-     style="width:65%">
+<img style="width:65%" src="/images/books.png">
 
 <br>
 
 
-> Reading Programmes
+&gt; Reading Programmes
 
 **EL/CL Reading Programme**
 
@@ -94,13 +91,23 @@ This programme, as a part of the STELLAR Programme (as shown under MOE Programme
 Through the above activities, RSS students discover the joy of reading and open themselves up to a world beyond their imagination.
 
 
-<img src="/images/author%20talks.png" 
-     style="width:65%">
 
 
+<img style="width:65%" src="/images/author%20talks.png">
+
+
+<u>RSS Reads!</u>
+<br>
+RSS Reads! is a termly event organized by both the English and Chinese Language departments with the main objective of deepening the students’ love in reading. Every term, the students will be presented with a different theme – a way in which the joy in reading can be cultivated and translated into actions. We look forward to seeing how our students can materialise their love for reading through the different termly themes. 
+
+<u>Term 1:</u><br>
+The theme for term 1 was ‘Superheroes’. Staff and students came dressed as their favourite hero from a book/real-life event that inspired them. Some also brought along a prop that represented their chosen hero. The students also brough the book related to their chosen hero as they were given the opportunity to read about it in class and share their ‘hero’ stories with their peers and teachers.
+
+![](/images/rss%20reads1.jpg)
+Look out for the other RSS Reads! activities in the coming terms. 
 <br>
 
-> MOE Programmes
+&gt; MOE Programmes
 
 **STELLAR Programme**
 
@@ -108,25 +115,20 @@ STELLAR (Strategies for English Language Learning and Reading) aims to foster a 
 
 **The Lower Primary STELLAR comprises of the following strategies:**
 
-<img src="/images/The%20Lower%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png" 
-     style="width:65%">
+<img style="width:65%" src="/images/The%20Lower%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png">
 
 **The Upper Primary STELLAR comprises of the following strategies:**
 
-<img src="/images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png" 
-     style="width:65%">
+<img style="width:65%" src="/images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png">
 
-<img src="/images/chinese%20opera.png" 
-     style="width:65%">
-<img src="/images/wishy%20washy.png" 
-     style="width:65%">
+<img style="width:65%" src="/images/chinese%20opera.png">
+<img style="width:65%" src="/images/wishy%20washy.png">
 
 **Learning Support Programme (LSP), Reading Remediation Programme (RRP) and School-based Dyslexia Remediation (SDR)**
 
-The LSP (Primary 1 & Primary 2), RRP (Primary 3 & Primary 4) and SDR (Primary 3 & Primary 4) are literacy support programmes that cater to the needs of struggling readers. The lessons are conducted by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors who provide remediation in reading, using comprehensive teaching packages developed by the Reading Unit of EL Curriculum Planning and Development Division.
+The LSP (Primary 1 &amp; Primary 2), RRP (Primary 3 &amp; Primary 4) and SDR (Primary 3 &amp; Primary 4) are literacy support programmes that cater to the needs of struggling readers. The lessons are conducted by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors who provide remediation in reading, using comprehensive teaching packages developed by the Reading Unit of EL Curriculum Planning and Development Division.
 
-<img src="/images/word%20games.png" 
-     style="width:65%">
+<img style="width:65%" src="/images/word%20games.png">
 
 
 <br>
