@@ -12,9 +12,9 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:16px;
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:18px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:16px;
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Lato;font-size:18px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
@@ -51,5 +51,6 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 </tbody>
 </table>
 
-
+<p>
 In 2019, the school began a new chapter under the leadership of Ms Jessie Lim. With the completion of the PERI upgrading works in July 2019, the school leveraged the new facilities such as the Indoor Sports Hall, teaching laboratory and indoor basketball courts to strengthen the holistic development of the students. From 2020, the school started operating as single-session - bringing together all her students to enjoy learning in a safe and caring environment.
+	</p>
