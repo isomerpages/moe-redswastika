@@ -52,7 +52,7 @@ Ms Jessie Lim<br>
 <tr>
 <td style="text-align: left;">School Address:
 </td>
-<td style="text-align: left;">350 Bedok North Avenue 3 Singapore (469719)
+<td style="text-align: left;">350 Bedok North Avenue 3 Singapore (469719);
 </td>
 </tr>
 <tr>

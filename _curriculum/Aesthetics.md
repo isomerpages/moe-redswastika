@@ -9,24 +9,21 @@ The Aesthetics Department is committed to nurturing our students to be joyful le
 
 **Art Programme**
 
-The Art Programme in RSS provides students with opportunities to explore and experiment with a variety of media and tools. Students are exposed to a multitude of art forms such as 2D, 3D, digital and traditional artworks. In P1, students get to rethink their idea of art materials and are exposed to materials in the environment – leaves, stones, sticks. The GIF Animation programme and Photography programme at P2 and P3, respectively, enable students to explore other media through the use of digital technology on top of the more traditional ones. As they move up to P4, students explore drawing using unconventional materials such as charcoal. At P5 and P6, students have the opportunities to hone their visual design skills.
+Our Art Programme provides students with the opportunities to explore and experiment with a variety of media and tools. Students are exposed to a multitude of art forms such as 2D, 3D, digital and traditional artworks. In P1, students get to rethink their idea of art materials and are exposed to art materials in the environment such as leaves, stones and sticks. The P2 GIF Animation programme and P3 Photography programme enable students to explore art through the use of digital technology. As students progress to P4, they explore drawing using unconventional materials such as charcoal. At P5 and P6, students have the opportunities to hone their visual design skills.
 
-![](/images/aesthetics.png)
+![](/images/Art_1.png)
 
-In addition to art practices, the Art programme in RSS also comprises cultural experiences. To achieve the school’s goal of nurturing bilingual and bi-cultural students with a global outlook, the Art programme in RSS is specially designed to
-incorporate a rich and broad understanding and experience of the Chinese, local and global culture. The Mother-Tongue Language Fortnight (MTLF) Art programme and the Primary 4 Museum-based Art learning journey are examples of programmes that aim to deepen students’ understanding and appreciation of the local and Chinese culture. Through these rich and varied learning experiences, our students enjoy art, learn to communicate visually and make meaning through connecting with society and culture. 
+In addition to art practices, our Art programme is specially designed to incorporate a rich and broad experience of the Chinese, local and global cultures, so as to achieve the school’s goal of nurturing bilingual and bi-cultural students with a global outlook. The Mother-Tongue Language Fortnight (MTLF) Art programme and the Primary 4 Arts and Chinese Experiential (ACE) Camp are examples of programmes that aim to deepen students’ understanding and appreciation of local and Chinese culture. These rich and varied learning experiences enable our students to enjoy art and communicate visually through connecting with society and culture.
 
-
-![](/images/aesthetics2.png)
+![](/images/Aesthetics%2024August.jpeg)
 
 **Music Programme**
 
-The Music Programme in RSS is designed to engage students through enjoyable and meaningful musical learning experiences. To achieve the school’s goal of nurturing bilingual and bi-cultural students with a global outlook, the Music Programme is customised to provide opportunities for students to develop appreciation of the Chinese Language and culture, cultural diversity in Singapore and the global cultures. Examples of such programmes include the P5 and P6 Xinyao Programme, P3 Angklung Programme and the P1 to P6 International Friendship Day Music Performance. 
-        
+Our Music Programme seeks to engage students through enjoyable and meaningful musical learning experiences. To achieve the school’s goal of nurturing bilingual and bi-cultural students with a global outlook, the Music Programme is customised to provide opportunities for students to develop an appreciation of the Chinese Language and culture, as well as local and global cultures. Examples of such programmes include the P5 and P6 Xinyao Programme, P3 Angklung Programme and the P1 to P6 International Friendship Day Music Programme.
 
 ![](/images/Music_1.png)
 
-The Music Programme also ensures that students’ learning is deepened through the progression of musical knowledge and skills, such as the Recorder Programme at P3 and P4, and the Ukulele Programme at P4 and P5. In addition, students are given the opportunities to develop their ability for creative composition and expression, such as the P5 GarageBand Programme. Through these rich musical learning experiences, students develop appreciation of music in the local and global cultures and the ability for creative expression and communication through music, thus motivating them towards a lifelong enjoyment and appreciation of music.
+Our Music Programme also ensures that students’ learning is deepened through the progression of musical knowledge and skills such as the Recorder Programme at P3 and P4, and the Ukulele Programme at P4 and P5. In addition, students are given the opportunities to develop their ability for creative composition and expression through programmes such as the P5 GarageBand. These rich musical learning experiences enable our students to develop an appreciation of music in the local and global cultures, and the ability for creative expression and communication through music.
 
 ![](/images/IF%20MusArt%20Day.png)
 ![](/images/RSS%20Musical%20Buskers.png)
