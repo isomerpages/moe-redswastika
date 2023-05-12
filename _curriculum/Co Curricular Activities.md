@@ -21,8 +21,8 @@ CCAs enable every child to develop and demonstrate:
 
 Students are strongly encouraged to participate in a CCA from Primary 3 onwards. We provide students with CCA choices to cater to their different interests and talents. These are broadly categorized into the following four categories:
 
-![](/images/RSS%20CCA.png)
 
+![](/images/cca12may.png)
 ![](/images/CCA.png)
 
 **Co-Curriculum Enrichment**
