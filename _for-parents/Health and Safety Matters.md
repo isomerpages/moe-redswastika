@@ -26,7 +26,7 @@ As advised by Health Promotion Board, first aid kit should not contain oral medi
 
 # Safety Matters
 
-* Sports (Click [here](/files/5%20DOs%20of%20PE%20%20PAL.pdf) for more information)
+* Sports (Click [here](/files/rss%20sports%20safety_final.pdf) for more information)
 
 
 * Special Rooms (Click [here](/files/Art%20Room%20Safety.pdf) for more information)
