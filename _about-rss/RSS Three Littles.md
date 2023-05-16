@@ -67,4 +67,4 @@ By being a Little Friend to others, we can build a caring and <b>harmonious</b> 
 # Little Teacher
 A Little Teacher seeks to make life better for others through innovative and better ways of doing things (<b>responsible</b> and <b>resilient</b>) and is one who is willing to serve the needs of the community (<b>generosity</b>). He/She leads by example and influences others positively so as to build a <b>harmonious</b> community. 
 
-<img src="/images/Little%20Teacher.png" style="width:100%">
+<img src="/images/Little%20Teacher.png" style="width:85%">
