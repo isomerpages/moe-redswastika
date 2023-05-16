@@ -9,18 +9,35 @@ description: ""
 
 RSS is one of the Special Assistance Plan (SAP) Primary schools.
 
-Our SAP Flagship Programme is named “SAP Culture: School Culture, Chinese Culture” 文化育苗，花开卍慈。
+<b>Our SAP Flagship Programme特选旗舰计划：</b>
+<b><br>“SAP Culture: School Culture, Chinese Culture” 文化育苗，花开卍慈。</b>
 
 We aim to:
 
-1. provide a bilingual and bicultural environment that develops learners who appreciate the Chinese culture and can communicate effectively using both the English and Chinese Languages;
-2. develop learners who appreciate cultural diversity in Singapore, thus contributing effectively and meaningfully towards nation building; and
-3. develop learners who have a global outlook.
+1. 识文化
+<br>provide a bilingual and bicultural environment that develops learners who appreciate the Chinese culture and can communicate effectively using both the English and Chinese Languages;
+<br>
+2. 系祖国
+<br>develop learners who appreciate cultural diversity in Singapore, thus contributing effectively and meaningfully towards nation building; and
+<br>
+3. 知天下
+<br>develop learners who have a global outlook.
 
 **Our Key Programmes/Activities重点项目**
 
-<img src="/images/Chinese%20Culture%20Programme.png" 
-     style="width:35%">
+![](/images/2023%20sap_1.png)
+
+**Tier 1:**
+<br>All students participate in broad-based SAP programmes comprising SAP assemblies, recess activities and intra-school learning activities. These activities are designed to deepen students’ appreciation of the Chinese Language,  Chinese culture, local and global cultures and customs.
+<br>在卍慈，我们希望通过艺术的熏陶，让学生多接触中华文化和本土文化，并为学生开拓视野，帮助他们更广泛地了解世界和不同的文化传统。因此学校每年会庆祝农历新年、端午节和中秋节，还会主办不同类型的中华文化周会和活动。这些活动和表演形式多样化，包含戏剧、相声、华族舞蹈、木头剧、华乐、京剧、游戏、展览等等。每一场活动和演出加深学生的印象，并且让他们从中学习更多的中华文化的知识。
+
+
+
+| SAP Assembly Programmes特选周会 | Festival Celebrations 节庆活动 | School Based Culture Activities 卍慈小讲堂 |
+| -------- | -------- | -------- |
+| ![](/images/2023%20sap_2.jpg)     | ![](/images/2023%20sap_3.jpg)     | ![](/images/2023%20sap_4.jpg)     |
+
+
 
 **Chinese Culture Programme 中华文化课程**
 
@@ -66,6 +83,6 @@ Our SAP assembly programmes allow students to learn more about of the different 
 
 **SAP Enrichment Programmes 特选增益活动**
 
-The SAP enrichment programmes were introduced to extend learning for our students after the examinations. The programme is intended to deepen our students’ understanding and appreciation of local culture as well as Chinese culture, heritage and literature. The programmes include P2 Poetry Recitation Programme, P3 Conversational Chinese and Malay Programme, P4 Reporters Programme and P5 Romance of the Three Kingdom Games. Our P5 & P6 students are also engaged in virtual lessons on culture which are conducted by our Chengdu and Nanjing counterparts.
+The SAP enrichment programmes were introduced to extend learning for our students after the examinations. The programme is intended to deepen our students’ understanding and appreciation of local culture as well as Chinese culture, heritage and literature. The programmes include P2 Poetry Recitation Programme, P3 Conversational Chinese and Malay Programme, P4 Reporters Programme and P5 Romance of the Three Kingdom Games. Our P5 &amp; P6 students are also engaged in virtual lessons on culture which are conducted by our Chengdu and Nanjing counterparts.
 
 特选增益活动于2019年开始。课程的目的是希望学生考后还能继续参与有意义的学习，并加深对中华文化，当地文化，中国传统和文学的理解和欣赏。由于新冠疫情，学校暂停了一切海外交流和浸濡活。特选增益活动也为学习提供了机会，这让学校可以继续与海外教育合作伙伴进行合作。活动内容包括二年级的诗歌朗诵，三年级的马来语口语课程，四年级的小记者活动和五年级的“三国演艺”棋盘游戏。五年级和六年级的学生还参加了海外伙伴学校设计的成都和南京文化课程。
