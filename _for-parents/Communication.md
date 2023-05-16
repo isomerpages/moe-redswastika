@@ -12,7 +12,7 @@ The school values parents/guardians as co-partners in educating our students. We
 * Letters to Parents through Parent Gateway
 * Parents Conferences <br>*(Click [here](/parents-conferences) for more information)*
 * Parent-Child-Teacher Conference
-* [PSLE and Full Subject-Based Banding](/files/psle%20and%20full%20sbb_website_final.pdf)
+* [Updates on PSLE and Full Subject-Based Banding](/files/psle%20and%20full%20sbb_website_final.pdf)
 
 
 For any school-related matters, please approach your child’s Form Teachers as the first point of contact via email or phone call. 
