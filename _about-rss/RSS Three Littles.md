@@ -73,13 +73,13 @@ By being a Little Friend to others, we can build a caring and <b>harmonious</b> 
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
-<img src="/images/Little%20Teacher.png" style="width:85%"><table class="tg" style="undefined;table-layout: fixed; width: 820px">
+ <img src="/images/Little%20Teacher.png" style="width:85%"><table class="tg" style="undefined;table-layout: fixed; width: 820px">
 <colgroup>
 <col style="width: 426px">
 <col style="width: 411px">
 </colgroup>
 <tbody>
   <tr>
-<td class="tg-1zpo"> A Little Teacher seeks to make life better for others through innovative and better ways of doing things (<b>responsible</b> and <b>resilient</b>) and is one who is willing to serve the needs of the community (<b>generosity</b>). He/She leads by example and influences others positively so as to build a <b>harmonious</b> community.</td> 
+<td class="tg-1zpo"> A Little Teacher seeks to make life better for others through innovative and better ways of doing things (<b>responsible</b> and <b>resilient</b>) and is one who is willing to serve the needs of the community (<b>generosity</b>). He/She leads by example and influences others positively so as to build a <b>harmonious</b> community. </td> 
 
 </tr></tbody></table>
