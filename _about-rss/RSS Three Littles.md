@@ -23,8 +23,8 @@ Values inculcation @ RSS is done through aligning the school values to the Three
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 426px">
-<col style="width: 411px">
+<col style="width: 350px">
+<col style="width: 350px">
 </colgroup>
 <tbody>
   <tr>
