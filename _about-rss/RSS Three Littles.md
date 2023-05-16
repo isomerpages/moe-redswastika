@@ -48,10 +48,10 @@ By being a Little Friend to others, we can build a caring and <b>harmonious</b> 
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 500px">
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
-<col style="width: 250px">
-<col style="width: 259px">
+<col style="width: 320px">
+<col style="width: 280px">
 </colgroup>
 <tbody>
   <tr>
