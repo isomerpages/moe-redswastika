@@ -28,7 +28,7 @@ Values inculcation @ RSS is done through aligning the school values to the Three
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-1zpo">Little Friend  **cares** and shows **respect** for others and is generous to others. 
+		<td class="tg-1zpo">Little Friend  <b>cares</b> and shows <b>respect</b> for others and is generous to others. 
 			
 <br>By being a Little Friend to others, we can build a caring and **harmonious** community.
 </td>
@@ -56,15 +56,15 @@ Values inculcation @ RSS is done through aligning the school values to the Three
 <tbody>
   <tr>
     <td class="tg-1zpo"><img src="/images/Little%20Master.png" alt="Little Master.png" width="379" height="257"></td>
-    <td class="tg-1zpo"> Little Master is a person of **integrity**. He/She is an honest and trustworthy person, someone who is **responsible** in all that he/she does. 
+		<td class="tg-1zpo"> Little Master is a person of <b>integrity</b>. He/She is an honest and trustworthy person, someone who is <b>responsible</b> in all that he/she does. 
 			
-<br>As a diligent and joyful learner, Little Master displays self-discipline and is committed to self-improvement. He/She is **resilient** and perseveres in the face of challenges. He/She is **alert** in responding to changes.</td>
+<br>As a diligent and joyful learner, Little Master displays self-discipline and is committed to self-improvement. He/She is <b>resilient</b> and perseveres in the face of challenges. He/She is <b>alert</b> in responding to changes.</td>
   </tr>
 </tbody>
 </table>
 
 
 # Little Teacher
-A Little Teacher seeks to make life better for others through innovative and better ways of doing things (**responsible** and **resilient**) and is one who is willing to serve the needs of the community (**generosity**). He/She leads by example and influences others positively so as to build a **harmonious** community. 
+A Little Teacher seeks to make life better for others through innovative and better ways of doing things (<b>responsible</b> and <b>resilient</b>) and is one who is willing to serve the needs of the community (<b>generosity</b>). He/She leads by example and influences others positively so as to build a <b>harmonious</b> community. 
 
 <img src="/images/Little%20Teacher.png" style="width:85%">
