@@ -30,7 +30,7 @@ Values inculcation @ RSS is done through aligning the school values to the Three
   <tr>
 		<td class="tg-1zpo">Little Friend  <b>cares</b> and shows <b>respect</b> for others and is generous to others. 
 			
-<br>By being a Little Friend to others, we can build a caring and **harmonious** community.
+By being a Little Friend to others, we can build a caring and <b>harmonious</b> community.
 </td>
     <td class="tg-1zpo"><img src="/images/Little%20Friend.png" alt="Little Friend.png" width="360" height="230"></td>
   </tr>
@@ -73,7 +73,7 @@ Values inculcation @ RSS is done through aligning the school values to the Three
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 820px">
+<img src="/images/Little%20Teacher.png" style="width:85%"><table class="tg" style="undefined;table-layout: fixed; width: 820px">
 <colgroup>
 <col style="width: 426px">
 <col style="width: 411px">
@@ -82,4 +82,4 @@ Values inculcation @ RSS is done through aligning the school values to the Three
   <tr>
 <td class="tg-1zpo"> A Little Teacher seeks to make life better for others through innovative and better ways of doing things (<b>responsible</b> and <b>resilient</b>) and is one who is willing to serve the needs of the community (<b>generosity</b>). He/She leads by example and influences others positively so as to build a <b>harmonious</b> community.</td> 
 
-	<td class="tg-1zpo"><img src="/images/Little%20Teacher.png" style="width:85%"></td></tr></tbody></table>
+</tr></tbody></table>
