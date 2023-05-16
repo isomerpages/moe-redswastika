@@ -65,6 +65,21 @@ Values inculcation @ RSS is done through aligning the school values to the Three
 
 
 # Little Teacher
-A Little Teacher seeks to make life better for others through innovative and better ways of doing things (<b>responsible</b> and <b>resilient</b>) and is one who is willing to serve the needs of the community (<b>generosity</b>). He/She leads by example and influences others positively so as to build a <b>harmonious</b> community. 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:18px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 820px">
+<colgroup>
+<col style="width: 426px">
+<col style="width: 411px">
+</colgroup>
+<tbody>
+  <tr>
+<td class="tg-1zpo"> A Little Teacher seeks to make life better for others through innovative and better ways of doing things (<b>responsible</b> and <b>resilient</b>) and is one who is willing to serve the needs of the community (<b>generosity</b>). He/She leads by example and influences others positively so as to build a <b>harmonious</b> community.</td> 
 
-<img src="/images/Little%20Teacher.png" style="width:85%">
+	<td class="tg-1zpo"><img src="/images/Little%20Teacher.png" style="width:85%"></td></tr></tbody></table>
