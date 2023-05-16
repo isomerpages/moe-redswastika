@@ -21,10 +21,10 @@ Values inculcation @ RSS is done through aligning the school values to the Three
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-1zpo{background-color:#FFF;color:#353535;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 700px">
+<table class="tg" style="undefined;table-layout: fixed; width: 600px">
 <colgroup>
-<col style="width: 350px">
-<col style="width: 350px">
+<col style="width: 300px">
+<col style="width: 300px">
 </colgroup>
 <tbody>
   <tr>
