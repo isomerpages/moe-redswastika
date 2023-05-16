@@ -56,7 +56,7 @@ description: ""
 
 | **有关华文学习资源的信息 (Useful Links)**|  
 | -------- |  
-| 知识网   <br>http://www.ezhishi.net/ |
-|早报校园   <br> https://zbschools.sg/   | 
-| 2022-2023年 小学课外读物推荐书单   <br>https://www.cpcll.sg/resources/reading-group | 
-| 受新加坡考评局批准使用的词典列表    <br>https://www.seab.gov.sg/home/examinations/approved-dictionaries |
+| 知识网   <br>[http://www.ezhishi.net/](http://www.ezhishi.net/) |
+|早报校园   <br> [https://zbschools.sg/](https://zbschools.sg/)   | 
+| 2022-2023年 小学课外读物推荐书单   <br>[https://www.cpcll.sg/resources/reading-group](https://www.cpcll.sg/resources/reading-group) | 
+| 受新加坡考评局批准使用的词典列表    <br>[https://www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries) |
