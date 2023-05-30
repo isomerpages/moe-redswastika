@@ -28,5 +28,4 @@ The Music Programme in RSS is designed to engage students through enjoyable and 
 
 The Music Programme also ensures that students’ learning is deepened through the progression of musical knowledge and skills, such as the Recorder Programme at P3 and P4, and the Ukulele Programme at P4 and P5. In addition, students are given the opportunities to develop their ability for creative composition and expression, such as the P5 GarageBand Programme. Through these rich musical learning experiences, students develop appreciation of music in the local and global cultures and the ability for creative expression and communication through music, thus motivating them towards a lifelong enjoyment and appreciation of music.
 
-![](/images/IF%20MusArt%20Day.png)
-![](/images/RSS%20Musical%20Buskers.png)
+![](/images/aesthetic3.png)
