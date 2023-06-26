@@ -35,7 +35,7 @@ description: ""
 | Head of Department <br> Student Well-Being &amp; Management     | MRS CHING KIM SIONG     | [ching_kim_siong@schools.gov.sg](mailto:ching_kim_siong@schools.gov.sg)   |
 | Head of Department <br> CCE     | MR LEE BENG TECK JONATHAN     | [lee_beng_teck_jonathan@schools.gov.sg](mailto:lee_beng_teck_jonathan@schools.gov.sg)     |
 | Head of Department <br> PE &amp; CCA (Covering)    | MR KHO HAN KOON, MIKE    | [kho_han_koon@schools.gov.sg](mailto:kho_han_koon@schools.gov.sg)     |
-| Head of Department <br> ICT &amp; Data Management (Covering)    | MS LIM EE MIN     |[ lim_ee_min@schools.gov.sg](mailto: lim_ee_min@schools.gov.sg)     |
+| Head of Department <br> ICT &amp; Data Management (Covering)    | MS LIM EE MIN     |[lim_ee_min@schools.gov.sg](mailto:lim_ee_min@schools.gov.sg)     |
 | Year Head <br> (Upper Pri)     | MR CHUA KWAN HENG     | [chua_kwan_heng@schools.gov.sg](mailto:chua_kwan_heng@schools.gov.sg)    |
 | Year Head <br> (Middle Pri)     | MS TAN ZHI LING     | [tan_zhi_ling@schools.gov.sg](mailto:tan_zhi_ling@schools.gov.sg)    |
 | Year Head <br> (Lower Pri)     | MRS CAROL TNG     | [carol_cheong_sok_hiang@schools.gov.sg ](mailto:carol_cheong_sok_hiang@schools.gov.sg )    |
@@ -48,7 +48,7 @@ description: ""
 | Subject Head <br> ICT &amp; Data Management (Internal)     | MR WANG SIYANG    | [wang_siyang_b@schools.gov.sg](mailto:wang_siyang_b@schools.gov.sg)     |
 | Subject Head <br> SAP    | MDM KOH SWEE YEN     | [koh_swee_yen@schools.gov.sg ](mailto:koh_swee_yen@schools.gov.sg )    |
 | Subject Head <br> Student Leadership     | MR LEE WEI LOONG     | [lee_wei_loong@schools.gov.sg](mailto:lee_wei_loong@schools.gov.sg)|
-| Subject Head <br> Student Well-being     | MDM LIEW HWEE HONG     |[ liew_hwee_hong@schools.gov.sg ](mailto: liew_hwee_hong@schools.gov.sg )   |
+| Subject Head <br> Student Well-being     | MDM LIEW HWEE HONG     |[liew_hwee_hong@schools.gov.sg ](mailto:liew_hwee_hong@schools.gov.sg )   |
 | Senior Teacher <br> (Chinese Language)    | MR XIE TIANYI     | [xie_tianyi@schools.gov.sg](mailto:xie_tianyi@schools.gov.sg)     |
 | Senior Teacher <br> (Mathematics)     | MRS GO LEE CHING     | [lim_lee_ching@schools.gov.sg](mailto:lim_lee_ching@schools.gov.sg)    |
 | Senior Teacher <br> (Physical Education)     | MDM YASMIN SEAH    | [seah_sher_li@schools.gov.sg](mailto:seah_sher_li@schools.gov.sg)     |
@@ -122,6 +122,7 @@ description: ""
 | MRS WONG KAREN                     | [fah_ming_mei_karen@schools.gov.sg](mailto:fah_ming_mei_karen@schools.gov.sg)             |
 | MDM WONG SIEW LING REBECCA         | [wong_siew_ling_rebecca@schools.gov.sg](mailto:wong_siew_ling_rebecca@schools.gov.sg)         |
 | MDM WONG SUAY MENG                 | [wong_suay_meng@schools.gov.sg](mailto:wong_suay_meng@schools.gov.sg)                 |
+| MS WONG VALERIE                 | [wong_li_qing_valerie@schools.gov.sg](mailto:wong_li_qing_valerie@schools.gov.sg)                 |
 | MDM XU LI                          | [xu_li@schools.gov.sg](mailto:xu_li@schools.gov.sg)                          |
 | MDM ZAREENA BTE MOHD HUSAIN        | [zareena_mohd_husain@schools.gov.sg](mailto:zareena_mohd_husain@schools.gov.sg)            |
 | MR ZHANG QINGYU                    | [zhang_qingyu@schools.gov.sg](mailto:zhang_qingyu@schools.gov.sg)                   |
