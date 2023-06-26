@@ -51,6 +51,7 @@ description: ""
 | Subject Head <br> Student Well-being     | MDM LIEW HWEE HONG     |[ liew_hwee_hong@schools.gov.sg ](mailto: liew_hwee_hong@schools.gov.sg )   |
 | Senior Teacher <br> (Chinese Language)    | MR XIE TIANYI     | [xie_tianyi@schools.gov.sg](mailto:xie_tianyi@schools.gov.sg)     |
 | Senior Teacher <br> (Mathematics)     | MRS GO LEE CHING     | [lim_lee_ching@schools.gov.sg](mailto:lim_lee_ching@schools.gov.sg)    |
+| Senior Teacher <br> (Physical Education)     | MDM YASMIN SEAH    | [seah_sher_li@schools.gov.sg](mailto:seah_sher_li@schools.gov.sg)     |
 | Senior Teacher <br> (Lower Primary Learners)     | MDM SITI AMINAH BTE MOHAMMAD ISA     | [siti_aminah_mohammad_isa@schools.gov.sg](mailto:siti_aminah_mohammad_isa@schools.gov.sg)     |
 | LSC     | MDM LOKE HUI JUN MICHELLE    | [loke_hui_jun_michelle@schools.gov.sg ](mailto:loke_hui_jun_michelle@schools.gov.sg )    |
 | LSM     | MDM SNG MENG FONG    | [sng_meng_fong@schools.gov.sg](mailto:sng_meng_fong@schools.gov.sg)     |
@@ -113,16 +114,15 @@ description: ""
 | MDM TEO LI LING (MRS YVONNE CHONG) | [teo_liling@schools.gov.sg](mailto:teo_liling@schools.gov.sg)                     |
 | MDM TEO WIL CHIN                   | [teo_wil_chin@schools.gov.sg](mailto:teo_wil_chin@schools.gov.sg)                   |
 | MDM TEO XIN WEI                    | [teo_xin_wei@schools.gov.sg](mailto:teo_xin_wei@schools.gov.sg)                    |
+| MR TOH SU YEN JASON                   | [toh_su_yen@schools.gov.sg](mailto:toh_su_yen@schools.gov.sg)                    |
 | MDM WANG KUN                       | [wang_kun@schools.gov.sg](mailto:wang_kun@schools.gov.sg)                       |
 | MDM WANG LI PING                   | [wang_liping@schools.gov.sg](mailto:wang_liping@schools.gov.sg)                    |
 | MR WANG MENG SONG                  | [wang_meng_song@schools.gov.sg](mailto:wang_meng_song@schools.gov.sg)                 |
 | MRS WOON-TOH SHU YING              | [toh_shu_ying@schools.gov.sg](mailto:toh_shu_ying@schools.gov.sg)                   |
 | MRS WONG KAREN                     | [fah_ming_mei_karen@schools.gov.sg](mailto:fah_ming_mei_karen@schools.gov.sg)             |
 | MDM WONG SIEW LING REBECCA         | [wong_siew_ling_rebecca@schools.gov.sg](mailto:wong_siew_ling_rebecca@schools.gov.sg)         |
-| MS WONG LI QING, VALERIE           | [wong_li_qing_valerie@schools.gov.sg](mailto:wong_li_qing_valerie@schools.gov.sg)           |
 | MDM WONG SUAY MENG                 | [wong_suay_meng@schools.gov.sg](mailto:wong_suay_meng@schools.gov.sg)                 |
 | MDM XU LI                          | [xu_li@schools.gov.sg](mailto:xu_li@schools.gov.sg)                          |
-| MDM YASMIN SEAH                    | [seah_sher_li@schools.gov.sg](mailto:seah_sher_li@schools.gov.sg)                   |
 | MDM ZAREENA BTE MOHD HUSAIN        | [zareena_mohd_husain@schools.gov.sg](mailto:zareena_mohd_husain@schools.gov.sg)            |
 | MR ZHANG QINGYU                    | [zhang_qingyu@schools.gov.sg](mailto:zhang_qingyu@schools.gov.sg)                   |
 | MS ZHU RENXIAN CHARLENE            | [zhu_renxian_charlene@schools.gov.sg](mailto:zhu_renxian_charlene@schools.gov.sg)           |
@@ -153,8 +153,8 @@ description: ""
 	</tr>
    <tr>
 		<td>Special Education Needs (SEN) Officer<br></td>
-    <td>MDM NURHAFIZAH BINTE ROSLE<br></td>
-		<td><a href="mailto:nurhafizah_Rosle@schools.gov.sg" target="_blank" rel="noopener noreferrer">nurhafizah_rosle@schools.gov.sg</a></td>
+    <td>MS THAM MEI FONG<br></td>
+		<td><a href="mailto:tham_mei_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">tham_mei_fong@schools.gov.sg</a></td>
 	</tr>
 			</tbody>
 	</table>
@@ -167,4 +167,4 @@ description: ""
 <br>[2023 P3 FTs and Subject Teachers ](/files/FTs%20and%20Subject%20Teachers/2023%20P3%20FTs%20and%20Subject%20Teachers.pdf)
 <br>[2023 P4 FTs and Subject Teachers ](/files/FTs%20and%20Subject%20Teachers/2023%20P4%20FTs%20and%20Subject%20Teachers.pdf)
 <br>[2023 P5 FTs and Subject Teachers ](/files/FTs%20and%20Subject%20Teachers/2023%20P5%20FTs%20and%20Subject%20Teachers.pdf)
-<br>[2023 P6 FTs and Subject Teachers ](/files/FTs%20and%20Subject%20Teachers/2023%20P6%20FTs%20and%20Subject%20Teachers.pdf)
+<br>[2023 P6 FTs and Subject Teachers](/files/FTs%20and%20Subject%20Teachers/2023%20p6%20fts%20and%20subject%20teachers.pdf)
