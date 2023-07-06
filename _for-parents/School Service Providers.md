@@ -39,7 +39,12 @@ description: ""
 <tr>
 <td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;">
 	
-[2023 Booklists](/files/P1%20Booklist%202023%20v2.pdf)
+[P1 Booklist ](/files/p1%20booklist%202023.pdf) <br>
+[P2 Booklist](/files/p2%20booklist%202023.pdf) <br>
+[P3 Booklist](/files/p3%20booklist%202023.pdf) <br>
+[P4 Booklist](/files/p4%20booklist%202023.pdf) <br>
+[P5 Booklist](/files/p5%20booklist%202023.pdf) <br>
+[P6 Booklist](/files/p6%20booklist%202023.pdf)
 </td></tr>
 </tbody>
 </table>
