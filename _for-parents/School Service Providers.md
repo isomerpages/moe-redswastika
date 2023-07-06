@@ -3,7 +3,7 @@ title: School Service Providers
 permalink: /curriculum/school-service-providers/
 description: ""
 ---
-<div id="_ptoo_130714" class="pageblock_box ">
+<div id="_ptoo_130714" class="pageblock_box">
     <h2 id="_ptoh_130714" class="ive_editable ive_ptoh">School Bookshop</h2>
     <div id="_ptod_130714" class="ive_editable ive_ptod ive_content"><div>
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
@@ -37,14 +37,16 @@ description: ""
 </td>
 </tr>
 <tr>
-<td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;"><a href="https://cms.isomer.gov.sg/sites/moe-redswastika/media/files/mediaDirectory/files/editMediaSettings/P1%20Booklist%202023%20v2.pdf">2023 Booklists</a></td>
-</tr>
+<td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;">
+	
+[2023 Booklists](/files/P1%20Booklist%202023%20v2.pdf)
+</td></tr>
 </tbody>
 </table>
 </div></div>
 </div>
 
-<div id="_ptoo_130715" class="pageblock_box ">
+<div id="_ptoo_130715" class="pageblock_box">
     <h2 id="_ptoh_130715" class="ive_editable ive_ptoh">School Uniform &amp; Nametag</h2>
     <div id="_ptod_130715" class="ive_editable ive_ptod ive_content"><div>
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
@@ -86,7 +88,7 @@ description: ""
 </div></div>
 </div>
 
-<div id="_ptoo_130716" class="pageblock_box ">
+<div id="_ptoo_130716" class="pageblock_box">
     <h2 id="_ptoh_130716" class="ive_editable ive_ptoh">School Bus Service</h2>
     <div id="_ptod_130716" class="ive_editable ive_ptod ive_content">
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
@@ -117,7 +119,7 @@ description: ""
 </div>
 </div>
 
-<div id="_ptoo_130717" class="pageblock_box ">
+<div id="_ptoo_130717" class="pageblock_box">
     <h2 id="_ptoh_130717" class="ive_editable ive_ptoh">School Dental Service</h2>
     <div id="_ptod_130717" class="ive_editable ive_ptod ive_content"><div>
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
@@ -161,7 +163,7 @@ description: ""
 </div></div>
 </div>
 
-<div id="_ptoo_130718" class="pageblock_box ">
+<div id="_ptoo_130718" class="pageblock_box">
     <h2 id="_ptoh_130718" class="ive_editable ive_ptoh">Student Care Centre</h2>
     <div id="_ptod_130718" class="ive_editable ive_ptod ive_content"><div>
 <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
