@@ -4,45 +4,52 @@ permalink: /curriculum/school-service-providers/
 description: ""
 ---
 <div id="_ptoo_130714" class="pageblock_box">
-    <h2 id="_ptoh_130714" class="ive_editable ive_ptoh">School Bookshop</h2>
-    <div id="_ptod_130714" class="ive_editable ive_ptod ive_content"><div>
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
-<tbody>
-<tr>
-<td style="width: 245px;">
-<div style="text-align: left;">Supplier:
-</div>
-</td>
-<td style="width: 573px;">
-<div style="text-align: left;">Pacific Bookstores Pte Ltd
-</div>
-</td>
-</tr>
-<tr>
-<td style="text-align: left;">Operating Hours:<br>
-</td>
-<td style="text-align: left;">Mondays to Fridays: 8.30am-3.30pm<br>
-</td>
-</tr>
-<tr>
-<td style="text-align: left;">Contact:
-</td>
-<td style="text-align: left;">64486345<br>
-</td>
-</tr>
-<tr>
-<td style="text-align: left;">Website:
-</td>
-<td style="text-align: left;"><a href="http://www.pacificbookstores.com/" target="_blank" style="background-color: initial;">www.pacificbookstores.com</a><br>
-</td>
-</tr>
-<tr>
-<td style="text-align: left;">Link for Booklist:</td><td style="text-align: left;">
-	
-</td></tr>
-</tbody>
-</table>
-</div></div>
+  <h2 id="_ptoh_130714" class="ive_editable ive_ptoh">School Bookshop</h2>
+  <div id="_ptod_130714" class="ive_editable ive_ptod ive_content">
+    <div>
+      <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
+        <tbody>
+          <tr>
+            <td style="width: 245px;">
+              <div style="text-align: left;">
+                Supplier:
+              </div>
+            </td>
+            <td style="width: 573px;">
+              <div style="text-align: left;">
+                Pacific Bookstores Pte Ltd
+              </div>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left;">Operating Hours:<br></td>
+            <td style="text-align: left;">Mondays to Fridays: 8.30am-3.30pm<br></td>
+          </tr>
+          <tr>
+            <td style="text-align: left;">Contact:</td>
+            <td style="text-align: left;">64486345<br></td>
+          </tr>
+          <tr>
+            <td style="text-align: left;">Website:</td>
+            <td style="text-align: left;">
+              <a href="http://www.pacificbookstores.com/" target="_blank" style="background-color: initial;">www.pacificbookstores.com</a><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: left;">Link for Booklist:</td>
+            <td style="text-align: left;">
+              <a href="/files/P1%20Booklist%202023%20v2.pdf">P1 Booklist</a><br>
+              <a href="/files/p2%20booklist%202023.pdf">P2 Booklist</a><br>
+              <a href="/files/p3%20booklist%202023.pdf">P3 Booklist</a><br>
+              <a href="/files/p4%20booklist%202023.pdf">P4 Booklist</a><br>
+              <a href="/files/p5%20booklist%202023.pdf">P5 Booklist</a><br>
+              <a href="/files/p6%20booklist%202023%20v2.pdf">P6 Booklist</a>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
 </div>
 
 <div id="_ptoo_130715" class="pageblock_box">
