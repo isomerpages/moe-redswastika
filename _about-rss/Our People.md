@@ -32,7 +32,7 @@ description: ""
 | Head of Department <br> Chinese Language    | MRS POON WAI KUAN     | [poon_wai_kuan@schools.gov.sg ](mailto:poon_wai_kuan@schools.gov.sg )    |
 | Head of Department <br> Mathematics     | MRS GOH-WOON HUI HUI     | [woon_hui_hui@schools.gov.sg](mailto:woon_hui_hui@schools.gov.sg)    |
 | Head of Department <br> Science    | MS SHARIFAH FADILLAH BTE SYED M I     | [sharifah_fadillah_syed@schools.gov.sg](mailto:sharifah_fadillah_syed@schools.gov.sg)    |
-| Head of Department <br> Student Well-Being &amp; Management     | MRS CHING KIM SIONG     | [ching_kim_siong@schools.gov.sg](mailto:ching_kim_siong@schools.gov.sg)   |
+| Head of Department <br> Student Management     | MRS CHING KIM SIONG     | [ching_kim_siong@schools.gov.sg](mailto:ching_kim_siong@schools.gov.sg)   |
 | Head of Department <br> CCE     | MR LEE BENG TECK JONATHAN     | [lee_beng_teck_jonathan@schools.gov.sg](mailto:lee_beng_teck_jonathan@schools.gov.sg)     |
 | Head of Department <br> PE &amp; CCA (Covering)    | MR KHO HAN KOON, MIKE    | [kho_han_koon@schools.gov.sg](mailto:kho_han_koon@schools.gov.sg)     |
 | Head of Department <br> ICT &amp; Data Management (Covering)    | MS LIM EE MIN     |[ lim_ee_min@schools.gov.sg](mailto: lim_ee_min@schools.gov.sg)     |
