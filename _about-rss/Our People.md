@@ -87,7 +87,6 @@ description: ""
 | MS LEE JAY GEE                     | [lee_jay_gee@schools.gov.sg](mailto:lee_jay_gee@schools.gov.sg)                    |
 | MS LEE YEE YONG                    | [lee_yee_yong@schools.gov.sg](mailto:lee_yee_yong@schools.gov.sg)                   |
 | MS LEUNG RUI FANG                  | [leung_rui_fang@schools.gov.sg](mailto:leung_rui_fang@schools.gov.sg)                 |
-| MS LEONG FEI PING JASLYN                | [leong_fei_ping_jaslyn@schools.gov.sg](mailto:leong_fei_ping_jaslyn@schools.gov.sg)           
 | MDM LIEW POH LIAN                  | [liew_poh_lian@schools.gov.sg](mailto:liew_poh_lian@schools.gov.sg)                  |
 | MS LIM LI LING NATALIE             | [lim_li_ling_natalie@schools.gov.sg](mailto:lim_li_ling_natalie@schools.gov.sg)            |
 | MS LIN JIAYING                     | [lin_jiaying@schools.gov.sg](mailto:lin_jiaying@schools.gov.sg)                    |          
