@@ -148,11 +148,6 @@ description: ""
   </tr>
 	 <tr>
 		<td>Special Education Needs (SEN) Officer<br></td>
-    <td>MS LOW WEI TING VALARIE<br></td>
-		<td><a href="mailto:low_wei_ting_valarie@schools.gov.sg" target="_blank" rel="noopener noreferrer">low_wei_ting_Valarie@schools.gov.sg</a></td>
-	</tr>
-   <tr>
-		<td>Special Education Needs (SEN) Officer<br></td>
     <td>MS THAM MEI FONG<br></td>
 		<td><a href="mailto:tham_mei_fong@schools.gov.sg" target="_blank" rel="noopener noreferrer">tham_mei_fong@schools.gov.sg</a></td>
 	</tr>
