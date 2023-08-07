@@ -116,7 +116,7 @@ description: ""
 | MDM TEO XIN WEI                    | [teo_xin_wei@schools.gov.sg](mailto:teo_xin_wei@schools.gov.sg)                    |
 | MR TOH SU YEN JASON                   | [toh_su_yen@schools.gov.sg](mailto:toh_su_yen@schools.gov.sg)                    |
 | MDM WANG KUN                       | [wang_kun@schools.gov.sg](mailto:wang_kun@schools.gov.sg)                       |
-| MDM WANG LI PING                   | [wang_liping@schools.gov.sg](mailto:wang_liping@schools.gov.sg)                    |
+| MDM WANG LIPING                   | [wang_liping@schools.gov.sg](mailto:wang_liping@schools.gov.sg)                    |
 | MR WANG MENG SONG                  | [wang_meng_song@schools.gov.sg](mailto:wang_meng_song@schools.gov.sg)                 |
 | MRS WOON-TOH SHU YING              | [toh_shu_ying@schools.gov.sg](mailto:toh_shu_ying@schools.gov.sg)                   |
 | MRS WONG KAREN                     | [fah_ming_mei_karen@schools.gov.sg](mailto:fah_ming_mei_karen@schools.gov.sg)             |
