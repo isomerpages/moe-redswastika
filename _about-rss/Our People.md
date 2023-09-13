@@ -100,6 +100,7 @@ description: ""
 | MS NUR SYAFIQAH SHAFARI            | [nur_syafiqah_shafari@schools.gov.sg](mailto:nur_syafiqah_shafari@schools.gov.sg)           |
 | MS PEAR SIEW HOON                  | [pear_siew_hoon@schools.gov.sg](mailto:pear_siew_hoon@schools.gov.sg)                 |
 | MR POH SENG HUAT JEFFREY           | [poh_seng_huat@schools.gov.sg](mailto:poh_seng_huat@schools.gov.sg)                  |
+| MDM POON HUI KIANG           | [poon_hui_kiang@schools.gov.sg](mailto:POON_HUI_KIANG@schools.gov.sg)                  |
 | MS QUEK PEI CHIN DAWN              | [quek_pei_chin_dawn@schools.gov.sg](mailto:quek_pei_chin_dawn@schools.gov.sg)             |
 | MDM SHI HUI                        | [shi_hui_a@schools.gov.sg](mailto:shi_hui_a@schools.gov.sg)                      |
 | MR SIRAJUDEEN SULTHAN S            | [sirajudeen_sulthan_sikkandarsh@schools.gov.sg](mailto:sirajudeen_sulthan_sikkandarsh@schools.gov.sg) |
