@@ -38,7 +38,7 @@ description: ""
           <tr>
             <td style="text-align: left;">Link for Booklist:</td>
             <td style="text-align: left;">
-              <a href="/files/P1%20Booklist%202023%20v2.pdf">P1 Booklist</a><br>
+              <a href="/files/p1%20booklist%202024.pdf">P1 Booklist</a><br>
               <a href="/files/p2%20booklist%202023.pdf">P2 Booklist</a><br>
               <a href="/files/p3%20booklist%202023.pdf">P3 Booklist</a><br>
               <a href="/files/p4%20booklist%202023.pdf">P4 Booklist</a><br>
