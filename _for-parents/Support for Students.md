@@ -18,4 +18,4 @@ Those who do not meet the qualifying criteria for the MOE FAS may also apply for
 
 **IMDA DigitalAccess@Home Scheme**
 
-The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets to lower income family.  Parents can apply online at [www.digitalaccess.gov.sg](www.digitalaccess.gov.sg) or via hardcopy form from school.
+The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets to lower income family.  Parents can apply online at [www.digitalaccess.gov.sg](https://www.digitalaccess.gov.sg/) or via hardcopy form from school.
