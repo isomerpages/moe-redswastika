@@ -2,6 +2,7 @@
 title: School Service Providers
 permalink: /curriculum/school-service-providers/
 description: ""
+variant: markdown
 ---
 <div id="_ptoo_130714" class="pageblock_box">
   <h2 id="_ptoh_130714" class="ive_editable ive_ptoh">School Bookshop</h2>
@@ -27,7 +28,7 @@ description: ""
           </tr>
           <tr>
             <td style="text-align: left;">Contact:</td>
-            <td style="text-align: left;">64486345<br></td>
+            <td style="text-align: left;">9047 9455<br></td>
           </tr>
           <tr>
             <td style="text-align: left;">Website:</td>
