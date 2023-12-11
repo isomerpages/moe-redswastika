@@ -2,6 +2,7 @@
 title: Contact Us
 permalink: /about-rss/contact-us/
 description: ""
+variant: markdown
 ---
 <table border="0" style="width: 100%;" class="iveo_table ives_tab_simple3 ive_eobj_center">
 <tbody>
@@ -10,7 +11,7 @@ description: ""
 Principal:
 </td>
 <td style="text-align: left;">
-Ms Jessie Lim<br>
+Mr Lim Meng Wei<br>
 </td>
 </tr>
 <tr>
@@ -26,6 +27,14 @@ Ms Jessie Lim<br>
 </td>
 </tr>
 <tr>
+<td style="text-align: left;">Vice-Principal (Admin):
+</td>
+<td style="text-align: left;">Mr Tan Meng Khiang
+</td>
+</tr>
+<tr>
+
+</tr><tr>
 <td style="text-align: left;">School Level:
 </td>
 <td style="text-align: left;">Primary
