@@ -2,6 +2,7 @@
 title: Our History
 permalink: /about-rss/our-history/
 description: ""
+variant: markdown
 ---
 **Red Swastika School's History**
 
@@ -48,8 +49,15 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
     <td class="tg-iksn"><img src="/images/Mrs%20Jenny-Leong-small.jpeg" alt="Mrs Jenny-Leong-small.jpg" width="100" height="131"></td>
 		<td class="tg-iksn">In 2011, <strong>Mrs Jenny Leong</strong> became the sixth Principal of the school. She was the first female Principal in the history of Red Swastika School. The school continued to thrive and sustain its academic and holistic excellence under her leadership. Under her leadership, student character development was emphasized through the Three Littles - Little Friend, Little Master and Little Teacher. In 2014, the school established the Learning for Life Programme (LLP) - Every RSS Student A Leader and in 2018, the Applied Learning Programme (ALP) - Tinkers to Thinkers (T2T). To retain the SAP school ethos and develop bilingual communicators and bi-cultural citizens, the school developed a SAP Flagship Programme providing three levels of development for the students. Mrs Leong’s strong belief in holistic education has also transformed the Physical Education and Aesthetics landscape of the school into an integral part of the student education. During her tenure, the school underwent the Primary Education Review and Implementation (PERl) upgrading.</td>
   </tr>
+	
+	
+<tr>
+<td class="tg-iksn"><img src="/images/Ms_Jessie_Lim__White_Background_.png" alt="Jessie_Lim__White_Background_.png"></td>
+    <td class="tg-iksn">In 2019, the school began a new chapter under the leadership of <strong>Ms Jessie Lim</strong>,With the completion of the PERI upgrading works in July 2019, the school leveraged the new facilities such as the Indoor Sports Hall, teaching laboratory and indoor basketball courts to strengthen the holistic development of the students. From 2020, the school started operating as single-session - bringing together all her students to enjoy learning in a safe and caring environment.
+</td></tr>
 </tbody>
 </table>
 
 
-In 2019, the school began a new chapter under the leadership of Ms Jessie Lim. With the completion of the PERI upgrading works in July 2019, the school leveraged the new facilities such as the Indoor Sports Hall, teaching laboratory and indoor basketball courts to strengthen the holistic development of the students. From 2020, the school started operating as single-session - bringing together all her students to enjoy learning in a safe and caring environment.
+
+
