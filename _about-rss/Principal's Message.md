@@ -5,7 +5,6 @@ description: ""
 image: /images/RSS School Logo 2015.jpeg
 variant: markdown
 ---
-**This webpage is a work in progress. Check back soon for updates.
+This webpage is a work in progress. Check back soon for updates.
 <br>
-Thank you for your patience.**
-
+Thank you for your patience.
