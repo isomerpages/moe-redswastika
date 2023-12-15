@@ -2,14 +2,15 @@
 title: Our People
 permalink: /about-rss/our-people/
 description: ""
+variant: markdown
 ---
 # School Leaders
 <table>
 		<tbody>
   <tr>
     <td>Principal<br></td>
-    <td>MS JESSIE LIM<br></td>
-    <td><a href="mailto:Jessie_Lim@schools.gov.sg" target="_blank" rel="noopener noreferrer">jessie_lim@schools.gov.sg</a><br></td>
+    <td>MR LIM MENG WEI<br></td>
+    <td><a href="mailto:LIM_Meng_Wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_meng_wei@schools.gov.sg</a><br></td>
   </tr>
   <tr>
     <td>Vice-Principal</td>
@@ -20,6 +21,10 @@ description: ""
     <td>Vice-Principal</td>
     <td>MRS ESTHER TAN</td>
     <td><a href="mailto:esther_e_tzy_kwei@schools.gov.sg" target="_blank" rel="noopener noreferrer">esther_e_tzy_kwei@schools.gov.sg</a></td></tr>
+			<tr>
+    <td>Vice-Principal (Admin)</td>
+    <td>MR TAN MENG KHIANG</td>
+    <td><a href="mailto:TAN_Meng_Khiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_meng_khiang@schools.gov.sg</a></td></tr>
 	</tbody>
 </table>
 
