@@ -46,3 +46,7 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 </td></tr>
 </tbody>
 </table>
+
+Building on the good work of his predecessors, Mr Lim Meng Wei took over the leadership from Ms Jessie Lim as the 8th Principal of the school in 2024. Mr Lim believes in forging collective efforts from staff, parents, alumni and School Management Committee as well as various partners in education to co-support the development of our children as an RSS community. We look forward to his strong leadership to take RSS to greater heights in the years to come. 
+	
+	
