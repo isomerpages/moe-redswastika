@@ -7,7 +7,7 @@ variant: markdown
 # Health Matters
 **Haze Management**
 
-We will monitor the haze situation and take appropriate mitigation measures based on MOH’s health advisory for the day to ensure the well-being of our students and staff. For updates on the haze situation, visit NEA website [www.nea.gov.sg](www.nea.gov.sg), the haze microsite [www.haze.gov.sg](www.haze.gov.sg), follow NEA Facebook [www.facebook.com/NEASingapore](www.facebook.com/NEASingapore) and NEA Twitter (@NEAsg), or download the myENV app. Please check the school website for updates. If your child has a pre-existing condition, do remind him/her to have the medication with him/her daily (e.g. child with asthma to carry the inhaler etc.).
+We will monitor the haze situation and take appropriate mitigation measures based on MOH’s health advisory for the day to ensure the well-being of our students and staff. For updates on the haze situation, visit NEA website [www.nea.gov.sg](https://www.nea.gov.sg), the haze microsite [www.haze.gov.sg](https://www.haze.gov.sg), follow NEA Facebook [www.facebook.com/NEASingapore](https://www.facebook.com/NEASingapore) and NEA Twitter (@NEAsg), or download the myENV app. Please check the school website for updates. If your child has a pre-existing condition, do remind him/her to have the medication with him/her daily (e.g. child with asthma to carry the inhaler etc.).
 
 **Zika and Dengue Management**
 
