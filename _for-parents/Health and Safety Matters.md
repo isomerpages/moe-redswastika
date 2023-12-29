@@ -2,6 +2,7 @@
 title: Health and Safety Matters
 permalink: /curriculum/health-and-safety-matters/
 description: ""
+variant: markdown
 ---
 # Health Matters
 **Haze Management**
@@ -14,9 +15,8 @@ To minimise the risk of further spread of Zika and Dengue in Singapore, it is cr
 
 **Social Responsibility**
 
-We seek your cooperation to reinforce the importance of personal hygiene to your child. Should your child feel unwell, please bring him/her to see a doctor and let him/her rest at home. He/She should only return to school when he/she is well.
+We seek your cooperation to reinforce the importance of personal hygiene to your child. If your child is unwell, please advise him/her to stay home and seek medical attention immediately. Do allow your child to rest at home for the full duration of the MC and return to school only when he/she is well. For illnesses that are contagious (e.g. HFMD, chicken pox), do inform your child’s Form Teachers as soon as possible and ensure that he/she has fully recovered before returning to school.
 
-For infectious illness such as Hand, Foot and Mouth Disease (HFMD), please consult a doctor and receive a memo to certify that your child is fit for school before his/her return to school.
 
 **Medical Attention**
 
