@@ -2,8 +2,11 @@
 title: School Hours and School Procedures
 permalink: /curriculum/school-hours-and-school-procedures/
 description: ""
+variant: markdown
 ---
-![](/images/School%20Hours.png)
+
+![](/images/School_Dismissal_Hours_Snapshot.png)
+
 
 **Absence and Early Dismissal**
 
