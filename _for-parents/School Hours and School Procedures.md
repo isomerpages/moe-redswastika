@@ -4,8 +4,7 @@ permalink: /curriculum/school-hours-and-school-procedures/
 description: ""
 variant: markdown
 ---
-
-![](/images/School_Dismissal_Hours_Snapshot.png)
+![](/images/School_Hours_29_Dec_2023_v2.png)
 
 
 **Absence and Early Dismissal**
