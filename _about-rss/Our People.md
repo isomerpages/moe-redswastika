@@ -71,8 +71,7 @@ variant: markdown
 | MR ANG RUI XIANG JASPER            | [ang_rui_xiang@schools.gov.sg](mailto:ang_rui_xiang@schools.gov.sg)                  |
 | MR ADRIAN LIM SOO JIN              | [adrian_lim_soo_jin@schools.gov.sg](mailto:adrian_lim_soo_jin@schools.gov.sg)             |
 | MS AMIRAH BINTE ZAINALABIDIN       | [amirah_zainalabidin@schools.gov.sg](mailto:amirah_zainalabidin@schools.gov.sg)            |
-| MR ANG CHEE WAI PATRICK            | [ang_chee_wai_patrick@schools.gov.sg]
-(mailto:ang_chee_wai_patrick@schools.gov.sg)           |
+| MR ANG CHEE WAI PATRICK                | [ang_chee_wai_patrick@schools.gov.sg](mailto:ang_chee_wai_patrick@schools.gov.sg)                  |
 | MRS BOON SENG POH                  | [ng_soo_ling@schools.gov.sg](mailto:ng_soo_ling@schools.gov.sg)                  |
 | MDM CHAN SOOK MEI CORINNA          | [corinna_chan_sook_mei@schools.gov.sg](mailto:corinna_chan_sook_mei@schools.gov.sg)          |
 | MS CHEN JIATING ABIGAIL            | [chen_jiating@schools.gov.sg](mailto:chen_jiating@schools.gov.sg)                   |
