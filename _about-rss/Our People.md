@@ -44,6 +44,7 @@ variant: markdown
 | Year Head <br> (Upper Pri)     | MR CHUA KWAN HENG     | [chua_kwan_heng@schools.gov.sg](mailto:chua_kwan_heng@schools.gov.sg)    |
 | Year Head <br> (Middle Pri)     | MS TAN ZHI LING     | [tan_zhi_ling@schools.gov.sg](mailto:tan_zhi_ling@schools.gov.sg)    |
 | Year Head <br> (Lower Pri)     | MRS CAROL TNG     | [carol_cheong_sok_hiang@schools.gov.sg ](mailto:carol_cheong_sok_hiang@schools.gov.sg )    |
+| Assistant Year Head <br> (Upper Pri)     | MDM REGINA WUN LAI YING     | [wun_lai ying@schools.gov.sg ](mailto:wun_lay_ying@schools.gov.sg )    |
 | Level Head <br> English Language    | MDM SAIRA BANU     | [saira_banu_mohd_nasir@schools.gov.sg](mailto:saira_banu_mohd_nasir@schools.gov.sg)     |
 | Level Head <br> Mathematics     | MRS LILIAN PEH (LEE PECK LENG)     | [lee_peck_leng_lilian@schools.gov.sg](mailto:lee_peck_leng_lilian@schools.gov.sg)     |
 | Level Head <br> Science    | MRS LANE LOW    | [koh_suyi_lane@schools.gov.sg](mailto:koh_suyi_lane@schools.gov.sg)     |
@@ -54,6 +55,7 @@ variant: markdown
 | Subject Head <br> SAP    | MDM KOH SWEE YEN     | [koh_swee_yen@schools.gov.sg ](mailto:koh_swee_yen@schools.gov.sg )    |
 | Subject Head <br> Student Leadership     | MR LEE WEI LOONG     | [lee_wei_loong@schools.gov.sg](mailto:lee_wei_loong@schools.gov.sg)|
 | Subject Head <br> Student Well-being     | MDM LIEW HWEE HONG     |[ liew_hwee_hong@schools.gov.sg ](mailto: liew_hwee_hong@schools.gov.sg )   |
+| Senior Teacher <br> (English Language)    | MS DAWN QUEK PEI CHIN    | [quek_pei_chin_dawn@schools.gov.sg](mailto:quek_pei_chin_dawn@schools.gov.sg)     |
 | Senior Teacher <br> (Chinese Language)    | MR XIE TIANYI     | [xie_tianyi@schools.gov.sg](mailto:xie_tianyi@schools.gov.sg)     |
 | Senior Teacher <br> (Mathematics)     | MRS GO LEE CHING     | [lim_lee_ching@schools.gov.sg](mailto:lim_lee_ching@schools.gov.sg)    |
 | Senior Teacher <br> (Physical Education)     | MDM YASMIN SEAH    | [seah_sher_li@schools.gov.sg](mailto:seah_sher_li@schools.gov.sg)     |
@@ -69,17 +71,15 @@ variant: markdown
 | MR ANG RUI XIANG JASPER            | [ang_rui_xiang@schools.gov.sg](mailto:ang_rui_xiang@schools.gov.sg)                  |
 | MR ADRIAN LIM SOO JIN              | [adrian_lim_soo_jin@schools.gov.sg](mailto:adrian_lim_soo_jin@schools.gov.sg)             |
 | MS AMIRAH BINTE ZAINALABIDIN       | [amirah_zainalabidin@schools.gov.sg](mailto:amirah_zainalabidin@schools.gov.sg)            |
-| MR ANG CHEE WAI PATRICK            | [ang_chee_wai_patrick@schools.gov.sg](mailto:ang_chee_wai_patrick@schools.gov.sg)           |
+| MR ANG CHEE WAI PATRICK                | [ang_chee_wai_patrick@schools.gov.sg](mailto:ang_chee_wai_patrick@schools.gov.sg)                  |
 | MRS BOON SENG POH                  | [ng_soo_ling@schools.gov.sg](mailto:ng_soo_ling@schools.gov.sg)                  |
 | MDM CHAN SOOK MEI CORINNA          | [corinna_chan_sook_mei@schools.gov.sg](mailto:corinna_chan_sook_mei@schools.gov.sg)          |
-| MS CHAN YING YING                  | [chan_ying_ying@schools.gov.sg](mailto:chan_ying_ying@schools@schools.gov.sg)                 |
 | MS CHEN JIATING ABIGAIL            | [chen_jiating@schools.gov.sg](mailto:chen_jiating@schools.gov.sg)                   |
 | MR CHENG CHAI CHYUAN (DEXTER)      | [cheng_chai_chyuan@schools.gov.sg](mailto:cheng_chai_chyuan@schools.gov.sg)              |
 | MRS CHEONG FONG LIN                | [chan_fong_ling@schools.gov.sg](mailto:chan_fong_ling@schools.gov.sg)                 |
 | MS CHIA AN YI                      | [chia_an_yi@schools.gov.sg](mailto:chia_an_yi@schools.gov.sg)                     |
 | MDM CHONG MEE FUNG                 | [chong_mee_fung@schools.gov.sg](mailto:chong_mee_fung@schools.gov.sg)                 |
 | MRS CHOW WEE LING                  | [chow_wee_ling@schools.gov.sg](mailto:chow_wee_ling@schools.gov.sg)                  |
-| MS DAYNA WANG XIAODAN              | [dayna_wang_xiao_dan@schools.gov.sg](mailto:dayna_wang_xiao_dan@schools.gov.sg)            |
 | MS FARISYA MUHAMMAD JAMAL          | [farisya_muhammad_jamal@schools.gov.sg](mailto:farisya_muhammad_jamal@schools.gov.sg)          |
 | MS FRANCINE LIEW LI'EN             | [francine_liew_lien@schools.gov.sg](mailto:francine_liew_lien@schools.gov.sg)             |
 | MS FOO YAN BING                    | [foo_yan_bing@schools.gov.sg](mailto:foo_yan_bing@schools.gov.sg)                   |
@@ -104,9 +104,7 @@ variant: markdown
 | MS NURFATIN BTE AZNI               | [nurfatin_azni@schools.gov.sg](mailto:nurfatin_azni@schools.gov.sg)                  |
 | MS NUR SYAFIQAH SHAFARI            | [nur_syafiqah_shafari@schools.gov.sg](mailto:nur_syafiqah_shafari@schools.gov.sg)           |
 | MS PEAR SIEW HOON                  | [pear_siew_hoon@schools.gov.sg](mailto:pear_siew_hoon@schools.gov.sg)                 |
-| MR POH SENG HUAT JEFFREY           | [poh_seng_huat@schools.gov.sg](mailto:poh_seng_huat@schools.gov.sg)                  |
 | MDM POON HUI KIANG           | [poon_hui_kiang@schools.gov.sg](mailto:POON_HUI_KIANG@schools.gov.sg)                  |
-| MS QUEK PEI CHIN DAWN              | [quek_pei_chin_dawn@schools.gov.sg](mailto:quek_pei_chin_dawn@schools.gov.sg)             |
 | MDM SHI HUI                        | [shi_hui_a@schools.gov.sg](mailto:shi_hui_a@schools.gov.sg)                      |
 | MR SIRAJUDEEN SULTHAN S            | [sirajudeen_sulthan_sikkandarsh@schools.gov.sg](mailto:sirajudeen_sulthan_sikkandarsh@schools.gov.sg) |
 | MDM SITI HAWA BTE AWANG            | [siti_hawa_awang@schools.gov.sg](mailto:siti_hawa_awang@schools.gov.sg)                |
@@ -127,7 +125,6 @@ variant: markdown
 | MRS WOON-TOH SHU YING              | [toh_shu_ying@schools.gov.sg](mailto:toh_shu_ying@schools.gov.sg)                   |
 | MRS WONG KAREN                     | [fah_ming_mei_karen@schools.gov.sg](mailto:fah_ming_mei_karen@schools.gov.sg)             |
 | MDM WONG SIEW LING REBECCA         | [wong_siew_ling_rebecca@schools.gov.sg](mailto:wong_siew_ling_rebecca@schools.gov.sg)         |
-| MDM WONG SUAY MENG                 | [wong_suay_meng@schools.gov.sg](mailto:wong_suay_meng@schools.gov.sg)                 |
 | MDM XU LI                          | [xu_li@schools.gov.sg](mailto:xu_li@schools.gov.sg)                          |
 | MDM ZAREENA BTE MOHD HUSAIN        | [zareena_mohd_husain@schools.gov.sg](mailto:zareena_mohd_husain@schools.gov.sg)            |
 | MR ZHANG QINGYU                    | [zhang_qingyu@schools.gov.sg](mailto:zhang_qingyu@schools.gov.sg)                   |
