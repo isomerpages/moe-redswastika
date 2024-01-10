@@ -2,8 +2,9 @@
 title: Parents' Conferences
 permalink: /parents-conferences/
 description: ""
+variant: markdown
 ---
-*  [P1 Parent Conference Slides 2023.pdf](/files/P1%20Parent%20Conference%20Slides%202023-compressed.pdf)
+*  [P1 Parent Conference Slides 2024.pdf](/files/P1%20Parent%20Conference%20Slides%202024.pdf)
 
 * [P2 Parent Conference Slides 2023.pdf](/files/2023%20P2%20Parent%20Conference%20Slides_website_final.pdf)
 
