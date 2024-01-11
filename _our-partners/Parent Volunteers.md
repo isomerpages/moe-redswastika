@@ -15,6 +15,6 @@ variant: markdown
  
 3.  The parent volunteer scheme does not provide a guarantee for a place in the school but accords only an eligibility to register in Phase 2B.
  
-4.  For more information on the Primary One Registration process, please visit https://www.moe.gov.sg/primary/p1-registration. To verify the home-school distance, please refer to the One Map School Query Service https://www.onemap.gov.sg/main/v2/schoolquery managed by the Singapore Land Authority (SLA).
+4.  For more information on the Primary One Registration process, please visit [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration). To verify the home-school distance, please refer to the One Map School Query Service [https://www.onemap.gov.sg/main/v2/schoolquery](https://www.onemap.gov.sg/main/v2/schoolquery) managed by the Singapore Land Authority (SLA).
  
-5.  Parents who are interested may apply via this Link https://go.gov.sg/rsspv2024.
+5.  Parents who are interested may apply via this Link [https://go.gov.sg/rsspv2024](https://go.gov.sg/rsspv2024).
