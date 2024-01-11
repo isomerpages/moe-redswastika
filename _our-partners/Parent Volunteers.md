@@ -6,7 +6,7 @@ variant: markdown
 ---
 ##### **Registration Period: Opens 15 Jan 2024 till 8 March 2024.**
 
-###### **RED SWASTIKA SCHOOL PARENT VOLUNTEER SCHEME FOR 2025 PRIMARY ONE REGISTRATION EXERCISE (ADMISSION IN 2026)**
+ **RED SWASTIKA SCHOOL PARENT VOLUNTEER SCHEME FOR 2025 PRIMARY ONE REGISTRATION EXERCISE (ADMISSION IN 2026)**
 
 ###### **Applicable for children born in 2019. Only shortlisted applicants will be notified.**
 
