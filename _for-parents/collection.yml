@@ -2,7 +2,7 @@ collections:
   for-parents:
     output: true
     order:
-      - Communication.md
+      - 沟通与交流 Communication.md
       - School Hours and School Procedures.md
       - School Rules.md
       - Health and Safety Matters.md
