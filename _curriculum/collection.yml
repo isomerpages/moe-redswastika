@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - 英文 English.md
-      - Chinese.md
+      - 华文 Chinese.md
       - Mathematics.md
       - Science.md
       - Aesthetics.md
