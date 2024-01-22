@@ -2,7 +2,7 @@ collections:
   about-rss:
     output: true
     order:
-      - Principal's Message.md
+      - 校长致辞 Principal's Message.md
       - Our History.md
       - Our School Crest, Motto, Vision, Mission and Values.md
       - RSS Three Littles.md
