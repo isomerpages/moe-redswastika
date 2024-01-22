@@ -2,7 +2,7 @@ collections:
   our-partners:
     output: true
     order:
-      - Alumni Association.md
+      - 校友会 Alumni Association.md
       - Parent Support Group.md
       - Parent Volunteers.md
       - Overseas Partners.md
