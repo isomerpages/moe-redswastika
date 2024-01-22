@@ -2,7 +2,7 @@ collections:
   curriculum:
     output: true
     order:
-      - English.md
+      - 英文 English.md
       - Chinese.md
       - Mathematics.md
       - Science.md
