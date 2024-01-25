@@ -1,0 +1,11 @@
+collections:
+  about-rss:
+    output: true
+    order:
+      - 校长致辞 Principal's Message.md
+      - 校史 Our History.md
+      - 校徽、校训、愿景、使命与核心价值观 Our School Crest, Motto, Vision, Mission and Values.md
+      - 卍慈“三小” RSS Three Littles.md
+      - 卍慈团队 Our People.md
+      - 财务和非财务信息 Our Financial and Non Financial Information.md
+      - 联系我们 Contact Us.md

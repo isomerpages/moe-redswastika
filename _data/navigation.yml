@@ -1,0 +1,10 @@
+logo: /images/Website_School_Logo_v3.png
+links:
+  - title: 关于卍慈 About RSS
+    collection: about-rss
+  - title: 家长专区 For Parents
+    collection: for-parents
+  - title: 卍慈课程 Curriculum
+    collection: curriculum
+  - title: 卍慈伙伴 Our Partners
+    collection: our-partners
