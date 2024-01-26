@@ -252,7 +252,7 @@ variant: tiptap
         start of the year and is also downloadable <a href="/files/2024_Parents_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
         form is to be submitted by 01/02/2024.</p>
     <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
-        at 6443 0380 or email <a rel="noopener noreferrer nofollow" target="_blank">pear_siew_hoon@schools.gov</a>
+        at 6443 0380 or email <a rel="noopener noreferrer nofollow" target="_blank">pear_siew_hoon@schools.gov</a> 
         <a href="mailto:pear_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>for discussion or to seek clarification about the school’s Sexuality
             Education programme.</p>
     <p></p>
