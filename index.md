@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Red Swastika School
-description: Brief site description here
+title: 卍慈学校 Red Swastika School
+description: An Isomer site of the Singapore Government
 image: /images/RSS School Logo 2015.jpeg
 permalink: /
 notification: ""

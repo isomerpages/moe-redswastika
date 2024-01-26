@@ -2,8 +2,8 @@ collections:
   our-partners:
     output: true
     order:
-      - Alumni Association.md
-      - Parent Support Group.md
-      - Parent Volunteers.md
-      - Overseas Partners.md
-      - School Management Committee.md
+      - 校友会 Alumni Association.md
+      - 家长会 Parent Support Group.md
+      - 家长义工 Parent Volunteers.md
+      - 海外伙伴 Overseas Partners.md
+      - 学校董事会 School Management Committee.md
