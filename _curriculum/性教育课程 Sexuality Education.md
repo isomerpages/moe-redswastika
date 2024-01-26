@@ -95,7 +95,7 @@ variant: tiptap
 <p><strong>At Red Swastika School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
 </p>
 <p></p>
-<h3><strong>2024 Sexuality Education Lessons in CCE 2021 </strong></h3>
+<h3><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h3>
 <h3><strong>Primary 5</strong></h3>
 <table>
     <tbody>
@@ -251,9 +251,21 @@ variant: tiptap
         </tr>
     </tbody>
 </table>
-<p><strong><br></strong>
-</p>
 <p></p>
+<p><strong>Information for Parents</strong>
+</p>
+<p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
+    children out of Sexuality Education lessons, and/or supplementary Sexuality
+    Education programmes by MOE-approved external providers.</p>
+<p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
+    opt their children out of the Sexuality Education lessons need to complete
+    an opt-out form. This form will be communicated &nbsp;to parents at the
+    start of the year and is also downloadable <a href="/files/2024_Parents_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> . The completed opt-out
+    form is to be submitted by 01/02/2024.</p>
+<p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+    at 6443 0380 or email <a rel="noopener noreferrer nofollow" target="_blank">pear_siew_hoon@schools.gov</a>
+    <a href="mailto:pear_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>for discussion or to seek clarification about the school’s Sexuality
+        Education programme.</p>
 <p></p>
 <p></p>
 <p></p>
