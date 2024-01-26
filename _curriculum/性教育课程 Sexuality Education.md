@@ -55,23 +55,43 @@ variant: tiptap
 <h1>Overview of RED SWASTIKA’S Sexuality Education Programme for 2024</h1>
 <ol start="4" data-tight="true" class="tight">
     <li>
+        <p>Sexuality Education is delivered in a holistic manner through the school
+            curriculum. The content for Sexuality Education is grouped into five main
+            themes: Human Development, Interpersonal Relationships, Sexual Health,
+            Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+            more information on the scope of Sexuality Education in the school curriculum.</p>
         <p></p>
     </li>
-</ol>
-<p>Sexuality Education is delivered in a holistic manner through the school
-    curriculum. The content for Sexuality Education is grouped into five main
-    themes: Human Development, Interpersonal Relationships, Sexual Health,
-    Sexual Behaviour, and, Culture, Society and Law. You may click <a href="https://go.gov.sg/moe-sexuality-education-scope" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-    more information on the scope of Sexuality Education in the school curriculum.</p>
-<ol start="5" data-tight="true" class="tight">
     <li>
         <p>The subjects that incorporate topics on sexuality include:</p>
-        <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
-        <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
-            (CCE)</p>
+        <p>a. Science</p>
+        <p>b. Character and Citizenship Education (CCE)</p>
+        <p></p>
     </li>
-    </ol>
-    <p></p>
-    <p></p>
-    <p></p>
-    <p></p>
+    <li>
+        <p>The upper primary years mark the onset of puberty. With better nutrition
+            and improved health care, children are reaching puberty at a younger age
+            and have to grapple with physical, emotional and psychological changes
+            in themselves. The implication is that our children are becoming biologically
+            ready for sexual activity sooner without necessarily having the corresponding
+            cognitive or emotional maturity to modulate their behaviours. Furthermore,
+            our young are also exposed to a wide range of influences that could endanger
+            health and undermine the integrity of the family. Our students require
+            close guidance so that they can respond with discernment to the sexual
+            messages in the media and other sources.</p>
+        <p></p>
+    </li>
+    <li>
+        <p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
+            Primary 5 and 6. Through these lessons, students will learn healthy ways
+            to manage the physiological, social and emotional changes in their growing
+            years. They learn to build healthy and rewarding relationships with others,
+            including those with members of the opposite sex. Students are also guided
+            to make wise, informed and responsible decisions to keep themselves safe
+            from sexuality-related risks</p>
+    </li>
+</ol>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
