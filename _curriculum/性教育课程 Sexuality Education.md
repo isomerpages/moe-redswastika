@@ -7,25 +7,22 @@ variant: tiptap
 <h1>MOE Sexuality Education in Schools</h1>
 <ol data-tight="true" class="tight">
     <li>
+        <p>Sexuality Education (SEd) in schools aims to enable students to understand
+            the physiological, social and emotional changes they experience as they
+            mature, develop healthy and rewarding relationships with others, including
+            those with members of the opposite sex, and make wise, informed and responsible
+            decisions on sexuality matters. SEd is premised on the importance of the
+            family as the basic unit of society. This means encouraging healthy, heterosexual
+            marriages and stable nuclear family units with extended family support.
+            The teaching and learning of SEd is based on respect for the values and
+            beliefs of the different ethnic and religious communities in Singapore
+            on sexuality issues.</p>
         <p></p>
     </li>
-</ol>
-<p>Sexuality Education (SEd) in schools aims to enable students to understand
-    the physiological, social and emotional changes they experience as they
-    mature, develop healthy and rewarding relationships with others, including
-    those with members of the opposite sex, and make wise, informed and responsible
-    decisions on sexuality matters. SEd is premised on the importance of the
-    family as the basic unit of society. This means encouraging healthy, heterosexual
-    marriages and stable nuclear family units with extended family support.
-    The teaching and learning of SEd is based on respect for the values and
-    beliefs of the different ethnic and religious communities in Singapore
-    on sexuality issues.</p>
-<ol start="2" data-tight="true" class="tight">
     <li>
-        <p></p>
+        <p>The <strong>Goals</strong> of Sexuality Education are:</p>
     </li>
 </ol>
-<p>The <strong>Goals</strong> of Sexuality Education are:</p>
 <p>(a) Support students in managing their physiological, social and emotional
     changes as they grow up and develop safe and healthy relationships.</p>
 <p>(b) Guide students to make wise, informed and responsible decisions on
