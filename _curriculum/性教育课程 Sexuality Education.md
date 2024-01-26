@@ -96,8 +96,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
     <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.jpg">
 </div>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
-<h3><strong>Primary 5</strong></h3>
+<h4><center><strong>2024 Sexuality Education Lessons in CCE 2021</strong></center></h4>
+<h4><strong></strong><center><strong>Primary 5</strong></center></h4>
 <table>
     <tbody>
         <tr>
@@ -189,8 +189,8 @@ variant: markdown
 <div class="isomer-image-wrapper">
     <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.jpg">
 </div>
-<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
-<h3><strong>Primary 6</strong></h3>
+<h4><strong></strong><center><strong>2024 Sexuality Education Lessons in CCE 2021</strong></center></h4>
+<h4><strong></strong><center><strong>Primary 6</strong></center></h4>
 <p></p>
 <table>
     <tbody>
