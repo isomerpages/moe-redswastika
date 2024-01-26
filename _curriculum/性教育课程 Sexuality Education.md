@@ -97,9 +97,9 @@ variant: tiptap
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-    <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.jpg">
+    <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.jpg">
 </div>
-<h3><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h3>
+<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
 <h3><strong>Primary 5</strong></h3>
 <table>
     <tbody>
@@ -190,9 +190,9 @@ variant: tiptap
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-    <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.jpg">
+    <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.jpg">
 </div>
-<h3><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h3>
+<h4><strong>2024 Sexuality Education Lessons in CCE 2021</strong></h4>
 <h3><strong>Primary 6</strong></h3>
 <p></p>
 <table>
