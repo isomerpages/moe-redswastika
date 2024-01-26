@@ -26,29 +26,30 @@ variant: tiptap
     </li>
 </ol>
 <p>The <strong>Goals</strong> of Sexuality Education are:</p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Support students
-    in managing their physiological, social and emotional changes as they grow
-    up and develop safe and healthy relationships.</p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Guide students
-    to make wise, informed and responsible decisions on sexuality matters.</p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Help students
-    develop a moral compass and respect for themselves and others by having
-    positive mainstream values and attitudes about sexuality that are premised
-    on the family as the basic unit of society.</p>
+<p>(a) Support students in managing their physiological, social and emotional
+    changes as they grow up and develop safe and healthy relationships.</p>
+<p>(b) Guide students to make wise, informed and responsible decisions on
+    sexuality matters.</p>
+<p>(c) Help students develop a moral compass and respect for themselves and
+    others by having positive mainstream values and attitudes about sexuality
+    that are premised on the family as the basic unit of society.</p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
     <li>
-        <p></p>
+        <p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
     </li>
 </ol>
-<p>The <strong>Key Messages</strong> of Sexuality Education are:</p>
-<p>(a) Love and respect yourself as you love and respect others;</p>
-<p>(b) Build positive relationships based on love and respect (which are
-    the foundation for strong families);</p>
-<p>(c) Make responsible decisions for yourself, your family and society;
-    and</p>
-<p>(d) Abstinence before marriage is the best protection against STIs/HIV
-    and unintended pregnancies. Casual sex can harm and hurt you and your loved
-    ones.</p>
+<p>&nbsp;</p>
+<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Love and respect
+    yourself as you love and respect others;</p>
+<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build positive
+    relationships based on love and respect (which are the foundation for strong
+    families);</p>
+<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Make responsible
+    decisions for yourself, your family and society; and</p>
+<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Abstinence before
+    marriage is the best protection against STIs/HIV and unintended pregnancies.
+    Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
     more information on MOE Sexuality Education.</p>
 <h1>Overview of RED SWASTIKA’S Sexuality Education Programme for 2024</h1>
@@ -68,37 +69,28 @@ variant: tiptap
     </li>
     </ol>
     <p>The subjects that incorporate topics on sexuality include:</p>
-    <p>a. Science</p>
-    <p>b. Character and Citizenship Education (CCE)</p>
-    <p><strong><u>Sexuality Education Lessons</u></strong>
-    </p>
-    <ol start="6" data-tight="true" class="tight">
-        <li>
-            <p></p>
-        </li>
-    </ol>
-    <p>The upper primary years mark the onset of puberty. With better nutrition
-        and improved health care, children are reaching puberty at a younger age
-        and have to grapple with physical, emotional and psychological changes
-        in themselves. The implication is that our children are becoming biologically
-        ready for sexual activity sooner without necessarily having the corresponding
-        cognitive or emotional maturity to modulate their behaviours. Furthermore,
-        our young are also exposed to a wide range of influences that could endanger
-        health and undermine the integrity of the family. Our students require
-        guidance so that they can respond with discernment to the sexual messages
-        in the media and other sources.</p>
-    <ol start="7" data-tight="true" class="tight">
-        <li>
-            <p></p>
-        </li>
-    </ol>
-    <p>Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at
-        Primary 5 and 6. Through these lessons, students will learn healthy ways
-        to manage the physiological, social and emotional changes in their growing
-        years. They learn to build healthy and rewarding relationships with others,
-        including those with members of the opposite sex. Students are also guided
-        to make wise, informed and responsible decisions to keep themselves safe
-        from sexuality-related risks.</p>
+    <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Science</p>
+    <p>b.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Character and Citizenship Education
+        (CCE)</p>
+    <p><strong><u>Sexuality Education Lessons</u></strong>:</p>
+    <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The upper primary years
+        mark the onset of puberty. With better nutrition and improved health care,
+        children are reaching puberty at a younger age and have to grapple with
+        physical, emotional and psychological changes in themselves. The implication
+        is that our children are becoming biologically ready for sexual activity
+        sooner without necessarily having the corresponding cognitive or emotional
+        maturity to modulate their behaviours. Furthermore, our young are also
+        exposed to a wide range of influences that could endanger health and undermine
+        the integrity of the family. Our students require close guidance so that
+        they can respond with discernment to the sexual messages in the media and
+        other sources.</p>
+    <p>7. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sexuality Education (SEd)
+        lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these
+        lessons, students will learn healthy ways to manage the physiological,
+        social and emotional changes in their growing years. They learn to build
+        healthy and rewarding relationships with others, including those with members
+        of the opposite sex. Students are also guided to make wise, informed and
+        responsible decisions to keep themselves safe from sexuality-related risks.</p>
     <p><strong>2024 SEXUALITY EDUCATION LESSONS IN CCE 2021 FOR PRIMARY 5</strong>
     </p>
     <table>
@@ -109,96 +101,77 @@ variant: tiptap
                     </p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p>LESSONS TITLE/ DURATION</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p>LESSON OVERVIEW
-                        <br>
+                    <p><strong>LESSON TITLE / DURATION</strong>
                     </p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p>TIME PERIOD (e.g Term 1 Week 2)
-                        <br>
+                    <p><strong>Lesson OVERVIEW</strong>
                     </p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p></p>
+                    <p><strong>TIME PERIOD</strong>
+                    </p>
+                    <p><strong>(e.g. Term 1 Week 2)</strong>
+                    </p>
                 </td>
             </tr>
             <tr>
                 <td rowspan="3" colspan="1">
-                    <p>Growing Years
-                        <br>
-                    </p>
+                    <p>Growing Years</p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p>The Changes in Me Lesson 1
-                        <br>(60 min)</p>
+                    <p>The Changes in Me</p>
+                    <p>(60 min)</p>
                 </td>
                 <td rowspan="1" colspan="1">
                     <p>This lesson focuses on helping students identify the emotions and stress
                         caused by physical changes during puberty. Students will learn to describe
                         the healthy ways to manage their negative feelings during this time. They
                         will also learn to recognise that one’s identity need not be negatively
-                        affected, even when one’s body is experiencing changes due to puberty.
-                        <br>
-                        <br>This lesson is conducted separately for boys and girls in different classrooms,
-                        so that the students will feel more comfortable during the discussions.</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p>Term 2 Week 2
-                        <br>
+                        affected, even when one’s body is experiencing changes due to puberty.</p>
+                    <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
                     </p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p></p>
+                    <p>Term 2 Week 2</p>
                 </td>
             </tr>
             <tr>
                 <td rowspan="1" colspan="1">
-                    <p>Did You Know?
-                        <br>(60 min)</p>
+                    <p>Did You Know?</p>
+                    <p>(60 min)</p>
+                    <p>&nbsp;</p>
                 </td>
                 <td rowspan="1" colspan="1">
                     <p>This lesson focuses on helping students know what pornography is and how
                         it can affect themselves and others. Students will learn about the dangers
                         of being exposed to sexually explicit materials and reject the viewing
                         and/or reading of pornographic materials. They will learn to evaluate their
-                        own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’</strong>.
-                        <br>
-                        <br>This lesson is conducted separately for boys and girls in different classrooms,
-                        so that the students will feel more comfortable during the discussions.</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p></p>
-                    <p>Term 2 Week 2 and 6</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p>
-                        <br>
+                        own responses when they encounter pornography by applying the strategy <strong>‘Stop-Think-Do’.</strong>
                     </p>
+                    <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+                    </p>
+                </td>
+                <td rowspan="1" colspan="1">
+                    <p>Term 2 Weeks 2 &amp; 6</p>
                 </td>
             </tr>
             <tr>
                 <td rowspan="1" colspan="1">
-                    <p>Keeping Myself Safe
-                        <br>(60 min)</p>
+                    <p>Keeping Myself Safe</p>
+                    <p>(60 min)</p>
+                    <p>&nbsp;</p>
                 </td>
                 <td rowspan="1" colspan="1">
                     <p>In this lesson, students will learn about sexual abuse, how it can happen
                         during online and offline interactions and the impact of such abuse on
                         victims. They also learn how to take precautionary measures to be safe
-                        and how to seek help for themselves and their friends. This lesson is conducted
-                        separately for boys and girls in different classrooms, so that the students
-                        will feel more comfortable during the discussions.</p>
-                </td>
-                <td rowspan="1" colspan="1">
-                    <p>Term 2 Week 6
-                        <br>
+                        and how to seek help for themselves and their friends.</p>
+                    <p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
                     </p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p></p>
+                    <p>Term 2 Week 6</p>
                 </td>
             </tr>
         </tbody>
@@ -210,43 +183,32 @@ variant: tiptap
         <tbody>
             <tr>
                 <td rowspan="1" colspan="1">
-                    <p>UNIT</p>
+                    <p><strong>CCE(FTGP) THEME</strong>
+                    </p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p>LESSONS TITLE/ DURATION</p>
+                    <p><strong>LESSON TITLE / DURATION</strong>
+                    </p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p>Lesson Overview
-                        <br>At the end of the lesson, pupils will be able to:</p>
+                    <p><strong>Lesson Overview</strong>
+                    </p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p>TIME PERIOD (e.g Term 1 Week 2)
-                        <br>
+                    <p><strong>TIME PERIOD</strong>
+                    </p>
+                    <p><strong>(e.g. Term 1 Week 2)</strong>
                     </p>
                 </td>
             </tr>
             <tr>
                 <td rowspan="2" colspan="1">
-                    <p>
-                        <br>
-                    </p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
-                    <p></p>
                     <p>Growing Years</p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p>Are We More than Friends?Lesson 1
-                        <br>(60 min)</p>
+                    <p>Are We More than Friends?</p>
+                    <p>Lesson 1</p>
+                    <p>(60 min)</p>
                 </td>
                 <td rowspan="1" colspan="1">
                     <p>In this lesson, students will learn to distinguish between the characteristics
@@ -258,15 +220,14 @@ variant: tiptap
                         healthy friendships with their circles of friends.</p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p>Term 2 Week 2
-                        <br>
-                    </p>
+                    <p>Term 2 Week 2</p>
                 </td>
             </tr>
             <tr>
                 <td rowspan="1" colspan="1">
-                    <p>Are We More than Friends? Lesson 2
-                        <br>(60 min)</p>
+                    <p>Are We More than Friends?</p>
+                    <p>Lesson 2</p>
+                    <p>(60 min)</p>
                 </td>
                 <td rowspan="1" colspan="1">
                     <p>In this lesson, students will learn healthy ways to manage the emotions
@@ -276,34 +237,22 @@ variant: tiptap
                         and learn to behave maturely towards each other.</p>
                 </td>
                 <td rowspan="1" colspan="1">
-                    <p>Term 2 Week 8 and 9
-                        <br>
-                    </p>
+                    <p>Term 2 Weeks 8 &amp; 9</p>
                 </td>
             </tr>
         </tbody>
     </table>
     <h1>Information for parents</h1>
-    <ol start="8" data-tight="true" class="tight">
-        <li>
-            <p></p>
-        </li>
-    </ol>
-    <p>Parents may opt their children out of Sexuality Education lessons, and/or
-        supplementary sexuality education programmes by MOE-approved external providers.</p>
-    <ol start="9" data-tight="true" class="tight">
-        <li>
-            <p></p>
-        </li>
-        </ol>
-        <p>Parents who wish to opt their children out of the Sexuality Education
-            lessons need to complete an opt-out form. This form will be distributed
-            to parents at the start of the year and is also downloadable <a href="/files/2024_Parents_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-            The completed opt-out form is to be submitted by 01/02/2024.</p>
-        <ol start="10" data-tight="true" class="tight">
-            <li>
-                <p></p>
-            </li>
-        </ol>
-        <p>Parents can contact the school at 6443 0380 or email <a href="mailto:pear_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pear_siew_hoon@schools.gov.sg</a> for
-            discussion or to seek clarification about the school’s sexuality education</p>
+    <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents may opt their
+        children out of Sexuality Education lessons, and/or supplementary Sexuality
+        Education programmes by MOE-approved external providers.</p>
+    <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
+        opt their children out of the Sexuality Education lessons need to complete
+        an opt-out form. This form will be communicated &nbsp;to parents at the
+        start of the year and is also downloadable <a href="/files/2024_Parents_opt_out_form.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>. The completed opt-out
+        form is to be submitted by 01/02/2024.</p>
+    <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
+        at 6443 0380 or email <a rel="noopener noreferrer nofollow" target="_blank">pear_siew_hoon@schools.gov</a>
+        <a href="mailto:pear_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>for discussion or to seek clarification about the school’s Sexuality
+            Education programme.</p>
+    <p></p>
