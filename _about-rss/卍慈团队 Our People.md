@@ -103,6 +103,7 @@ variant: markdown
 | MRS NEO BOCK LIAN                  | [neo_bock_lian@schools.gov.sg](mailto:neo_bock_lian@schools.gov.sg)                  |
 | MS NURFATIN BTE AZNI               | [nurfatin_azni@schools.gov.sg](mailto:nurfatin_azni@schools.gov.sg)                  |
 | MS NUR SYAFIQAH SHAFARI            | [nur_syafiqah_shafari@schools.gov.sg](mailto:nur_syafiqah_shafari@schools.gov.sg)           |
+| MDM PANG CHLOE                  | [Pang_Mei_Hui@schools.gov.sg](mailto:Pang_Mei_Hui@schools.gov.sg)                 |
 | MS PEAR SIEW HOON                  | [pear_siew_hoon@schools.gov.sg](mailto:pear_siew_hoon@schools.gov.sg)                 |
 | MDM POON HUI KIANG           | [poon_hui_kiang@schools.gov.sg](mailto:POON_HUI_KIANG@schools.gov.sg)                  |
 | MDM SHI HUI                        | [shi_hui_a@schools.gov.sg](mailto:shi_hui_a@schools.gov.sg)                      |
