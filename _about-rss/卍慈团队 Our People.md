@@ -103,6 +103,7 @@ variant: markdown
 | MRS NEO BOCK LIAN                  | [neo_bock_lian@schools.gov.sg](mailto:neo_bock_lian@schools.gov.sg)                  |
 | MS NURFATIN BTE AZNI               | [nurfatin_azni@schools.gov.sg](mailto:nurfatin_azni@schools.gov.sg)                  |
 | MS NUR SYAFIQAH SHAFARI            | [nur_syafiqah_shafari@schools.gov.sg](mailto:nur_syafiqah_shafari@schools.gov.sg)           |
+| MDM PANG CHLOE                  | [pang_mei_hui@schools.gov.sg](mailto:Pang_Mei_Hui@schools.gov.sg)                 |
 | MS PEAR SIEW HOON                  | [pear_siew_hoon@schools.gov.sg](mailto:pear_siew_hoon@schools.gov.sg)                 |
 | MDM POON HUI KIANG           | [poon_hui_kiang@schools.gov.sg](mailto:POON_HUI_KIANG@schools.gov.sg)                  |
 | MDM SHI HUI                        | [shi_hui_a@schools.gov.sg](mailto:shi_hui_a@schools.gov.sg)                      |
@@ -166,8 +167,8 @@ variant: markdown
 <br>
 [2024 P3 FTs and Subject Teachers](/files/FTs%20and%20Subject%20Teachers/2024_P3_FTs___Subject_Teachers.pdf)
 <br>
-[2024 P4 FTs and Subject Teachers](/files/FTs%20and%20Subject%20Teachers/2024_P4_FTs___Subject_Teachers.pdf)
+[2024 P4 FTs and Subject Teachers](/files/FTs%20and%20Subject%20Teachers/2024_P4_FTs___Subject_Teachers_1_Feb.pdf)
 <br>
-[2024 P5 FTs and Subject Teachers](/files/FTs%20and%20Subject%20Teachers/2024_P5_FTs___Subject_Teachers.pdf)
+[2024 P5 FTs and Subject Teachers](/files/FTs%20and%20Subject%20Teachers/2024_P5_FTs___Subject_Teachers_1_Feb.pdf)
 <br>
 [2024 P6 FTs and Subject Teachers](/files/FTs%20and%20Subject%20Teachers/2024_P6_FTs___Subject_Teachers_.pdf)
