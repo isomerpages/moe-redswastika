@@ -1,5 +1,5 @@
 ---
-title: 家长会 Parent Support Group
+title: 家长支援小组 Parent Support Group
 permalink: /our-partners/parent-support-group/
 description: ""
 variant: tiptap
