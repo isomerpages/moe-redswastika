@@ -6,7 +6,7 @@ variant: markdown
 ---
 <img style="width:65%" src="/images/RSS%20history.jpeg">
  
-Red Swastika School was founded by the World Red Swastika Society (Singapore Administration Centre). As an extension of its charitable mandate and to achieve the noble objective of transforming people through education, the Society built a school on site at Somapah Road in Changi. The more-than-three-acres piece of land was donated by then President of the Society, Mr Quek Shin, who saw the need to provide free primary education for the poor and to aid in the promotion of education in the outlying areas. Originally known as “Wan Tzu School”, the school was later renamed Red Swastika School. The foundation stone was laid at the school opening ceremony on 13th January 1951.
+Red Swastika School was founded by the World Red Swastika Society (Singapore Administration Centre). As an extension of its charitable mandate and to achieve the noble objective of transforming people through education, the society built a school on site at Somapah Road in Changi. The more-than-three-acres piece of land was donated by then President of the Society, Mr Quek Shin, who saw the need to provide free primary education for the poor and aid in the promotion of education in the outlying areas. Originally known as “Wan Tzu School”, the school was later renamed Red Swastika School. The foundation stone was laid at the school opening ceremony on 13 January 1951.
   
 <table style="undefined;table-layout: fixed; width: 716px" class="tg">
 <colgroup>
@@ -42,7 +42,7 @@ Red Swastika School was founded by the World Red Swastika Society (Singapore Adm
 	
 <tr>
 <td class="tg-iksn"><img alt="Jessie_Lim__White_Background_.png" src="/images/Ms_Jessie_Lim__White_Background_.png"></td>
-    <td class="tg-iksn">In 2019, the school began a new chapter under the leadership of <strong>Ms Jessie Lim</strong>. With the completion of the PERI upgrading works in July 2019, the school leveraged the new facilities such as the Indoor Sports Hall, teaching laboratory and indoor basketball courts to strengthen the holistic development of the students. From 2020, the school started operating as single-session - bringing together all her students to enjoy learning in a safe and caring environment.
+    <td class="tg-iksn">In 2019, the school began a new chapter under the leadership of Ms Jessie Lim. With the completion of the PERI upgrading works in July 2019, the school leveraged the new facilities such as the Indoor Sports Hall, teaching laboratory and indoor basketball courts to strengthen the holistic development of the students. From 2020, the school started operating as single-session - bringing together all her students to enjoy learning in a safe and caring environment.
 </td></tr>
 </tbody>
 </table>
