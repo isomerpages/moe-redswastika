@@ -74,6 +74,7 @@ of music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/aesthetic3.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Aesthetic_RSS_Got_Talent_Table_21_Feb_2024.png">
 </div>
