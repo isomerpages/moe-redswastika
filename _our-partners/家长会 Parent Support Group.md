@@ -8,8 +8,8 @@ variant: markdown
 parents who embraces:</p>
 <p><strong><font color="blue">RSS PSG Vision:</font></strong>
 </p>
-<p>Nurturing a caring and innovative community for <strong><font color="red">P</font></strong>arents, <strong><font color="red">S</font></strong>chool
-	and the<strong> <font color="red">G</font></strong>rowth of our children.</p>
+<p>Nurturing a caring and innovative community for <strong><font color="red"><font size="5">P</font></font></strong>arents, <strong><font color="red"><font size="5">S</font></font></strong>chool
+	and the <strong><font color="red"><font size="5">G</font></font></strong>rowth of our children.</p>
 <p><strong><font color="blue">RSS PSG Mission:</font></strong>
 </p>
 <p>1. To actively support the school's vision, ‘Caring Community, Innovative
