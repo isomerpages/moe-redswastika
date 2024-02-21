@@ -6,7 +6,7 @@ variant: markdown
 ---
 *  [P1 Parent Conference Slides 2024.pdf](/files/2024_P1_Parent_Conference_Slides.pdf)
 
-* [P2 Parent Conference Slides 2024.pdf](/files/2024_P2_Parent_Conference_Slides.pdf)
+* [P2 Parent Conference Slides 2024.pdf](/files/2024_P2_Parent_Conference_Hall_Slides__For_School_Website__final.pdf)
 
 * [P3 Parent Conference Slides 2024.pdf](/files/2024_P3_Parent_Conference_Slides.pdf)
 
