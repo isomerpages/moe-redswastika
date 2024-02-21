@@ -6,11 +6,11 @@ variant: markdown
 ---
 <p>RSS Parent Support Group (PSG) was set up in 2015. We are a group of passionate
 parents who embraces:</p>
-<p><strong>RSS PSG Vision:</strong>
+<p><strong><font color="blue">RSS PSG Vision:</font></strong>
 </p>
-<p>Nurturing a caring and innovative community for <strong>P</strong>arents, <strong>S</strong>chool
-and the <strong>G</strong>rowth of our children.</p>
-<p><strong>RSS PSG Mission:</strong>
+<p>Nurturing a caring and innovative community for <strong><font color="red">P</font></strong>arents, <strong><font color="red">S</font></strong>chool
+	and the<strong> <font color="red">G</font></strong>rowth of our children.</p>
+<p><strong><font color="blue">RSS PSG Mission:</font></strong>
 </p>
 <p>1. To actively support the school's vision, ‘Caring Community, Innovative
 Leaders’ and shape the future of our children.</p>
