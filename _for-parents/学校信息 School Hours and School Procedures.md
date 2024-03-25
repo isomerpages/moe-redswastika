@@ -4,8 +4,14 @@ permalink: /curriculum/school-hours-and-school-procedures/
 description: ""
 variant: markdown
 ---
-![](/images/School_Hours_29_Dec_2023_v2.png)
+**School Hours**
 
+![](/images/School_Hours_2024.png)
+
+**General Office Operating Hours**
+
+![](/images/School_Term_GO_Hours_2024_v2.png)
+![](/images/School_Holiday_GO_Hours_2024_v2.png)
 
 **Absence and Early Dismissal**
 
