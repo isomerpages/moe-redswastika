@@ -24,7 +24,8 @@ variant: markdown
           </tr>
           <tr>
             <td style="text-align: left;">Operating Hours:<br></td>
-            <td style="text-align: left;">Mondays to Fridays: 8.30am-3.30pm<br></td>
+            <td style="text-align: left;">Mondays, Tuesdays, Thursdays and Fridays: 8.00am-3.00pm<br>
+						Wednesdays: 8.00am - 2.30pm</td>
           </tr>
           <tr>
             <td style="text-align: left;">Contact:</td>
