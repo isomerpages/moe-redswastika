@@ -3,9 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 variant: markdown
 ---
-### **General Terms and Conditions on the Use of the Isomer Pages Website**
-
-##### **Terms of Use**
+### **Terms of Use**
 
 Thank you for visiting https://www.redswastika.moe.edu.sg/. 
 
@@ -22,7 +20,7 @@ Thank you for visiting https://www.redswastika.moe.edu.sg/.
  
 ##### **Privacy Policy** 
 
-5. Click here to review this Web Site Privacy Statement. 
+5. Click [here](https://www.redswastika.moe.edu.sg/privacy/) to review this Web Site Privacy Statement. 
 
 ##### **Restrictions on Use of Materials** 
 
