@@ -101,6 +101,7 @@ variant: markdown
 | MR MUHAMMAD KHALIS BIN ABDUL JALIL | [muhammad_khalis_abdul_jalil@schools.gov.sg](mailto:muhammad_khalis_abdul_jalil@schools.gov.sg)    |
 | MRS NEO BOCK LIAN                  | [neo_bock_lian@schools.gov.sg](mailto:neo_bock_lian@schools.gov.sg)                  |
 | MS NURFATIN BTE AZNI               | [nurfatin_azni@schools.gov.sg](mailto:nurfatin_azni@schools.gov.sg)                  |
+| MS NUR IZARIANA               | [nur_izariana_abdul_hassim@schools.gov.sg](mailto:nur_izariana_abdul_hassim@schools.gov.sg)                  |
 | MS NUR SYAFIQAH SHAFARI            | [nur_syafiqah_shafari@schools.gov.sg](mailto:nur_syafiqah_shafari@schools.gov.sg)           |
 | MDM PANG CHLOE                  | [pang_mei_hui@schools.gov.sg](mailto:Pang_Mei_Hui@schools.gov.sg)                 |
 | MS PEAR SIEW HOON                  | [pear_siew_hoon@schools.gov.sg](mailto:pear_siew_hoon@schools.gov.sg)                 |
