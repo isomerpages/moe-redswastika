@@ -75,7 +75,7 @@ variant: markdown
 | MRS BOON SENG POH                  | [ng_soo_ling@schools.gov.sg](mailto:ng_soo_ling@schools.gov.sg)                  |
 | MDM CHAN SOOK MEI CORINNA          | [corinna_chan_sook_mei@schools.gov.sg](mailto:corinna_chan_sook_mei@schools.gov.sg)          |
 | MS CHEN JIATING ABIGAIL            | [chen_jiating@schools.gov.sg](mailto:chen_jiating@schools.gov.sg)                   |
-| MR CHENG CHAI CHYUAN (DEXTER)      | [cheng_chai_chyuan@schools.gov.sg](mailto:cheng_chai_chyuan@schools.gov.sg)              |
+| MS CHEN LIMIN      | [chen_limin@schools.gov.sg](mailto:chen_limin@schools.gov.sg)              |
 | MRS CHEONG FONG LIN                | [chan_fong_ling@schools.gov.sg](mailto:chan_fong_ling@schools.gov.sg)                 |
 | MS CHIA AN YI                      | [chia_an_yi@schools.gov.sg](mailto:chia_an_yi@schools.gov.sg)                     |
 | MDM CHONG MEE FUNG                 | [chong_mee_fung@schools.gov.sg](mailto:chong_mee_fung@schools.gov.sg)                 |
@@ -92,7 +92,6 @@ variant: markdown
 | MS LEE JAY GEE                     | [lee_jay_gee@schools.gov.sg](mailto:lee_jay_gee@schools.gov.sg)                    |
 | MS LEE YEE YONG                    | [lee_yee_yong@schools.gov.sg](mailto:lee_yee_yong@schools.gov.sg)                   |
 | MS LEUNG RUI FANG                  | [leung_rui_fang@schools.gov.sg](mailto:leung_rui_fang@schools.gov.sg)                 |
-| MDM LIEW POH LIAN                  | [liew_poh_lian@schools.gov.sg](mailto:liew_poh_lian@schools.gov.sg)                  |
 | MS LIM LI LING NATALIE             | [lim_li_ling_natalie@schools.gov.sg](mailto:lim_li_ling_natalie@schools.gov.sg)            |
 | MS LIN JIAYING                     | [lin_jiaying@schools.gov.sg](mailto:lin_jiaying@schools.gov.sg)                    |          
 | MS MAISARAH BINTE AHMAD ZOHRY      | [maisarah_ahmad_zohry@schools.gov.sg](mailto:maisarah_ahmad_zohry@schools.gov.sg)           |
@@ -102,6 +101,7 @@ variant: markdown
 | MR MUHAMMAD KHALIS BIN ABDUL JALIL | [muhammad_khalis_abdul_jalil@schools.gov.sg](mailto:muhammad_khalis_abdul_jalil@schools.gov.sg)    |
 | MRS NEO BOCK LIAN                  | [neo_bock_lian@schools.gov.sg](mailto:neo_bock_lian@schools.gov.sg)                  |
 | MS NURFATIN BTE AZNI               | [nurfatin_azni@schools.gov.sg](mailto:nurfatin_azni@schools.gov.sg)                  |
+| MS NUR IZARIANA               | [nur_izariana_abdul_hassim@schools.gov.sg](mailto:nur_izariana_abdul_hassim@schools.gov.sg)                  |
 | MS NUR SYAFIQAH SHAFARI            | [nur_syafiqah_shafari@schools.gov.sg](mailto:nur_syafiqah_shafari@schools.gov.sg)           |
 | MDM PANG CHLOE                  | [pang_mei_hui@schools.gov.sg](mailto:Pang_Mei_Hui@schools.gov.sg)                 |
 | MS PEAR SIEW HOON                  | [pear_siew_hoon@schools.gov.sg](mailto:pear_siew_hoon@schools.gov.sg)                 |
@@ -149,6 +149,11 @@ variant: markdown
 		<td>Special Education Needs (SEN) Officer</td>
     <td>MDM ELYSE LIM</td>
     <td><a href="mailto:lim_mei_chen@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_mei_chen@schools.gov.sg</a></td>
+  </tr>
+	 <tr>
+		<td>Special Education Needs (SEN) Officer</td>
+    <td>MS LOW WEI TING VALARIE</td>
+    <td><a href="mailto:low_wei_ting_valarie@schools.gov.sg" target="_blank" rel="noopener noreferrer">low_wei_ting_valarie@schools.gov.sg</a></td>
   </tr>
 	 <tr>
 		<td>Special Education Needs (SEN) Officer<br></td>
