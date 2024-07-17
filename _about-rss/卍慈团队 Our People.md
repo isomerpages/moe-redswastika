@@ -68,6 +68,7 @@ variant: markdown
 
 |  |                             |
 |------------------------------------|-----------------------------------------------|
+| MR ABDUL HAKEEM BIN ABD BASHIR            | [abdul_hakeem_abd_bashir@schools.gov.sg](mailto:abdul_hakeem_abd_bashir@schools.gov.sg)                  |
 | MR ANG RUI XIANG JASPER            | [ang_rui_xiang@schools.gov.sg](mailto:ang_rui_xiang@schools.gov.sg)                  |
 | MR ADRIAN LIM SOO JIN              | [adrian_lim_soo_jin@schools.gov.sg](mailto:adrian_lim_soo_jin@schools.gov.sg)             |
 | MS AMIRAH BINTE ZAINALABIDIN       | [amirah_zainalabidin@schools.gov.sg](mailto:amirah_zainalabidin@schools.gov.sg)            |
@@ -101,6 +102,7 @@ variant: markdown
 | MR MUHAMMAD KHALIS BIN ABDUL JALIL | [muhammad_khalis_abdul_jalil@schools.gov.sg](mailto:muhammad_khalis_abdul_jalil@schools.gov.sg)    |
 | MRS NEO BOCK LIAN                  | [neo_bock_lian@schools.gov.sg](mailto:neo_bock_lian@schools.gov.sg)                  |
 | MS NURFATIN BTE AZNI               | [nurfatin_azni@schools.gov.sg](mailto:nurfatin_azni@schools.gov.sg)                  |
+| MS NURULHAZIRA BINTE ROSLY               | [nurul_hazira_rosly@schools.gov.sg](mailto:nurul_hazira_rosly@schools.gov.sg)                  |
 | MS NUR IZARIANA               | [nur_izariana_abdul_hassim@schools.gov.sg](mailto:nur_izariana_abdul_hassim@schools.gov.sg)                  |
 | MS NUR SYAFIQAH SHAFARI            | [nur_syafiqah_shafari@schools.gov.sg](mailto:nur_syafiqah_shafari@schools.gov.sg)           |
 | MDM PANG CHLOE                  | [pang_mei_hui@schools.gov.sg](mailto:Pang_Mei_Hui@schools.gov.sg)                 |
