@@ -77,7 +77,6 @@ variant: markdown
 | MDM CHAN SOOK MEI CORINNA          | [corinna_chan_sook_mei@schools.gov.sg](mailto:corinna_chan_sook_mei@schools.gov.sg)          |
 | MS CHEN JIATING ABIGAIL            | [chen_jiating@schools.gov.sg](mailto:chen_jiating@schools.gov.sg)                   |
 | MS CHEN LIMIN      | [chen_limin@schools.gov.sg](mailto:chen_limin@schools.gov.sg)              |
-| MRS CHEONG FONG LIN                | [chan_fong_ling@schools.gov.sg](mailto:chan_fong_ling@schools.gov.sg)                 |
 | MS CHIA AN YI                      | [chia_an_yi@schools.gov.sg](mailto:chia_an_yi@schools.gov.sg)                     |
 | MDM CHONG MEE FUNG                 | [chong_mee_fung@schools.gov.sg](mailto:chong_mee_fung@schools.gov.sg)                 |
 | MRS CHOW WEE LING                  | [chow_wee_ling@schools.gov.sg](mailto:chow_wee_ling@schools.gov.sg)                  |
