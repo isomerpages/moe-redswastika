@@ -4,6 +4,10 @@ permalink: /our-partners/school-management-committee/
 description: ""
 variant: tiptap
 ---
-**School Management Committee (2023- 2025)**
-![](/images/SMC%202023-2025%20PART%201.png)
-![](/images/SMC%202023-2025%20PART%202.png)
+<p><strong>School Management Committee (2023- 2025)</strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_Member_v2.jpg">
+</div>
+<p></p>
