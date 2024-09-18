@@ -77,7 +77,6 @@ variant: markdown
 | MDM CHAN SOOK MEI CORINNA          | [corinna_chan_sook_mei@schools.gov.sg](mailto:corinna_chan_sook_mei@schools.gov.sg)          |
 | MS CHEN JIATING ABIGAIL            | [chen_jiating@schools.gov.sg](mailto:chen_jiating@schools.gov.sg)                   |
 | MS CHEN LIMIN      | [chen_limin@schools.gov.sg](mailto:chen_limin@schools.gov.sg)              |
-| MRS CHEONG FONG LIN                | [chan_fong_ling@schools.gov.sg](mailto:chan_fong_ling@schools.gov.sg)                 |
 | MS CHIA AN YI                      | [chia_an_yi@schools.gov.sg](mailto:chia_an_yi@schools.gov.sg)                     |
 | MDM CHONG MEE FUNG                 | [chong_mee_fung@schools.gov.sg](mailto:chong_mee_fung@schools.gov.sg)                 |
 | MRS CHOW WEE LING                  | [chow_wee_ling@schools.gov.sg](mailto:chow_wee_ling@schools.gov.sg)                  |
@@ -116,6 +115,7 @@ variant: markdown
 | MS TAN MUI MUI                     | [tan_mui_mui@schools.gov.sg](mailto:tan_mui_mui@schools.gov.sg)                    |
 | MDM TAN SEE HUI                    | [tan_see_hui@schools.gov.sg](mailto:tan_see_hui@schools.gov.sg)                    |
 | MRS TAN YEE HWEE                   | [tan_yee_hwee@schools.gov.sg](mailto:tan_yee_hwee@schools.gov.sg)                   |
+| MRS TANG PEI PEI                  | [tang_pei_pei@schools.gov.sg](mailto:tang_pei_pei@schools.gov.sg)                   
 | MR TAY MUHAMMAD ROBBY IZWAN        | [tay_muhammad_robby_izwan@schools.gov.sg](mailto:tay_muhammad_robby_izwan@schools.gov.sg)       |
 | MS TEO HUI MIN                     | [teo_hui_min_a@schools.gov.sg](mailto:teo_hui_min_a@schools.gov.sg)                  |
 | MDM TEO LI LING (MRS YVONNE CHONG) | [teo_liling@schools.gov.sg](mailto:teo_liling@schools.gov.sg)                     |
