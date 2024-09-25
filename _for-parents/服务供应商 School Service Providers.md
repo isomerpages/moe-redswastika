@@ -40,7 +40,8 @@ variant: markdown
           <tr>
             <td style="text-align: left;">Link for Booklist:</td>
             <td style="text-align: left;">
-              <a href="[P1 Booklist](/files/Booklist/P1_Booklist_2025.pdf)">P1 Booklist</a><br>
+							  <a href="/files/Booklist/P1_Booklist_2025.pdf">P1 Booklist</a><br>
+   
          
             </td>
           </tr>
@@ -120,7 +121,8 @@ variant: markdown
 </tr>
 	<tr><td style="text-align: left;">School Bus Application Form:</td><td style="text-align: left;">
 		
-[Request for School Bus Services P1 2025](/files/Request_for_School_Bus_Services___P1_2025.pdf)
+<a href="/files/Request_for_School_Bus_Services___P1_2025.pdf">Request for School Bus Services P1 2025</a>
+
 
 </td></tr></tbody>
 </table>
