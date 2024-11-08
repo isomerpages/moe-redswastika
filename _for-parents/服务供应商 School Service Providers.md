@@ -41,6 +41,11 @@ variant: markdown
             <td style="text-align: left;">Link for Booklist:</td>
             <td style="text-align: left;">
 							  <a href="/files/Booklist/P1_Booklist_2025.pdf">P1 Booklist 2025</a><br>
+								<a href="/files/Booklist/P2_Booklist_2025.pdf">P2 Booklist 2025</a><br>
+								<a href="/files/Booklist/P3_Booklist_2025.pdf">P3 Booklist 2025</a><br>
+								<a href="/files/Booklist/P4_Booklist_2025.pdf">P4 Booklist 2025</a><br>
+								<a href="/files/Booklist/P5_Booklist_2025.pdf">P5 Booklist 2025</a><br>
+								<a href="/files/Booklist/P6_Booklist_2025.pdf">P6 Booklist 2025</a><br>
             </td>
           </tr>
         </tbody>
