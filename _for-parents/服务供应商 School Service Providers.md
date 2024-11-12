@@ -45,7 +45,7 @@ variant: markdown
 								<a href="/files/Booklist/P3_Booklist_2025.pdf">P3 Booklist 2025</a><br>
 								<a href="/files/Booklist/P4_Booklist_2025.pdf">P4 Booklist 2025</a><br>
 								<a href="/files/Booklist/P5_Booklist_2025.pdf">P5 Booklist 2025</a><br>
-								<a href="/files/Booklist/P6_Booklist_2025.pdf">P6 Booklist 2025</a><br>
+								<a href="/files/Booklist/P6_Booklist_[P6_Booklist_2025](/files/P6_Booklist_2025.pdf)2025.pdf">P6 Booklist 2025</a><br>
             </td>
           </tr>
         </tbody>
