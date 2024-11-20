@@ -16,7 +16,6 @@ The school values parents/guardians as co-partners in educating our students. We
 * P1 Orientation: <br>
 [P1 Orientation Slides](/files/P1_Orientation_Slides_2024__for_school_website_.pdf)
 
-(/files/Classroom_Interaction_with_Teachers.pdf)
 * [Updates on PSLE Scoring, S1 Posting and Full Subject-Based Banding](/files/psle%20and%20full%20sbb_website_final.pdf)
 
 
