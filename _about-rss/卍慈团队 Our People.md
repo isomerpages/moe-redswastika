@@ -55,7 +55,7 @@ variant: markdown
 | Subject Head <br> ICT &amp; Data Management (Internal)     | MR JASPER ANG    | [ang_rui_xiang@schools.gov.sg](mailto:ang_rui_xiang@schools.gov.sg)     |
 | Subject Head <br> SAP    | MDM KOH SWEE YEN     | [koh_swee_yen@schools.gov.sg ](mailto:koh_swee_yen@schools.gov.sg )    |
 | Subject Head <br> Student Leadership     | MR LEE WEI LOONG     | [lee_wei_loong@schools.gov.sg](mailto:lee_wei_loong@schools.gov.sg)|
-| Subject Head <br> Student Well-being     | MDM LIEW HWEE HONG     |[ liew_hwee_hong@schools.gov.sg ](mailto: liew_hwee_hong@schools.gov.sg )   |
+| Subject Head <br> Student Well-being     | MDM LIEW HWEE HONG      | [liew_hwee_hong@schools.gov.sg](mailto:liew_hwee_hong@schools.gov.sg)|
 | Senior Teacher <br> (English Language)    | MS DAWN QUEK PEI CHIN    | [quek_pei_chin_dawn@schools.gov.sg](mailto:quek_pei_chin_dawn@schools.gov.sg)     |
 | Senior Teacher <br> (Chinese Language)    | MR XIE TIANYI     | [xie_tianyi@schools.gov.sg](mailto:xie_tianyi@schools.gov.sg)     |
 | Senior Teacher <br> (Mathematics)     | MRS GO LEE CHING     | [lim_lee_ching@schools.gov.sg](mailto:lim_lee_ching@schools.gov.sg)    |
