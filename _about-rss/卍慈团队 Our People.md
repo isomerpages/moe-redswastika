@@ -46,6 +46,10 @@ variant: markdown
 | Year Head <br> (Middle Pri)     | MS TAN ZHI LING     | [tan_zhi_ling@schools.gov.sg](mailto:tan_zhi_ling@schools.gov.sg)    |
 | Year Head <br> (Lower Pri)     | MRS CAROL TNG     | [carol_cheong_sok_hiang@schools.gov.sg ](mailto:carol_cheong_sok_hiang@schools.gov.sg )    |
 | Assistant Year Head <br> (Upper Pri)     | MDM REGINA WUN LAI YING     | [wun_lai ying@schools.gov.sg ](mailto:wun_lay_ying@schools.gov.sg )    |
+| Assistant Year Head <br> (Upper Pri) (Internal)     | MDM NURFATIN BTE AZNI     | [nurfatin_azni@schools.gov.sg ](mailto:nurfatin_azni@schools.gov.sg )    |
+| Assistant Year Head <br> (Middle Pri) (Internal)     | MR ADRIAN LIM  | [adrian_lim_soo_jin@schools.gov.sg ](mailto:adrian_lim_soo_jin@schools.gov.sg )    |
+| Assistant Year Head <br> (Middle Pri) (Internal)     | MS KHAIRUNISYA BTE HANAFI  | [khairunisya_hanafi@schools.gov.sg ](mailto:khairunisya_hanafi@schools.gov.sg )    |
+| Assistant Year Head <br> (Lower Pri) (Internal)     | MS NATALIE LIM  | [lim_li_ling_natalie@schools.gov.sg ](mailto:lim_li_ling_natalie@schools.gov.sg )    |
 | Level Head <br> English Language    | MDM SAIRA BANU     | [saira_banu_mohd_nasir@schools.gov.sg](mailto:saira_banu_mohd_nasir@schools.gov.sg)     |
 | Level Head <br> Mathematics     | MRS LILIAN PEH (LEE PECK LENG)     | [lee_peck_leng_lilian@schools.gov.sg](mailto:lee_peck_leng_lilian@schools.gov.sg)     |
 | Level Head <br> Science    | MRS LANE LOW    | [koh_suyi_lane@schools.gov.sg](mailto:koh_suyi_lane@schools.gov.sg)     |
