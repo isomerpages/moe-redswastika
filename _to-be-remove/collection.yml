@@ -2,6 +2,5 @@ collections:
   to-be-remove:
     output: true
     order:
-      - 健康与安全信息 Health and Safety Matters.md
       - 校规 School Rules.md
       - 沟通与交流 Communication.md
