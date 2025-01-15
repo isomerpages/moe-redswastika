@@ -7,7 +7,8 @@ variant: markdown
 ##### **Registration Period: Opens 15 Jan 2025 till 7 March 2025.**
 
  **<u>RED SWASTIKA SCHOOL PARENT VOLUNTEER SCHEME FOR 2025 PRIMARY ONE REGISTRATION EXERCISE (ADMISSION IN 2027)</u>**
-<br><b>Applicable for children born in 2020.</b>
+ <p>
+<b>Applicable for children born in 2020.</b></p>
 
 1. Parents who are accepted as Parent Volunteers will start contributing the required 50 voluntary hours one year before the start of the Primary One Registration Exercise. The timing of the voluntary activities will be during school hours.
 
