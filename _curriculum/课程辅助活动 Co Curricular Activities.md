@@ -38,16 +38,17 @@ in their chosen area of interest.</p>
 </ul>
 <p><strong>CCA Programme</strong>
 </p>
-<p>Students are strongly encouraged to participate in a CCA from Primary
-3 onwards. We provide students with CCA choices to cater to their different
-interests and talents. These are broadly categorized into the following
-four categories:</p>
+<p>CCA at Primary School is optional. Students are strongly encouraged to
+participate in a CCA from Primary 3 onwards. &nbsp;We provide students
+with CCA choices to cater to their different interests and talents. These
+are broadly categorized into the following four categories:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cca12may.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Programme_2025.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Co_Curricular_Activities_21_Feb_2024.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Programme_Chart_2025.png">
 </div>
 <p><strong>Co-Curriculum Enrichment</strong>
 </p>
