@@ -10,7 +10,7 @@ variant: markdown
  <p>
 <b>Applicable for children born in 2020.</b></p>
 
-1. Parents who are accepted as Parent Volunteers will start contributing the required 50 voluntary hours one year before the start of the Primary One Registration Exercise. The timing of the voluntary activities will be during school hours.
+1. Parents who are accepted as Parent Volunteers will start contributing the required **50** voluntary hours one year before the start of the Primary One Registration Exercise. The timing of the voluntary activities will be during school hours.
 
 2. Red Swastika School is a Special Assistance Plan (SAP) School offering Higher Chinese Language only for Primary 1 to 4; and Chinese and Higher Chinese at Primary 5 &amp; 6.
  
