@@ -1,5 +1,4 @@
 collections:
   to-be-remove:
     output: true
-    order:
-      - 沟通与交流 Communication.md
+    order: []
