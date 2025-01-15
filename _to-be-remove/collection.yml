@@ -2,5 +2,4 @@ collections:
   to-be-remove:
     output: true
     order:
-      - 校规 School Rules.md
       - 沟通与交流 Communication.md
