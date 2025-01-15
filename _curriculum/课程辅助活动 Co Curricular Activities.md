@@ -50,8 +50,4 @@ are broadly categorized into the following four categories:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Programme_Chart_2025.png">
 </div>
-<p><strong>Co-Curriculum Enrichment</strong>
-</p>
-<p>To complement the CCA programme, the school also provides P1 to P5 Co-Curriculum
-Enrichment to provide additional platform for students to discover their
-interests and talents in the various CCA categories.</p>
+<p></p>
