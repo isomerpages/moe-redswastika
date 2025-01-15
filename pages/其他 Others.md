@@ -1,8 +1,8 @@
 ---
 title: 其他 Others
-permalink: /curriculum/others/
+permalink: /archive/curriculum/others/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 **Birthday Celebration**
 

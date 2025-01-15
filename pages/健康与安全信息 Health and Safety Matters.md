@@ -1,6 +1,6 @@
 ---
 title: 健康与安全信息 Health and Safety Matters
-permalink: /curriculum/health-and-safety-matters/
+permalink: /archive/curriculum/health-and-safety-matters/
 description: ""
 variant: markdown
 ---

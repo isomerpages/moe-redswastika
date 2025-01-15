@@ -1,6 +1,6 @@
 ---
 title: 校规 School Rules
-permalink: /curriculum/school-rules/
+permalink: /archive/curriculum/school-rules/
 description: ""
 variant: markdown
 ---
@@ -35,4 +35,4 @@ variant: markdown
 8.	Students should stay within the school premises during school hours and not leave without permission.
 
 
-For more details on the school rules and discipline guidelines, please refer to Pg 12 to 18 of the Student Handbook 
+For more details on the school rules and discipline guidelines, please refer to Pg 12 to 18 of the Student Handbook

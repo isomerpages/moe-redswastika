@@ -1,6 +1,6 @@
 ---
 title: 沟通与交流 Communication
-permalink: /curriculum/communication/
+permalink: /archive/curriculum/communication/
 description: ""
 variant: markdown
 ---
