@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 学校信息 School Hours and School Procedures.md
-      - 健康与安全信息 Health and Safety Matters.md
       - 学生支助计划 Support for Students.md
       - 服务供应商 School Service Providers.md
       - 相关链接 Quick Links.md
