@@ -68,8 +68,6 @@ variant: markdown
 | LSC     | MDM LOKE HUI JUN MICHELLE    | [loke_hui_jun_michelle@schools.gov.sg ](mailto:loke_hui_jun_michelle@schools.gov.sg )    |
 | LSM     | MDM SNG MENG FONG    | [sng_meng_fong@schools.gov.sg](mailto:sng_meng_fong@schools.gov.sg)     |
 
-
-
 # Allied Educators
 <table>
 <tbody>
