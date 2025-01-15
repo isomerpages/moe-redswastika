@@ -8,7 +8,10 @@ variant: markdown
   <h2 id="_ptoh_130714" class="ive_editable ive_ptoh">School Bookshop</h2>
   <div id="_ptod_130714" class="ive_editable ive_ptod ive_content">
     <div>
-      <table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
+      <div id="_ptoo_130715" class="pageblock_box">
+    <h2 id="_ptoh_130715" class="ive_editable ive_ptoh">School Uniform &amp; Nametag</h2>
+    <div id="_ptod_130715" class="ive_editable ive_ptod ive_content"><div>
+</div></div></div><table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
         <tbody>
           <tr>
             <td style="width: 245px;">
@@ -37,27 +40,12 @@ variant: markdown
               <a href="http://www.pacificbookstores.com/" target="_blank" style="background-color: initial;">www.pacificbookstores.com</a><br>
             </td>
           </tr>
-          <tr>
-            <td style="text-align: left;">Link for Booklist:</td>
-            <td style="text-align: left;">
-							  <a href="/files/Booklist/P1_Booklist_2025.pdf">P1 Booklist 2025</a><br>
-								<a href="/files/Booklist/P2_Booklist_2025.pdf">P2 Booklist 2025</a><br>
-								<a href="/files/Booklist/P3_Booklist_2025.pdf">P3 Booklist 2025</a><br>
-								<a href="/files/Booklist/P4_Booklist_2025.pdf">P4 Booklist 2025</a><br>
-								<a href="/files/Booklist/P5_Booklist_2025.pdf">P5 Booklist 2025</a><br>
-								<a href="/files/Booklist/P6_Booklist_2025.pdf">P6 Booklist 2025</a><br>
-            </td>
-          </tr>
-        </tbody>
-      </table>
-    </div>
-  </div>
-</div>
+ 
+    
+  
 
-<div id="_ptoo_130715" class="pageblock_box">
-    <h2 id="_ptoh_130715" class="ive_editable ive_ptoh">School Uniform &amp; Nametag</h2>
-    <div id="_ptod_130715" class="ive_editable ive_ptod ive_content"><div>
-<table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
+
+</tbody></table><table class="ive_eobj_center iveo_table ives_tab_simple3" style="width: 100%;">
 <tbody>
 <tr>
 <td style="width: 30%;">
