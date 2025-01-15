@@ -139,12 +139,10 @@ variant: markdown
   <tr>
 		<td>School Counsellor<br></td>
     <td>MDM LAI OI LEE CHERYL<br></td>
-    <td><a target="_blank" rel="noopener noreferrer"><br></a></td>
   </tr>
 	 <tr>
 		<td>Special Education Needs (SEN) Officer</td>
     <td>MS BONG SHI QI SHIRLEY</td>
-    <td><a target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
   <tr>
 		<td>Special Education Needs (SEN) Officer</td>
@@ -154,12 +152,10 @@ variant: markdown
 	 <tr>
 		<td>Special Education Needs (SEN) Officer</td>
     <td>MS LOW WEI TING VALARIE</td>
-    <td><a target="_blank" rel="noopener noreferrer"></a></td>
   </tr>
 	 <tr>
 		<td>Special Education Needs (SEN) Officer<br></td>
     <td>MS THAM MEI FONG<br></td>
-		<td><a target="_blank" rel="noopener noreferrer"></a></td>
 	</tr>
 			</tbody>
 	</table>
