@@ -69,70 +69,7 @@ variant: markdown
 | LSM     | MDM SNG MENG FONG    | [sng_meng_fong@schools.gov.sg](mailto:sng_meng_fong@schools.gov.sg)     |
 
 
-# Teacher
 
-|  |                             |
-|------------------------------------|-----------------------------------------------|
-| MR ABDUL HAKEEM BIN ABD BASHIR            |              |
-| MR ANG RUI XIANG JASPER            |                   |
-| MR ADRIAN LIM SOO JIN              |             |
-| MS AMIRAH BINTE ZAINALABIDIN       |             |
-| MR ANG CHEE WAI PATRICK                |                   |
-| MRS BOON SENG POH                  |                   |
-| MDM CHAN SOOK MEI CORINNA          |           |
-| MS CHEN JIATING ABIGAIL            |                    |
-| MS CHEN LIMIN      |               |
-| MS CHIA AN YI                      |                      |
-| MDM CHONG MEE FUNG                 |                  |
-| MRS CHOW WEE LING                  |                   |
-| MS FARISYA MUHAMMAD JAMAL          |           |
-| MS FRANCINE LIEW LI'EN             |              |
-| MS FOO YAN BING                    |                    |
-| MR GOI SENG POH ADAM               |                    |
-| MDM HO MAY LING                    |                     |
-| MDM HOW YU JIE                     |             |
-| MR JONATHAN NG JUNMING             |             |
-| MR KWA KAY HOCK                    |                    |
-| MS LEE JAY GEE                     |                     |
-| MS LEE YEE YONG                    |                    |
-| MS LEUNG RUI FANG                  |                  |
-| MS LIN JIAYING                     |                     |          
-| MS MAISARAH BINTE AHMAD ZOHRY      |            |
-| MDM MENG XIANYUAN                  |                   |
-| MR MUHAMMAD FARIZ ABDUL KADER      |      |
-| MR MUHAMMAD JUFRI BIN ANNUAR       |           |
-| MR MUHAMMAD KHALIS BIN ABDUL JALIL |     |
-| MRS NEO BOCK LIAN                  |                   |
-| MS NURULHAZIRA BINTE ROSLY               |                   |
-| MS NUR IZARIANA               |                   |
-| MS NUR SYAFIQAH SHAFARI            |            |
-| MDM PANG CHLOE                  |                 |
-| MS PEAR SIEW HOON                  |                  |
-| MDM SHI HUI                        |                       |
-| MR SIRAJUDEEN SULTHAN S            |  |
-| MDM SITI HAWA BTE AWANG            |                 |
-| MRS TAN LUCY                       |                       |
-| MS TAN MIN HUI                     |                     |
-| MDM TAN SEE HUI                    |                     |
-| MRS TAN YEE HWEE                   |                    |
-| MRS TANG PEI PEI                  |                    
-| MR TAY MUHAMMAD ROBBY IZWAN        |        |
-| MS TEO HUI MIN                     |                   |
-| MDM TEO LI LING (MRS YVONNE CHONG) |                      |
-| MDM TEO WIL CHIN                   |                    |
-| MDM TEO XIN WEI                    |                     |
-| MR TOH SU YEN JASON                   |                     |
-| MDM WANG KUN                       |                        |
-| MDM WANG LIPING                   |                     |
-| MR WANG MENG SONG                  |                  |
-| MRS WOON-TOH SHU YING              |                    |
-| MDM WONG SIEW LING REBECCA         |          |
-| MDM XU LI                          |                           |
-| MDM ZAREENA BTE MOHD HUSAIN        |             |
-| MR ZHANG QINGYU                    |                    |
-| MS ZHU RENXIAN CHARLENE            |            |
-| MDM ZOU YIXUAN                     |                      |
-	
 # Allied Educators
 <table>
 <tbody>
@@ -161,4 +98,3 @@ variant: markdown
 	</table>
 <p>
 	</p>
-	
