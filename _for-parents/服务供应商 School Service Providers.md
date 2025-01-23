@@ -104,8 +104,9 @@ variant: tiptap
 <p>Operating Hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Monday - Saturday: 10.00am-6.00pm,</p>
-<p>Lunch Time: 1.00pm-2.00pm</p>
+<p>Monday - Saturday: 10am-6pm,</p>
+<p>Lunch Time: 1pm-2pm</p>
+<p>Closed on Sunday &amp; Public Holidays</p>
 </td>
 </tr>
 </tbody>
