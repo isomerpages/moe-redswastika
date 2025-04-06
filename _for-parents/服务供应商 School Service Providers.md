@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h2>School Bookshop</h2>
-<h2>School Uniform &amp; Nametag</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -53,6 +52,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<h2>School Uniform &amp; Nametag</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

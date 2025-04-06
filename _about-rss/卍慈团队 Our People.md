@@ -2,97 +2,429 @@
 title: 卍慈团队 Our People
 permalink: /about-rss/our-people/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-# School Leaders
-<table>
-		<tbody>
-  <tr>
-    <td>Principal<br></td>
-    <td>MR LIM MENG WEI<br></td>
-    <td><a href="mailto:LIM_Meng_Wei@schools.gov.sg" target="_blank" rel="noopener noreferrer">lim_meng_wei@schools.gov.sg</a><br></td>
-  </tr>
-  <tr>
-    <td>Vice-Principal</td>
-    <td>MS ANGELA GOH</td>
-    <td><a href="mailto:angela_goh@schools.gov.sg" target="_blank" rel="noopener noreferrer">angela_goh@schools.gov.sg</a></td>
-  </tr>
-  <tr>
-    <td>Vice-Principal</td>
-    <td>MRS ESTHER TAN</td>
-    <td><a href="mailto:esther_e_tzy_kwei@schools.gov.sg" target="_blank" rel="noopener noreferrer">esther_e_tzy_kwei@schools.gov.sg</a></td></tr>
-			<tr>
-    <td>Vice-Principal (Admin)</td>
-    <td>MR TAN MENG KHIANG</td>
-    <td><a href="mailto:TAN_Meng_Khiang@schools.gov.sg" target="_blank" rel="noopener noreferrer">tan_meng_khiang@schools.gov.sg</a></td></tr>
-	</tbody>
-</table>
-
-# School Key Personnel
-
-|  | |  |
-| -------- | -------- | -------- |
-| School Staff Developer     | MRS NATHALIE TAY     | [ong_shin_leei_nathalie@schools.gov.sg  ](mailto:ong_shin_leei_nathalie@schools.gov.sg  )   |
-| Head of Department <br> English Language     | MRS APRIL JOANN NOBLE     | [sobrielo_april_joann@schools.gov.sg](mailto:sobrielo_april_joann@schools.gov.sg)    |
-| Head of Department <br> Chinese Language    | MRS POON WAI KUAN     | [poon_wai_kuan@schools.gov.sg ](mailto:poon_wai_kuan@schools.gov.sg )    |
-| Head of Department <br> Mathematics     | MRS GOH-WOON HUI HUI     | [woon_hui_hui@schools.gov.sg](mailto:woon_hui_hui@schools.gov.sg)    |
-| Head of Department <br> Science    | MS SHARIFAH FADILLAH BTE SYED M I     | [sharifah_fadillah_syed@schools.gov.sg](mailto:sharifah_fadillah_syed@schools.gov.sg)    |
-| Head of Department <br> PE &amp; CCA (Covering)    | MR KHO HAN KOON, MIKE    | [kho_han_koon@schools.gov.sg](mailto:kho_han_koon@schools.gov.sg)     |
-| Head of Department <br> Student Management     | MRS CHING KIM SIONG     | [ching_kim_siong@schools.gov.sg](mailto:ching_kim_siong@schools.gov.sg)   |
-| Head of Department <br> CCE     | MR LEE BENG TECK JONATHAN     | [lee_beng_teck_jonathan@schools.gov.sg](mailto:lee_beng_teck_jonathan@schools.gov.sg)     |
-| Head of Department <br> ICT &amp; Data Management    | MS LIM EE MIN      | [lim_ee_min@schools.gov.sg](mailto:lim_ee_min@schools.gov.sg)     |
-| Head of Department <br> SAP    | MDM IVY HO      | [ivy_ho@schools.gov.sg](mailto:ivy_ho@schools.gov.sg)     |
-| Year Head <br> (Upper Pri)     | MR CHUA KWAN HENG     | [chua_kwan_heng@schools.gov.sg](mailto:chua_kwan_heng@schools.gov.sg)    |
-| Year Head <br> (Middle Pri)     | MS TAN ZHI LING     | [tan_zhi_ling@schools.gov.sg](mailto:tan_zhi_ling@schools.gov.sg)    |
-| Year Head <br> (Lower Pri)     | MRS CAROL TNG     | [carol_cheong_sok_hiang@schools.gov.sg ](mailto:carol_cheong_sok_hiang@schools.gov.sg )    |
-| Assistant Year Head <br> (Upper Pri)     | MDM REGINA WUN LAI YING     | [wun_lai ying@schools.gov.sg ](mailto:wun_lay_ying@schools.gov.sg )    |
-| Assistant Year Head <br> (Upper Pri) (Internal)     | MDM NURFATIN BTE AZNI     | [nurfatin_azni@schools.gov.sg ](mailto:nurfatin_azni@schools.gov.sg )    |
-| Assistant Year Head <br> (Middle Pri) (Internal)     | MR ADRIAN LIM  | [adrian_lim_soo_jin@schools.gov.sg ](mailto:adrian_lim_soo_jin@schools.gov.sg )    |
-| Assistant Year Head <br> (Middle Pri) (Internal)     | MS KHAIRUNISYA BTE HANAFI  | [khairunisya_hanafi@schools.gov.sg ](mailto:khairunisya_hanafi@schools.gov.sg )    |
-| Assistant Year Head <br> (Lower Pri) (Internal)     | MS NATALIE LIM  | [lim_li_ling_natalie@schools.gov.sg ](mailto:lim_li_ling_natalie@schools.gov.sg )    |
-| Level Head <br> English Language    | MDM SAIRA BANU     | [saira_banu_mohd_nasir@schools.gov.sg](mailto:saira_banu_mohd_nasir@schools.gov.sg)     |
-| Level Head <br> Mathematics     | MRS LILIAN PEH (LEE PECK LENG)     | [lee_peck_leng_lilian@schools.gov.sg](mailto:lee_peck_leng_lilian@schools.gov.sg)     |
-| Level Head <br> Science    | MRS LANE LOW    | [koh_suyi_lane@schools.gov.sg](mailto:koh_suyi_lane@schools.gov.sg)     |
-| Level Head <br> Chinese Language (Internal)     | MR WANG SIYANG     | [wang_siyang_b@schools.gov.sg](mailto:wang_siyang_b@schools.gov.sg)    |
-| Subject Head <br> Aesthetics     | MS TAN SHI YING     | [tan_shi_ying_a@schools.gov.sg ](mailto:Tan_Shi_Ying_A@schools.gov.sg )   
-| Subject Head <br> CCE     | MRS CHUA HUIXIN    | [wang_huixin@schools.gov.sg](mailto:wang_huixin@schools.gov.sg)     |
-| Subject Head <br> ICT &amp; Data Management (Internal)     | MR JASPER ANG    | [ang_rui_xiang@schools.gov.sg](mailto:ang_rui_xiang@schools.gov.sg)     |
-| Subject Head <br> SAP    | MDM KOH SWEE YEN     | [koh_swee_yen@schools.gov.sg ](mailto:koh_swee_yen@schools.gov.sg )    |
-| Subject Head <br> Student Leadership     | MR LEE WEI LOONG     | [lee_wei_loong@schools.gov.sg](mailto:lee_wei_loong@schools.gov.sg)|
-| Subject Head <br> Student Well-being     | MDM LIEW HWEE HONG      | [liew_hwee_hong@schools.gov.sg](mailto:liew_hwee_hong@schools.gov.sg)|
-| Senior Teacher <br> (English Language)    | MS DAWN QUEK PEI CHIN    | [quek_pei_chin_dawn@schools.gov.sg](mailto:quek_pei_chin_dawn@schools.gov.sg)     |
-| Senior Teacher <br> (Chinese Language)    | MR XIE TIANYI     | [xie_tianyi@schools.gov.sg](mailto:xie_tianyi@schools.gov.sg)     |
-| Senior Teacher <br> (Mathematics)     | MRS GO LEE CHING     | [lim_lee_ching@schools.gov.sg](mailto:lim_lee_ching@schools.gov.sg)    |
-| Senior Teacher <br> (Physical Education)     | MDM YASMIN SEAH    | [seah_sher_li@schools.gov.sg](mailto:seah_sher_li@schools.gov.sg)     |
-| Senior Teacher <br> (Lower Primary Learners)     | MDM SITI AMINAH BTE MOHAMMAD ISA     | [siti_aminah_mohammad_isa@schools.gov.sg](mailto:siti_aminah_mohammad_isa@schools.gov.sg)     |
-| LSC     | MDM LOKE HUI JUN MICHELLE    | [loke_hui_jun_michelle@schools.gov.sg ](mailto:loke_hui_jun_michelle@schools.gov.sg )    |
-| LSM     | MDM SNG MENG FONG    | [sng_meng_fong@schools.gov.sg](mailto:sng_meng_fong@schools.gov.sg)     |
-
-# Allied Educators
-<table>
+<h1>School Leaders</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
-  <tr>
-		<td>School Counsellor<br></td>
-    <td>MDM LAI OI LEE CHERYL<br></td>
-  </tr>
-	 <tr>
-		<td>Special Education Needs (SEN) Officer</td>
-    <td>MS BONG SHI QI SHIRLEY</td>
-  </tr>
-  <tr>
-		<td>Special Education Needs (SEN) Officer</td>
-    <td>MDM ELYSE LIM</td>
-    <td></td>
-  </tr>
-	 <tr>
-		<td>Special Education Needs (SEN) Officer</td>
-    <td>MS LOW WEI TING VALARIE</td>
-  </tr>
-	 <tr>
-		<td>Special Education Needs (SEN) Officer<br></td>
-    <td>MS THAM MEI FONG<br></td>
-	</tr>
-			</tbody>
-	</table>
-<p>
-	</p>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Principal
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR LIM MENG WEI
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS ANGELA GOH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS ESTHER TAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR TAN MENG KHIANG</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>School Key Personnel</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS NATHALIE TAY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS APRIL JOANN NOBLE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>Chinese Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS POON WAI KUAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS GOH-WOON HUI HUI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS SHARIFAH FADILLAH BTE SYED M I</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>PE &amp; CCA (Covering)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR KHO HAN KOON, MIKE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS CHING KIM SIONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR LEE BENG TECK JONATHAN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>ICT &amp; Data Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LIM EE MIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Head of Department
+<br>SAP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM IVY HO</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head
+<br>(Upper Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR CHUA KWAN HENG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head
+<br>(Middle Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS TAN ZHI LING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Year Head
+<br>(Lower Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS CAROL TNG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head
+<br>(Upper Pri)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM REGINA WUN LAI YING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head
+<br>(Upper Pri) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM NURFATIN BTE AZNI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head
+<br>(Middle Pri) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR ADRIAN LIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head
+<br>(Middle Pri) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS KHAIRUNISYA BTE HANAFI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head
+<br>(Lower Pri) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS NATALIE LIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head
+<br>English Language</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM SAIRA BANU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head
+<br>Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS LILIAN PEH (LEE PECK LENG)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head
+<br>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS LANE LOW</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Level Head
+<br>Chinese Language (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR WANG SIYANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Aesthetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS TAN SHI YING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS CHUA HUIXIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>ICT &amp; Data Management (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR JASPER ANG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>SAP</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM KOH SWEE YEN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Student Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR LEE WEI LOONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
+<br>Student Well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM LIEW HWEE HONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>(English Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS DAWN QUEK PEI CHIN</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>(Chinese Language)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR XIE TIANYI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>(Mathematics)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MRS GO LEE CHING</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>(Physical Education)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM YASMIN SEAH</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher
+<br>(Lower Primary Learners)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM SITI AMINAH BTE MOHAMMAD ISA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LSC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM LOKE HUI JUN MICHELLE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LSM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM SNG MENG FONG</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h1>Allied Educators</h1>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Counsellor
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM LAI OI LEE CHERYL
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs (SEN) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS BONG SHI QI SHIRLEY</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs (SEN) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM ELYSE LIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs (SEN) Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LOW WEI TING VALARIE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs (SEN) Officer
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS THAM MEI FONG
+<br>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
