@@ -6,7 +6,7 @@ variant: markdown
 ---
 **School Hours**
 
-![](/images/School_Hours_2024.png)
+![](/images/School_Hours_2025.png)
 
 **General Office Operating Hours**
 
