@@ -47,7 +47,8 @@ are broadly categorized into the following four categories:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Programme_2025.png">
 </div>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Programme_Chart_2025.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCA_Graphics.png">
 </div>
 <p></p>
