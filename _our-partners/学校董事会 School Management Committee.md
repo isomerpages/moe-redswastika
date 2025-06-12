@@ -7,10 +7,10 @@ variant: tiptap
 <p><strong>School Management Committee (2023- 2025)</strong>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_Members_updated_as_of_12_June_2025_1.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_Members_updated_as_of_12_June_2025_3.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
