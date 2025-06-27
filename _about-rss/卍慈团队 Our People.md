@@ -103,7 +103,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Head of Department
-<br>PE &amp; CCA (Covering)</p>
+<br>PE &amp; CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR KHO HAN KOON, MIKE</p>
@@ -296,15 +296,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MR LEE WEI LOONG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head
-<br>Student Well-being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MDM LIEW HWEE HONG</p>
 </td>
 </tr>
 <tr>
