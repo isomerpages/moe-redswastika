@@ -91,7 +91,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>1) Online</p>
-<p><a href="http://www.shanghai-uniforms.com" rel="noopener noreferrer nofollow" target="_blank">http://www.shanghai-uniforms.com</a>
+<p><a href="https://shanghai-uniforms.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.shanghai-uniforms.sg</a>
 </p>
 <p>Delivery Charge of $10.00 for Home Delivery Service</p>
 <p></p>
