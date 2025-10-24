@@ -50,6 +50,15 @@ variant: tiptap
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Booklist:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/P1_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
+</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h2>School Uniform &amp; Nametag</h2>
