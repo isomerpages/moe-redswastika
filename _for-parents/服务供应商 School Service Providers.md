@@ -55,7 +55,8 @@ variant: tiptap
 <p>Booklist:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/P1_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">P1 Booklist 2026</a>
+</p>
 </td>
 </tr>
 </tbody>
