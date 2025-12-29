@@ -88,7 +88,7 @@ variant: tiptap
 <br>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MRS GOH-WOON HUI HUI</p>
+<p>MRS ANGELINE ONG</p>
 </td>
 </tr>
 <tr>
@@ -116,15 +116,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MRS CHING KIM SIONG</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Head of Department
-<br>CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR LEE BENG TECK JONATHAN</p>
 </td>
 </tr>
 <tr>
@@ -178,7 +169,7 @@ variant: tiptap
 <br>(Upper Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM REGINA WUN LAI YING</p>
+<p>MS NURFATIN BTE AZNI</p>
 </td>
 </tr>
 <tr>
@@ -187,25 +178,25 @@ variant: tiptap
 <br>(Upper Pri) (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM NURFATIN BTE AZNI</p>
+<p>MR JONATHAN NG</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head
-<br>(Middle Pri) (Internal)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>MR ADRIAN LIM</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head
-<br>(Middle Pri) (Internal)</p>
+<br>(Middle Pri)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MS KHAIRUNISYA BTE HANAFI</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head
+<br>(Middle Pri) (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS JOEY LIM</p>
 </td>
 </tr>
 <tr>
@@ -247,7 +238,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Level Head
-<br>Chinese Language (Internal)</p>
+<br>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR WANG SIYANG</p>
@@ -274,10 +265,27 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Subject Head
+<br>CCE &amp; Student Well-being (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MS LIEW LI'EN FRANCINE</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head Discipline (Internal)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MR ADRIAN LIM</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head
 <br>ICT &amp; Data Management (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MR JASPER ANG</p>
+<p>MR ANG RUI XIANG</p>
 </td>
 </tr>
 <tr>
@@ -296,6 +304,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>MR LEE WEI LOONG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head Student Well-being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MDM REGINA WUN LAI YING</p>
 </td>
 </tr>
 <tr>
@@ -356,7 +372,7 @@ variant: tiptap
 <p>LSM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM SNG MENG FONG</p>
+<p>MDM FARISYA MUHAMMAD JAMAL</p>
 </td>
 </tr>
 </tbody>
