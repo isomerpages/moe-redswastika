@@ -273,7 +273,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head Discipline (Internal)</p>
+<p>Subject Head
+<br>Discipline (Internal)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>MR ADRIAN LIM</p>
@@ -372,7 +373,7 @@ variant: tiptap
 <p>LSM</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>MDM FARISYA MUHAMMAD JAMAL</p>
+<p>MRS PEH LILIAN</p>
 </td>
 </tr>
 </tbody>
