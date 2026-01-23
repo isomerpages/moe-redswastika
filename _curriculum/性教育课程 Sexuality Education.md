@@ -49,7 +49,7 @@ marriage is the best protection against STIs/HIV and unintended pregnancies.
 Casual sex can harm and hurt you and your loved ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h1>Overview of RED SWASTIKA’S Sexuality Education Programme for 2025</h1>
+<h1>Overview of RED SWASTIKA’S Sexuality Education Programme for 2026</h1>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Sexuality Education is delivered in a holistic manner through the school
@@ -89,14 +89,14 @@ from sexuality-related risks.</p>
 </li>
 </ol>
 <p></p>
-<p><strong>At Red Swastika School, the following Sexuality Education lessons will be taught in <u>2024</u>:</strong>
+<p><strong>At Red Swastika School, the following Sexuality Education lessons will be taught in <u>2026</u>:</strong>
 </p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>Primary 5</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
@@ -116,7 +116,7 @@ from sexuality-related risks.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson OVERVIEW</strong>
+<p><strong>LESSON OVERVIEW</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -144,7 +144,7 @@ affected, even when one’s body is experiencing changes due to puberty.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 4</p>
+<p>Term 2 Week 6</p>
 </td>
 </tr>
 <tr>
@@ -164,7 +164,7 @@ own responses when they encounter pornography by applying the strategy <strong>�
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 2 Weeks 6 &amp; 9</p>
 </td>
 </tr>
 <tr>
@@ -182,7 +182,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 7</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -195,7 +195,7 @@ and how to seek help for themselves and their friends.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/MOE_Logo.jpg">
 </div>
-<h4><strong>2025 Sexuality Education Lessons in CCE</strong></h4>
+<h4><strong>2026 Sexuality Education Lessons in CCE</strong></h4>
 <h4><strong>Primary 6</strong></h4>
 <p></p>
 <table style="minWidth: 100px">
@@ -216,7 +216,7 @@ and how to seek help for themselves and their friends.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Lesson Overview</strong>
+<p><strong>LESSON OVERVIEW</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -245,7 +245,7 @@ romantic relationship. Instead, they should focus on building strong and
 healthy friendships with their circles of friends.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 2</p>
+<p>Term 1 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +262,7 @@ of teasing their peers who may be experiencing the feelings of infatuation
 and learn to behave maturely towards each other.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 6</p>
+<p>Term 1 Week 9</p>
 </td>
 </tr>
 </tbody>
@@ -275,9 +275,9 @@ children out of Sexuality Education lessons, and/or supplementary Sexuality
 Education programmes by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to
 opt their children out of the Sexuality Education lessons need to complete
-an opt-out form. This form will be communicated &nbsp;to parents at the
-start of the year and is also downloadable <a href="/files/2025_Parents_opt_out_form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed opt-out
-form is to be submitted by 04/02/2025.</p>
+an opt-out form. This form will be communicated&nbsp;to parents at the
+start of the year and is also downloadable <a href="/files/2026_Parents_opt_out_form.pdf" rel="noopener nofollow" target="_blank">here</a>. The completed opt-out
+form is to be submitted by 30/01/2026.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school
 at 6443 0380 or email <a rel="noopener noreferrer nofollow" target="_blank">pear_siew_hoon@schools.gov</a>
 <a href="mailto:pear_siew_hoon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">.sg</a>for discussion or to seek clarification about the school’s Sexuality
