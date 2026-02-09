@@ -7,7 +7,7 @@ variant: tiptap
 <p><strong>School Management Committee (2026- 2028)</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SMC_2026_v2.png">
 </div>
 <p></p>
 <p></p>
