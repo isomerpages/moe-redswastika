@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h1><strong>Title - 校长致辞 Principal's Message</strong></h1>
-<p><strong>From the Principal’s Desk</strong>
+<p><strong>/about-rss/principals-message/</strong>
 </p>
 <p><strong>From the Principal’s Desk</strong>
 </p>
