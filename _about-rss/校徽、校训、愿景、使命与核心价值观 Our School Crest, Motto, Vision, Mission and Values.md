@@ -18,7 +18,7 @@ variant: tiptap
 <p><strong>School Vision 卍慈愿景</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/School_Vision.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/School_Vision_2.jpg">
 </div>
 <p></p>
 <p><strong>School Mission 卍慈使命</strong>
