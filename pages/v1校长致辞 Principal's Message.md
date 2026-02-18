@@ -12,7 +12,6 @@ charitable mandate, our school was established with the objective of transformin
 lives through education. This founding mission continues to inspire us
 today, shaping our commitment to nurturing learning, growth, and service
 to the community.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Circle.jpg">
 </div>
@@ -28,9 +27,9 @@ curiosity, and the ability to navigate global perspectives whilst staying
 rooted in Singapore are essential.</p>
 <p>Our shared aspirations are grounded in our revised school motto, <strong>“恭宽信敏惠”</strong>,
 a timeless teaching inspired by the wisdom of Confucius more than 2,000
-years ago (<a href="https://drive.google.com/file/d/1PvXzWIzfaT8ieqZ1OejytzHTohBb-U3b/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">a short video on the launch of our revised school motto)</a>.
-This timeless wisdom underpins our belief that every RSS student can cultivate <strong>仁</strong> (benevolence/compassion)
-through the practice of five enduring values:</p>
+years ago. This timeless wisdom underpins our belief that every RSS student
+can cultivate <strong>仁</strong> (benevolence/compassion) through the practice
+of five enduring values:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Definitions_of_School_Motto.png">
 </div>
