@@ -38,7 +38,6 @@ through the practice of five enduring values:</p>
 <p>These values are deeply embedded in our daily interactions, guiding the
 way we learn, work, and grow as a school community.</p>
 <p>At the heart of everything we do lies our RSS Philosophy and Beliefs :-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/School_Philosophy.jpg">
 </div>
@@ -64,7 +63,7 @@ for children to learn, grow, and thrive.</p>
 <p>Together, let us continue writing new and meaningful chapters in the Red
 Swastika School story.</p>
 <p></p>
-<p><strong>Warm regards, </strong>
+<p><strong>Warm regards,</strong>
 </p>
 <p><em>Mr Lim Meng Wei</em>
 <br>Principal
