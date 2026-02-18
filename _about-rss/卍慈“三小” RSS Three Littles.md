@@ -18,7 +18,7 @@ are relatable and relevant to the students.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Little_Friend_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Little_Friend_2026_Edit.png">
 </div>
 </td>
 </tr>
@@ -33,7 +33,7 @@ are relatable and relevant to the students.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Little_Master_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Little_Master_2026_Edit.png">
 </div>
 </td>
 </tr>
@@ -48,7 +48,7 @@ are relatable and relevant to the students.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Little_Teacher_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Little_Teacher_2026_Edit.png">
 </div>
 </td>
 </tr>
