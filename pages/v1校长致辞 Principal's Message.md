@@ -12,6 +12,7 @@ charitable mandate, our school was established with the objective of transformin
 lives through education. This founding mission continues to inspire us
 today, shaping our commitment to nurturing learning, growth, and service
 to the community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Circle.jpg">
 </div>
