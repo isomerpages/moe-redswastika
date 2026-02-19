@@ -30,7 +30,7 @@ variant: tiptap
 <p><strong>School Values 卍慈价值观</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSS_Values.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/RSS_Values.jpg">
 </div>
 <p></p>
 <p><strong>School Philosophy &amp; Beliefs 卍慈办校理念</strong>
