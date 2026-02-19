@@ -14,8 +14,9 @@ today, shaping our commitment to nurturing learning, growth, and service
 to the community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Circle.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Circle_v2.jpg">
 </div>
+<p></p>
 <p>As we honour our heritage, we also look ahead to the future our students
 will thrive. To prepare our students for a rapidly changing world, our
 revised school vision aspires for every child to be part of a <strong><em>Caring Community</em></strong> and
