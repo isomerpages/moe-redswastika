@@ -29,7 +29,7 @@ curiosity, and the ability to navigate global perspectives whilst staying
 rooted in Singapore are essential.</p>
 <p>Our shared aspirations are grounded in our revised school motto, <strong>“恭宽信敏惠”</strong>,
 a timeless teaching inspired by the wisdom of Confucius more than 2,000
-years ago (<a href="https://drive.google.com/file/d/1PvXzWIzfaT8ieqZ1OejytzHTohBb-U3b/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">a short video on the launch of our revised school motto)</a>.
+years ago (<a href="https://drive.google.com/file/d/15K-hhPD8u5dz1dNLteZU0h2qo9UruQ8p/view?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">a short video on the launch of our revised school motto)</a>.
 This timeless wisdom underpins our belief that every RSS student can cultivate <strong>仁</strong> (benevolence/compassion)
 through the practice of five enduring values:</p>
 <div class="isomer-image-wrapper">
