@@ -36,7 +36,7 @@ variant: tiptap
 <p><strong>School Philosophy &amp; Beliefs 卍慈办校理念</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/School_Philosophy_v2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_Philosophy_v2.jpg">
 </div>
 <p></p>
 <p></p>
