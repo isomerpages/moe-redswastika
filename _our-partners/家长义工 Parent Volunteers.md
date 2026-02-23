@@ -4,7 +4,6 @@ permalink: /our-partners/parent-volunteers/
 description: ""
 variant: tiptap
 ---
-<hr>
 <p>Dear Parent Volunteers,</p>
 <p>The application period for the Phase 2B Parent Volunteer Scheme is tentatively
 scheduled to open in <strong>October 2026</strong> for children <strong>born in 2022</strong>,
@@ -16,5 +15,3 @@ in October 2026.</p>
 website <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>
 </p>
 <p>Thank you.</p>
-<hr>
-<p></p>
