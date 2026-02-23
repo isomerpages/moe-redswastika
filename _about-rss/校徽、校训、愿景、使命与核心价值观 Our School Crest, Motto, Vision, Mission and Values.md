@@ -12,19 +12,19 @@ variant: tiptap
 <p><strong>School Motto 卍慈校训</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/School_Motto.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/School_Motto.jpg">
 </div>
 <p></p>
 <p><strong>School Vision 卍慈愿景</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School_Vision_2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_Vision_2.jpg">
 </div>
 <p></p>
 <p><strong>School Mission 卍慈使命</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/School_Mission.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School_Mission.jpg">
 </div>
 <p></p>
 <p><strong>School Values 卍慈价值观</strong>
@@ -36,7 +36,7 @@ variant: tiptap
 <p><strong>School Philosophy &amp; Beliefs 卍慈办校理念</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School_Philosophy_v2.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_Philosophy_v2.jpg">
 </div>
 <p></p>
 <p></p>
