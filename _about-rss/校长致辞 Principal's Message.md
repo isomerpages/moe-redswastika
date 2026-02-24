@@ -33,15 +33,14 @@ years ago (<a href="https://drive.google.com/file/d/15K-hhPD8u5dz1dNLteZU0h2qo9U
 This timeless wisdom underpins our belief that every RSS student can cultivate <strong>仁</strong> (benevolence/compassion)
 through the practice of five enduring values:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Definitions_of_School_Motto.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Definitions_of_School_Motto_Dark.png">
 </div>
 <p>These values are deeply embedded in our daily interactions, guiding the
 way we learn, work, and grow as a school community.</p>
 <p>At the heart of everything we do lies our RSS Philosophy and Beliefs :-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/School_Philosophy___Crop.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_2_EN.jpg">
 </div>
-<p></p>
 <p>These beliefs anchor us as we navigate an increasingly complex world.
 They remind us to embrace inclusive perspectives, celebrate every child’s
 individuality, and give our very best in nurturing the diverse learners
