@@ -17,11 +17,11 @@ description: ""
 <p><strong>School Vision 卍慈愿景</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/School_Vision_Colour_Dark_EN.jpg">
+<img style="width: 61%;" height="auto" width="100%" alt="" src="/images/School_Vision_Colour_Dark_EN.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/School_Vision_Colour_Dark_CL.jpg">
+<img style="width: 61%;" height="auto" width="100%" alt="" src="/images/School_Vision_Colour_Dark_CL.jpg">
 </div>
 <p></p>
 <p><strong>School Mission 卍慈使命</strong>
