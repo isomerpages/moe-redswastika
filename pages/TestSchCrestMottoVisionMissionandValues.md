@@ -1,8 +1,8 @@
 ---
-title: 校徽、校训、愿景、使命与核心价值观 Our School Crest, Motto, Vision, Mission and Values
-permalink: /about-rss/our-school-crest-motto-vision-mission-and-values/
-description: ""
+title: TestSchCrestMottoVisionMissionandValues
+permalink: /testschcrestmottovisionmissionandvalues/
 variant: tiptap
+description: ""
 ---
 <p><strong>School Crest 校徽</strong>
 </p>
@@ -50,5 +50,4 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_4_CL.jpg">
 </div>
-<p></p>
 <p></p>
