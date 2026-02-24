@@ -23,12 +23,9 @@ description: ""
 <p><strong>School Mission 卍慈使命</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School_Mission_Colour_Dark_EN.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School_Mission_Colour_Dark_4.jpg">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/School_Mission_Colour_Dark_CL.jpg">
-</div>
 <p><strong>School Values 卍慈价值观</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -38,7 +35,7 @@ description: ""
 <p><strong>School Philosophy &amp; Beliefs 卍慈办校理念</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_4.jpg">
 </div>
 <p></p>
 <p></p>
