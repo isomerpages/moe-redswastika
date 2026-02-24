@@ -12,17 +12,33 @@ variant: tiptap
 <p><strong>School Motto 卍慈校训</strong>
 </p>
 <div class="isomer-image-wrapper">
+<img style="width: 53%;" height="auto" width="100%" alt="" src="/images/School_Motto_Color_Dark_2.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/School_Motto.jpg">
 </div>
-<p></p>
 <p><strong>School Vision 卍慈愿景</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 61%;" height="auto" width="100%" alt="" src="/images/School_Vision_Colour_Dark_EN.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 61%;" height="auto" width="100%" alt="" src="/images/School_Vision_Colour_Dark_CL2.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_Vision_2.jpg">
 </div>
 <p></p>
 <p><strong>School Mission 卍慈使命</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 69%;" height="auto" width="100%" alt="" src="/images/School_Mission_Colour_Dark_6_EN.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 77%;" height="auto" width="100%" alt="" src="/images/School_Mission_Colour_Dark_6_CL.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School_Mission.jpg">
 </div>
@@ -35,6 +51,13 @@ variant: tiptap
 <p></p>
 <p><strong>School Philosophy &amp; Beliefs 卍慈办校理念</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 63%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_4_EN.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_4_CL.jpg">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_Philosophy_v2.jpg">
 </div>
