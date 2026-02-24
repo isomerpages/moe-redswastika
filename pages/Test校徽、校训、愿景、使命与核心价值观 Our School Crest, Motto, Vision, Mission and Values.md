@@ -23,7 +23,7 @@ description: ""
 <p><strong>School Mission 卍慈使命</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School_Mission_Colour_Dark_4.jpg">
+<img style="width: 73%;" height="auto" width="100%" alt="" src="/images/School_Mission_Colour_Dark_4.jpg">
 </div>
 <p></p>
 <p><strong>School Values 卍慈价值观</strong>
