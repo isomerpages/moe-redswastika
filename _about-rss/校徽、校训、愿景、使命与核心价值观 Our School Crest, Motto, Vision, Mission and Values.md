@@ -44,11 +44,11 @@ variant: tiptap
 <p><strong>School Philosophy &amp; Beliefs 卍慈办校理念</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 61%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_4_EN.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_4_EN.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 59%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_4_CL.jpg">
+<img style="width: 58%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_4_CL.jpg">
 </div>
 <p></p>
 <p></p>
