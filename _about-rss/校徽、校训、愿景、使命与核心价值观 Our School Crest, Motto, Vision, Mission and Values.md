@@ -14,9 +14,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 53%;" height="auto" width="100%" alt="" src="/images/School_Motto_Color_Dark_2.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/School_Motto.jpg">
-</div>
+<p></p>
 <p><strong>School Vision 卍慈愿景</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -25,9 +23,6 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 61%;" height="auto" width="100%" alt="" src="/images/School_Vision_Colour_Dark_CL2.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_Vision_2.jpg">
 </div>
 <p></p>
 <p><strong>School Mission 卍慈使命</strong>
@@ -38,9 +33,6 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 77%;" height="auto" width="100%" alt="" src="/images/School_Mission_Colour_Dark_6_CL.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/School_Mission.jpg">
 </div>
 <p></p>
 <p><strong>School Values 卍慈价值观</strong>
@@ -57,9 +49,6 @@ variant: tiptap
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_4_CL.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_Philosophy_v2.jpg">
 </div>
 <p></p>
 <p></p>
