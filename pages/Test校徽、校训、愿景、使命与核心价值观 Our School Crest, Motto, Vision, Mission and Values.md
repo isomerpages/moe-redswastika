@@ -12,8 +12,9 @@ description: ""
 <p><strong>School Motto 卍慈校训</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/School_Motto.jpg">
+<img style="width: 53%;" height="auto" width="100%" alt="" src="/images/School_Motto_Color_Dark_2.jpg">
 </div>
+<p></p>
 <p><strong>School Vision 卍慈愿景</strong>
 </p>
 <div class="isomer-image-wrapper">
