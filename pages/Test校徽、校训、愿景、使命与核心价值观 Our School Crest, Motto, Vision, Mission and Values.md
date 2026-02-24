@@ -17,7 +17,7 @@ description: ""
 <p><strong>School Vision 卍慈愿景</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/School_Vision_Colour_Dark.jpg">
+<img style="width: 62%;" height="auto" width="100%" alt="" src="/images/School_Vision_Colour_Dark.jpg">
 </div>
 <p></p>
 <p><strong>School Mission 卍慈使命</strong>
