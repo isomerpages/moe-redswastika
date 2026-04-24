@@ -192,10 +192,6 @@ by the Reading Unit of EL Curriculum Planning and Development Division.</p>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.moe.gov.sg/-/media/files/news/press/2023/annex-c---moe-pirls-2021.ashx" rel="noopener nofollow" target="_blank">Curriculum and Targeted Literacy Support Programmes for Student</a>
-</p>
-</li>
-<li>
 <p><a href="https://www.nlb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">National Library Board</a>
 </p>
 </li>
