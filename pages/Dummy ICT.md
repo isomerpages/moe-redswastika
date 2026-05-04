@@ -68,7 +68,7 @@ the school community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV_Leaders_Photography_052026.png">
+<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/AV_Leaders_Photography_052026.png">
 </div>
 <p><em>AV Leaders learning photography skills.</em>
 </p>
@@ -140,7 +140,7 @@ skills to solve authentic problems in real‑world contexts.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Tier_2_3D_Pens_Keychains_052026.jpg">
+<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/ALP_Tier_2_3D_Pens_Keychains_052026.jpg">
 </div>
 <p><em>Creating our very own keychains using 3D pens.</em>
 </p>
