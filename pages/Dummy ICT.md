@@ -14,7 +14,7 @@ contributing positively to the community.</p>
 <p><strong>Our Key Programmes / Activities</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSS_ICT_Key_Programmes_2026.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/RSS_ICT_Key_Programmes_2026.png">
 </div>
 <p><strong>e-Pedagogy</strong>
 </p>
@@ -26,7 +26,7 @@ and develop 21st Century Competencies. Through thoughtfully designed learning
 experiences, we aim to develop our students as lifelong learners who find
 meaning and joy in learning.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSS_Overview_EdTech_PS_2026.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/RSS_Overview_EdTech_PS_2026.png">
 </div>
 <p></p>
 <p><strong>Digital Literacy</strong>
