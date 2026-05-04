@@ -112,6 +112,8 @@ products, and express ideas creatively.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Tiers_1_2_052026.png">
 </div>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p1%20and%20p2%20students%20computational%20thinking%20skills.png">
 </div>
