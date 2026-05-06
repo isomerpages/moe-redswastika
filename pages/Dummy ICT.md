@@ -81,42 +81,6 @@ the school community.</p>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV_Leaders_School_Hall_P1_052026.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV_Leaders_School_Hall_P2_052026.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/AV_Leaders_Photography_052026.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="2">
-<p><em>AV Leaders in action, supporting school events and mentoring juniors.</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>AV Leaders learning photography skills.</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p><strong>Applied Learning Programme (ALP) – Tinkers to Thinkers</strong>
 </p>
 <p>As the Chinese saying goes, “学无止境” — learning is lifelong. Guided by this
