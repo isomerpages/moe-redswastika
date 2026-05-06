@@ -62,7 +62,7 @@ the school community.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV_Leaders_School_Hall_052026.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/AV_Leaders_School_Hall_052026.png">
 </div>
 <p><em>AV Leaders in action, supporting school events and mentoring juniors.</em>
 </p>
@@ -72,7 +72,7 @@ the school community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/AV_Leaders_Photography_052026.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/AV_Leaders_Photography_052026.png">
 </div>
 <p><em>AV Leaders learning photography skills.</em>
 </p>
