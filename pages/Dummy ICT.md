@@ -52,9 +52,8 @@ where they grow in confidence and leadership. Through supporting classroom
 learning activities and school events, our AV Leaders develop responsibility,
 teamwork and problem-solving skills while contributing meaningfully to
 the school community.</p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -66,8 +65,6 @@ the school community.</p>
 </div>
 <p><em>AV Leaders in action, supporting school events and mentoring juniors.</em>
 </p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
