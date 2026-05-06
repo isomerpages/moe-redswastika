@@ -52,8 +52,9 @@ where they grow in confidence and leadership. Through supporting classroom
 learning activities and school events, our AV Leaders develop responsibility,
 teamwork and problem-solving skills while contributing meaningfully to
 the school community.</p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -65,6 +66,9 @@ the school community.</p>
 </div>
 <p><em>AV Leaders in action, supporting school events and mentoring juniors.</em>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
@@ -96,23 +100,9 @@ fostering creativity, resilience, and problem‑solving skills.</p>
 </p>
 <p>Our Tier 1 programme develops foundational coding concepts through two
 stages:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Stage 1 – Imagine through PLAY<br></strong>Students explore and
-experiment with basic coding concepts through play‑based learning, sparking
-curiosity and imagination.</p>
-<p></p>
-</li>
-<li>
-<p><strong>Stage 2 – Ignite the PASSION<br></strong>Students deepen their
-learning by applying coding skills to solve problems, create meaningful
-products, and express ideas creatively.</p>
-</li>
-</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_Tiers_1_2_052026.png">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/p1%20and%20p2%20students%20computational%20thinking%20skills.png">
