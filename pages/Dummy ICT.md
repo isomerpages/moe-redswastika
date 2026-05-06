@@ -72,7 +72,7 @@ the school community.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 86%;" height="auto" width="100%" alt="" src="/images/AV_Leaders_Photography_052026.png">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/AV_Leaders_Photography_052026.png">
 </div>
 <p><em>AV Leaders learning photography skills.</em>
 </p>
