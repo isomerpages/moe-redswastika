@@ -145,6 +145,7 @@ skills to solve authentic problems in real‑world contexts.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/robotics%20club.png">
 </div>
