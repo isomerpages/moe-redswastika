@@ -130,7 +130,7 @@ skills to solve authentic problems in real‑world contexts.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/ALP_Tier_2_3D_Pens_Keychains_052026.jpg">
+<img style="width: 96%;" height="auto" width="100%" alt="" src="/images/ALP_Tier_2_3D_Pens_Keychains_052026.jpg">
 </div>
 <p><em>Creating our very own keychains using 3D pens.</em>
 </p>
