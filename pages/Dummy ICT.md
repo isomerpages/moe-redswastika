@@ -107,6 +107,7 @@ stages:</p>
 </div>
 <p><em>Our P1 and P2 students learning Computational Thinking Skills through Computer Science Unplugged activities and screenless coding sets.</em>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ALP_P3P4_Microbit_052026.png">
 </div>
