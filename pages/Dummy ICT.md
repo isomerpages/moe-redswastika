@@ -52,8 +52,9 @@ where they grow in confidence and leadership. Through supporting classroom
 learning activities and school events, our AV Leaders develop responsibility,
 teamwork and problem-solving skills while contributing meaningfully to
 the school community.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV_Leaders_Combined_May_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV_Leaders_Combined2.jpg">
 </div>
 <table style="minWidth: 75px">
 <colgroup>
@@ -64,9 +65,6 @@ the school community.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV_Leaders_Hall_May_2026.jpg">
-</div>
 <p><em>AV Leaders in action, supporting school events and mentoring juniors.</em>
 </p>
 </td>
@@ -74,38 +72,6 @@ the school community.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AV_Leaders_Photography_May_2026.jpg">
-</div>
-<p><em>AV Leaders learning photography skills.</em>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/AV_Leaders_School_Hall_052026.png">
-</div>
-<p><em>AV Leaders in action, supporting school events and mentoring juniors.</em>
-</p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 87%;" height="auto" width="100%" alt="" src="/images/AV_Leaders_Photography_052026.png">
-</div>
 <p><em>AV Leaders learning photography skills.</em>
 </p>
 </td>
