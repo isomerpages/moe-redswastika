@@ -39,24 +39,6 @@ contributing effectively and meaningfully towards nation building; and</p>
 </li>
 </ol>
 <p></p>
-<p>We aim to:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>识文化
-<br>provide a bilingual and bicultural environment that develops learners
-who appreciate the Chinese culture and can communicate effectively using
-both the English and Chinese Languages;</p>
-</li>
-<li>
-<p>系祖国
-<br>develop learners who appreciate cultural diversity in Singapore, thus
-contributing effectively and meaningfully towards nation building; and</p>
-</li>
-<li>
-<p>知天下
-<br>develop learners who have a global outlook.</p>
-</li>
-</ol>
 <p><strong>Our Key Programmes/Activities重点项目</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -72,9 +54,6 @@ local and global cultures and customs.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAP_Tier_1_May_2026.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20sap_5.png">
-</div>
 <p></p>
 <p><strong>Tier 2:</strong>
 <br>Customised, level-specific SAP enrichment programmes are designed using
@@ -87,12 +66,8 @@ chess, painting, bean art, Traditional Chinese Medicine (TCM), and the
 values of Di Zi Gui. Cultural camps further enrich learning through immersive,
 hands-on experiences, making cultural education meaningful and enjoyable.</p>
 <p>在卍慈，学校为各年级设计主题式的特选增益课程，通过课堂活动引导学生认识中华文化，并欣赏新加坡多元文化。在六年的学习中，学生系统接触中华文学与历史，加深理解与认同。课程以“琴、棋、书、画”为主轴，涵盖象棋、水墨画、豆艺创作、中医知识及《弟子规》的品德教育。文化营通过沉浸式体验进一步深化学习，使文化课程更具意义与趣味。</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAP_Tier_2_May_2026.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20sap_6.png">
 </div>
 <p><strong>Tier 3:</strong>
 <br>Selected P5 and P6 students participate in the school peak excellence
@@ -103,45 +78,10 @@ schools and also assume the role as SAP ambassadors.
 <br>在卍慈，我们的旗舰课也致力于培育精通双语、热爱中华文化与本土文化的学生。对中华文化有着浓厚兴趣的高年级学生，学校也为他们营造机会开拓视野，让学生有机会与其他国家的学生互动，通过交流了解其他国家的文化，认识世界。</p>
 <p><strong>Overseas Cultural Immersion Programme海外浸濡与文化交流活动</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OCIP_Pic_1_May_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OCIP_Pictures_May_2026.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 98%;" height="auto" width="100%" alt="" src="/images/OCIP_Pic_2_May_2026.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Overseas%20Cultural%20Immersion%20Programme.png">
-</div>
 <p><strong>Hello PAL! @ 双城记 </strong>Interactions with Overseas Schools</p>
 <p></p>
 <div class="isomer-image-wrapper">
