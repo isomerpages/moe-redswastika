@@ -1,8 +1,8 @@
 ---
-title: 资讯通讯科技（应用学习项目）Information and Communications Technology (ALP)
-permalink: /curriculum/information-and-communications-technology-alp/
-description: ""
+title: Dummy ICT
+permalink: /dummy-ict/
 variant: tiptap
+description: ""
 ---
 <p><strong>Our Objectives</strong>
 </p>
@@ -152,3 +152,4 @@ skills to solve authentic problems in real‑world contexts.</p>
 </div>
 <p><em>Robotics Club students showcasing the robots that they have designed and coded.</em>
 </p>
+<p></p>
