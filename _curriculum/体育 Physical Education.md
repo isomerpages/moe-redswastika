@@ -12,7 +12,7 @@ and values that support the lifelong pursuit of an active and healthy lifestyle.
 The PE programme also lays a strong foundation for students who wish to
 pursue physical sports at higher levels. Together with other school programmes,
 PE, Outdoor Education, and Physical Sports CCA contribute to students’
-holistic development and the cultivation of emerging 21st Century Competencies
+holistic development and the cultivation of Emerging 21st Century Competencies
 (E21CC) such as collaboration, effective communication, critical, adaptive
 and inventive thinking - preparing each learner to thrive in a fast-changing
 and highly connected world.</p>
