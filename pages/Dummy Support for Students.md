@@ -25,7 +25,7 @@ information on school-based FAS.</p>
 <p><strong>IMDA DigitalAccess@Home Scheme</strong>
 </p>
 <p>The DigitalAccess@Home scheme provides subsidised broadband and laptops/tablets
-to lower income family. Parents can apply online at <a href="https://www.digitalaccess.gov.sg" rel="noopener nofollow" target="_blank">https://www.digitalaccess.gov.sg</a> or
+to lower income family. Parents can apply online at <a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details" rel="noopener nofollow" target="_blank">https://www.imda.gov.sg/how-we-can-help/digital-access-at-home/scheme-details</a> or
 via hardcopy form from school.</p>
 <p><strong>Student Support in Mainstream Schools</strong>
 </p>
