@@ -83,12 +83,8 @@ schools and also assume the role as SAP ambassadors.
 </div>
 <p></p>
 <p><strong>Hello PAL! @ 双城记 </strong>Interactions with Overseas Schools</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Hello_Pal_May_2026.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2023%20sap_7.png">
 </div>
 <p>With our distinctive approach to differentiated learning, the RSS SAP
 programme aims to nurture students who appreciate the Chinese language
