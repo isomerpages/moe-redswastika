@@ -72,7 +72,8 @@ and visual impairments. Website: <a href="https://awwa.org.sg/our-services/#chil
 <ul data-tight="true" class="tight">
 <li>
 <p>Family Service Centres (FSCs) provide a range of social services to support
-families and individuals in need. Website: <a href="https://www.msf.gov.sg/our-services/directories#familytab" rel="noopener nofollow" target="_blank">https://www.msf.gov.sg/our-services/directories#familytab</a>
+families and individuals in need.</p>
+<p>Website: <a href="https://www.msf.gov.sg/our-services/directories#familytab" rel="noopener nofollow" target="_blank">https://www.msf.gov.sg/our-services/directories#familytab</a>
 </p>
 </li>
 <li>
@@ -89,7 +90,8 @@ services to individuals and families in need. Website:&nbsp;<a href="https://www
 <ul data-tight="true" class="tight">
 <li>
 <p>SG Enable provides information and advice on schemes, services, supports,
-and resources related to disability in Singapore. Website: <a href="https://www.enablingguide.sg/" rel="noopener nofollow" target="_blank">https://www.enablingguide.sg/</a>
+and resources related to disability in Singapore.</p>
+<p>Website: <a href="https://www.enablingguide.sg/" rel="noopener nofollow" target="_blank">https://www.enablingguide.sg/</a>
 </p>
 </li>
 </ul>
