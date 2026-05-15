@@ -35,7 +35,7 @@ towards visual representations and mathematical symbols. This structured
 approach helps students make connections across different forms of representation,
 supporting deep understanding and building strong foundations in Mathematics.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Hands_On_May_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Hands_On_2_May_2026.png">
 </div>
 <table style="minWidth: 25px">
 <colgroup>
@@ -50,6 +50,7 @@ supporting deep understanding and building strong foundations in Mathematics.</p
 </tr>
 </tbody>
 </table>
+<p></p>
 <p><strong>Problem Solving with Heuristics and Differentiating Instruction in Mathematics (P1 to P6)</strong>
 </p>
 <p>Heuristics skills are introduced progressively to help our students develop
