@@ -37,64 +37,57 @@ supporting deep understanding and building strong foundations in Mathematics.</p
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Hands_On_2_May_2026.png">
 </div>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p><em>Students enjoying hands‑on learning with physical manipulatives as they make sense of their own learning and build strong mathematical reasoning.</em>
 </p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p><strong>Problem Solving with Heuristics and Differentiating Instruction in Mathematics (P1 to P6)</strong>
+<p><strong>Developing Confident Problem Solvers (P1–P6)</strong>
 </p>
-<p>Heuristics skills are introduced progressively to help our students develop
-competencies in problem solving. Together with Polya’s Problem Solving
-Techniques, questions are designed to help our students develop essential
-thinking routines when solving mathematics problems. To cater to the diverse
-learning needs of our students, open-ended parallel questions are used
-to allow students to explore questions with the same learning content but
-at different levels of difficulty. Students can choose to attempt questions
-at the level of difficulty that allows them to stretch their thinking and
-deepen their understanding.</p>
+<p>Problem-solving skills and mathematical heuristics are introduced progressively
+to help students build confidence and competence in tackling mathematical
+tasks. Guided by Polya’s problem‑solving process, students are supported
+to develop essential thinking routines such as planning, monitoring, and
+reflecting on their solutions.</p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/math%20children.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics_Problem_Solving_May_2026.png">
 </div>
-<p><strong>Learning Support for Mathematics (LSM) Programme (P1 and P2)</strong>
+<p><em>Students build confidence in problem-solving through scaffolded learning that develops essential thinking routines.</em>
 </p>
-<p>Learning Support for Mathematics (LSM) is an early intervention programme
-to provide support for selected students who have yet to develop the foundational
-numeracy skills to cope with the P1 and P2 Mathematics curriculum. Through
-hands-on activities that are specially designed for their learning needs,
-students develop mastery of basic numeracy skills and build their confidence
-in the learning of Mathematics.</p>
+<p><strong>Supporting Learners: Learning Support for Mathematics (LSM) Programme (P1–P4)</strong>
+</p>
+<p>The Learning Support for Mathematics (LSM) programme provides early and
+targeted support for selected students who need additional help in foundational
+numeracy skills. Through small‑group, hands‑on activities, students build
+confidence and strengthen their understanding of basic Mathematics.</p>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/LSM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_LSP_2_May_2026.png">
 </div>
-<p><strong>Developing the potential of our students through Enrichment Activities</strong>
+<p><em>Students build confidence in problem-solving through scaffolded learning that develops essential thinking routines.</em>
 </p>
-<p>To develop the potential of our students, the Department organizes enrichment
-programmes and activities for students with interests and aptitude in Mathematics.
-These include Mathematics Competitions as well as the E2K Mathematics Programme.</p>
+<p><strong>Stretching Potential: Enrichment Opportunities</strong>
+</p>
+<p>Students with strong interest and aptitude in Mathematics are offered
+enrichment opportunities such as Mathematical Olympiad competitions and
+the E2K Mathematics Programme.</p>
 <p>The E2K Mathematics Programme is offered to selected P4 and P5 students
-to develop their mathematical reasoning skills and deepen their conceptual
-understanding through an inquiry approach. The programme also allows our
-students to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Develop the habits, attitudes and dispositions that Mathematicians need
-to possess; and</p>
-</li>
-<li>
-<p>Gain important 21st century competencies such as critical thinking, invention
-thinking and effective communication skills.</p>
-</li>
-</ul>
-<p>Students have the opportunities to work independently or collaborate with
-their peers, and engage in mathematical thinking through resources specially
-designed for this programme.</p>
+to deepen mathematical reasoning and understanding through inquiry‑based
+learning. Students work independently and collaboratively to develop positive
+learning habits and key competencies such as critical thinking, creativity,
+and effective communication.</p>
+<p>In addition, Mathematics Recess Activities provide informal and enjoyable
+opportunities for students to explore Mathematics beyond the classroom.
+Through games, puzzles, and hands‑on challenges, students apply mathematical
+thinking in a relaxed setting, fostering curiosity, perseverance, and the
+joy of learning. These activities encourage students to see Mathematics
+as fun, meaningful, and relevant in their everyday experiences.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Games_May_2026.png">
+</div>
+<p><em>Students having fun playing games that involve critical and logical thinking during their recesses.</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mathematics_Collaborate_May_2026.png">
+</div>
+<p><em>Students collaborate to plan and design a room as an extension of their learning on the concept of area.</em>
+</p>
+<p></p>
+<p></p>
