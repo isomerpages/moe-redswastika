@@ -49,8 +49,8 @@ contributing effectively and meaningfully towards nation building; and</p>
 assemblies, SAP theatre recess fringe activities, festival celebrations,
 quizzes and intra-school learning activities. These activities are designed
 to deepen students’ appreciation of the Chinese Language, Chinese culture,
-local and global cultures and customs.
-<br>在卍慈，我们希望通过艺术的熏陶，让学生多接触中华文化和本土文化，并为学生开拓视野，帮助他们更广泛地了解世界和不同的文化传统。因此学校每年会庆祝农历新年、端午节和中秋节，卍慈文化小讲堂休息活动，还会主办不同类型的中华文化周会和活动。这些活动和表演形式多样化，包含戏剧、相声、华族舞蹈、木头剧、华乐、京剧、游戏、展览等等。每一场活动和演出加深学生的印象，并且让他们从中学习更多的中华文化的知识。</p>
+local and global cultures and customs.</p>
+<p>在卍慈，我们希望通过艺术的熏陶，让学生多接触中华文化和本土文化，并为学生开拓视野，帮助他们更广泛地了解世界和不同的文化传统。因此学校每年会庆祝农历新年、端午节和中秋节，卍慈文化小讲堂休息活动，还会主办不同类型的中华文化周会和活动。这些活动和表演形式多样化，包含戏剧、相声、华族舞蹈、木头剧、华乐、京剧、游戏、展览等等。每一场活动和演出加深学生的印象，并且让他们从中学习更多的中华文化的知识。</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAP_Tier_1_May_2026.png">
 </div>
@@ -74,8 +74,9 @@ hands-on experiences, making cultural education meaningful and enjoyable.</p>
 programme that caters to deep and extensive learning of the Chinese Language
 and culture. Students have the opportunities to participate in overseas
 immersion trips or SAP Scholar programme with our China and Taiwan twinning
-schools and also assume the role as SAP ambassadors.
-<br>在卍慈，我们的旗舰课也致力于培育精通双语、热爱中华文化与本土文化的学生。对中华文化有着浓厚兴趣的高年级学生，学校也为他们营造机会开拓视野，让学生有机会与其他国家的学生互动，通过交流了解其他国家的文化，认识世界。</p>
+schools and also assume the role as SAP ambassadors.</p>
+<p>在卍慈，我们的旗舰课也致力于培育精通双语、热爱中华文化与本土文化的学生。对中华文化有着浓厚兴趣的高年级学生，学校也为他们营造机会开拓视野，让学生有机会与其他国家的学生互动，通过交流了解其他国家的文化，认识世界。</p>
+<p></p>
 <p><strong>Overseas Cultural Immersion Programme海外浸濡与文化交流活动</strong>
 </p>
 <div class="isomer-image-wrapper">
