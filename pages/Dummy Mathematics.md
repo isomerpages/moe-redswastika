@@ -18,9 +18,6 @@ learning to real‑life situations, we foster the joy of learning while nurturin
 critical, adaptive, and inventive thinking, information skills, curiosity,
 confidence, and resilience—emerging 21st Century Competencies (E21CC) and
 key dispositions that prepare our students for the future.</p>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/Math_1.png">
-</div>
 <p><strong>Building Strong Foundations: Factual Fluency (P1–P6)</strong>
 </p>
 <p>Time is set aside during lessons for students to practise and recall basic
@@ -47,7 +44,7 @@ tasks. Guided by Polya’s problem‑solving process, students are supported
 to develop essential thinking routines such as planning, monitoring, and
 reflecting on their solutions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Mathematics_Problem_Solving_May_2026.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Mathematics_Problem_Solving_May_2026.png">
 </div>
 <p><em>Students build confidence in problem-solving through scaffolded learning that develops essential thinking routines.</em>
 </p>
