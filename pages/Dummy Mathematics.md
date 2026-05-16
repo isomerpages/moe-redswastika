@@ -4,7 +4,8 @@ permalink: /dummy-mathematics/
 variant: tiptap
 description: ""
 ---
-<h1>Mathematics @ RSS</h1>
+<p><strong>Mathematics @ RSS</strong>
+</p>
 <p><strong>Our Approach to Learning Mathematics</strong>
 </p>
 <p>At RSS, we believe that learning Mathematics goes beyond mastering numbers
