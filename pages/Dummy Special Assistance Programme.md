@@ -24,20 +24,22 @@ in values and equipped with a global outlook.</p>
 who appreciate the Chinese culture and can communicate effectively using
 both English Language and Chinese Language;
 <br>营造双语双文化的学习环境，培养学生欣赏中华文化，并能有效运用英语和华语进行沟通。</p>
+<p></p>
 </li>
 <li>
 <p><strong>Rooted in Nation 系祖国</strong> 
 <br>Develop learners who appreciate cultural diversity in Singapore, thus
 contributing effectively and meaningfully towards nation building; and.
 <br>培养学生欣赏新加坡多元文化的特色，并能积极地为国家建设作出贡献。</p>
+<p></p>
 </li>
 <li>
 <p><strong>Understand the World 知天下</strong>
 <br>Develop learners who have a global outlook.
 <br>培养具备国际视野的学生。</p>
+<p></p>
 </li>
 </ol>
-<p></p>
 <p><strong>Our Key Programmes/Activities重点项目</strong>
 </p>
 <div class="isomer-image-wrapper">
