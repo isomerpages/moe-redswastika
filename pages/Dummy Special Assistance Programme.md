@@ -4,7 +4,6 @@ permalink: /dummy-special-assistance-programme/
 variant: tiptap
 description: ""
 ---
-<h1>Special Assistance Programme (SAP) 特选辅助计划</h1>
 <p><strong>Overview总览</strong>
 </p>
 <p>Red Swastika School is proud to be one of Singapore’s Special Assistance
@@ -13,7 +12,7 @@ students who are immersed in the Chinese language and culture, grounded
 in values and equipped with a global outlook.</p>
 <p>卍慈学校作为新加坡特选课程小学之一，致力于培育具备双语双文化素养、良好品格与全球视野的学生。</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAP_Flagship_Programme_May_2026.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SAP_Flagship_Programme_May_2026.png">
 </div>
 <p></p>
 <p><strong>Objectives目标</strong>
@@ -23,8 +22,7 @@ in values and equipped with a global outlook.</p>
 <p><strong>Appreciate Culture 识文化</strong> 
 <br>Provide a bilingual and bicultural environment that develops learners
 who appreciate the Chinese culture and can communicate effectively using
-both English Language and Chinese Language;</p>
-<p>营造双语双文化的学习环境，培养学生欣赏中华文化，并能有效运用英语和华语进行沟通</p>
+both English Language and Chinese Language; 营造双语双文化的学习环境，培养学生欣赏中华文化，并能有效运用英语和华语进行沟通</p>
 </li>
 <li>
 <p><strong>Rooted in Nation 系祖国</strong>
