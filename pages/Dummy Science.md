@@ -33,6 +33,7 @@ competencies (E21CC) such as communication, collaboration and digital literacy.<
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Demonstrate_Learning_May_2026.png">
 </div>
 <p>Demonstrating learning in various topics</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -74,6 +75,7 @@ experiences, and apply scientific thinking in meaningful contexts.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Hands_On_Learning_P3_May_2026.png">
 </div>
 <p>Hands‑on Learning in Action: P3 Students Planting Vegetables</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Learning_Journey_May_2026.png">
 </div>
