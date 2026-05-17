@@ -27,8 +27,9 @@ to demonstrate their understanding, fostering self-directed learning and
 a sense of ownership of their progress. The purposeful integration of digital
 tools and EdTech platforms further enriches learning by enabling &nbsp;students
 to visualise concepts, conduct virtual experiments, collaborate with peers,
-and extend their learning beyond the classroom – reinforcing emerging 21<sup>st</sup> century
-competencies (E21CC) such as communication, collaboration and digital literacy.</p>
+and extend their learning beyond the classroom – reinforcing Emerging 21st
+Century Competencies (E21CC) such as communication, collaboration and digital
+literacy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Demonstrate_Learning_May_2026.png">
 </div>
