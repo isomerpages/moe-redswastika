@@ -30,8 +30,30 @@ description: ""
 <p>　　华文部积极推动科技融入教学，结合课本内容设计有趣的活动，让语言在学习过程中“活起来、用起来”。</p>
 <p>　　例如：在课堂上，学生已掌握Matatalab（儿童实物编程机器人）的基本操作。他们学了方位词和方向表达后，通过摆放编程积木和指令卡，控制Matatalab机器人在教师专门设计的“卍慈校园”地图上完成路线任务。规划路线时，同学们要用华语说明方向和步骤，把学到的词语用在真实的情境里，表达也越来越准确、有条理。通过这样的活动，同学们在动手动脑的过程中，自然地提升了华语表达能力，学习也变得更加生动有趣。</p>
 <p>　　整体而言，华文部持续把科技融入教学，设计贴近学习情境的活动，促进语言学习与数码应用的结合。这样的方式不仅激发学生对华文华语的学习兴趣，也帮助学生更好地运用华语、有条理地表达，体现跨学科学习。</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CL_MATATALAB_1_May_2026.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CL_MATATALAB_2_May_2026.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>提倡华文写作风气</strong>
 </p>
