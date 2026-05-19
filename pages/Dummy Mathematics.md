@@ -1,8 +1,8 @@
 ---
-title: 数学 Mathematics
-permalink: /curriculum/mathematics/
-description: ""
+title: Dummy Mathematics
+permalink: /dummy-mathematics/
 variant: tiptap
+description: ""
 ---
 <p><strong>Mathematics @ RSS</strong>
 </p>
@@ -87,3 +87,5 @@ as fun, meaningful, and relevant in their everyday experiences.</p>
 </div>
 <p><em>Students collaborate to plan and design a room as an extension of their learning on the concept of area.</em>
 </p>
+<p></p>
+<p></p>
