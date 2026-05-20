@@ -45,6 +45,7 @@ by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors
 who provide remediation in reading, using comprehensive teaching packages
 developed by the Reading Unit of EL Curriculum Planning and Development
 Division.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/word%20games.png">
 </div>
@@ -74,8 +75,9 @@ in P1. The P2 students pick an item from a collection before they are guided
 to prepare and present a speech in relation to the chosen item. Through
 this activity, the students learn to generate ideas creatively and they
 continue to hone their public speaking and writing skills.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/pick%20tell.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/EL_Pick_and_Tell_May_2026.png">
 </div>
 <p><strong>Primary 3: Readers’ Theatre</strong>
 </p>
@@ -85,6 +87,9 @@ to “act out” the different roles in a story by reading in an expressive
 manner, using effective vocal cues. Through this activity, the students
 learn effective dramatization skills and continue to build their confidence
 in engaging an audience.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL_P3_Characters_in_Action_May_2026.png">
+</div>
 <p></p>
 <p><strong>Primary 4: Persuasive Presentation</strong>
 </p>
