@@ -215,11 +215,9 @@ departments in supporting the school’s reading programmes. Through storytellin
 book sharing and reading engagement activities conducted during recess,
 parent volunteers support EL teachers’ effort in building a good foundation
 for the languages and nurturing a lifelong love for reading in students.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/EL_Parent_Support_Group_May_2026.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/EL_Parent_Support_Group_May_2026.png">
 </div>
-<p></p>
 <p>At RSS, we believe that every child can grow in confidence and develop
 a love for the English Language through meaningful experiences and strong
 home-school partnership. We warmly encourage parents to continue supporting
