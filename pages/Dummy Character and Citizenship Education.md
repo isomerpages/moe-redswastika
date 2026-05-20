@@ -142,7 +142,7 @@ and responsible users of technology and be a positive peer advocate for
 online safety.</p>
 <p><strong>Education and Career Guidance</strong>
 </p>
-<p>Education and career Guidance (ECG) is about equipping students with the
+<p>Education and Career Guidance (ECG) is about equipping students with the
 necessary knowledge, skills and values to make informed decisions at every
 key education stage. Students explore their values, interests and personality,
 and learn about occupational clusters and the type of skills required for
