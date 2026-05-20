@@ -196,12 +196,12 @@ up to a world beyond their imagination.</p>
 Language departments. Every term, students are presented with a different
 theme, on which reading activities are based. Examples of activities include
 the following:</p>
+<p></p>
+<p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_RSS_Reads_1_May_2026.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/EL_RSS_Reads_2_May_2026.png">
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/EL_RSS_Reads_3_May_2026.png">
