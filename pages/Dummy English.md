@@ -173,9 +173,8 @@ in-house or in collaboration with the National Library Board, the students
 are engaged in different activities that deepen their reading interest.
 Thematic book displays are also put up regularly to introduce students
 to the wide variety of good books in the library.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EL_Hello_Author_May_2026.png">
-</div>
+<p></p>
+<p></p>
 <p><strong>In-curriculum Reading Programme</strong>
 </p>
 <p>This programme, as part of the STELLAR Programme, aims to inculcate the
@@ -187,7 +186,9 @@ Reading Programme where ‘book floods’ are made available in all EL classroom
 read new books when their classes’ books are exchanged with others’. Through
 these activities, RSS students discover the joy of reading and open themselves
 up to a world beyond their imagination.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 38%;" height="auto" width="100%" alt="" src="/images/EL_Book_Flood_RSS_Library_May_2026.png">
+</div>
 <p></p>
 <p><strong>RSS Reads!</strong>
 <br>RSS Reads! is a termly event organized by both the English and Chinese
