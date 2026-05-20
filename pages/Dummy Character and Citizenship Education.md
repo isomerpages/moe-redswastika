@@ -15,7 +15,7 @@ CCE lessons. Guided by our school vision of nurturing a caring community
 of lifelong learners, <em>glocal</em> citizens and innovative leaders, CCE@RSS
 aims to develop students who grow up to be morally upright, active and
 contributing citizens.</p>
-<p><strong><em>Every School Experience, a CCE Experience</em></strong>
+<p><strong>Every School Experience, a CCE Experience</strong>
 </p>
 <p>Every school experience holds an immense possibility for our students
 to internalise the necessary values, attitudes and competencies. Hence,
