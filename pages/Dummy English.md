@@ -155,9 +155,6 @@ phase and the writing phase. Prewriting helps writers to organize, sequence,
 and elaborate on their ideas prior to writing. The writing phase turns
 this organisation of ideas into a composition.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/EL_Our_Yearly_Publication_Our_Efforts_May_2026.png">
-</div>
 <p></p>
 <p><strong><u>Reading Programmes</u></strong>
 </p>
