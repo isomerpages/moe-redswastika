@@ -118,7 +118,7 @@ Befrienders的长者们。精彩的表演、真诚的交流与欢声笑语，让
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Chinese_New_Year_2026_2_May_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Chinese_New_Year_2026_2B_May_2026.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -126,7 +126,7 @@ Befrienders的长者们。精彩的表演、真诚的交流与欢声笑语，让
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Chinese_New_Year_2026_4_May_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Chinese_New_Year_2026_4B_May_2026.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
