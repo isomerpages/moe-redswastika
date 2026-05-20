@@ -188,16 +188,15 @@ read new books when their classes’ books are exchanged with others’. Through
 these activities, RSS students discover the joy of reading and open themselves
 up to a world beyond their imagination.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/EL_Book_Flood_RSS_Library_May_2026.png">
-</div>
+<p></p>
 <p><strong>RSS Reads!</strong>
 <br>RSS Reads! is a termly event organized by both the English and Chinese
 Language departments. Every term, students are presented with a different
 theme, on which reading activities are based. Examples of activities include
 the following:</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL_RSS_Reads_1_May_2026.png">
+</div>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 85%;" height="auto" width="100%" alt="" src="/images/EL_RSS_Reads_2_May_2026.png">
