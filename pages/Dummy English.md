@@ -86,7 +86,7 @@ manner, using effective vocal cues. Through this activity, the students
 learn effective dramatization skills and continue to build their confidence
 in engaging an audience.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_P3_Characters_in_Action_2_May_2026.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/EL_P3_Characters_in_Action_2_May_2026.png">
 </div>
 <p></p>
 <p><strong>Primary 4: Persuasive Presentation</strong>
@@ -98,7 +98,7 @@ opposing viewpoints and craft compelling presentations, advocating their
 chosen stance. This dynamic process strengthens critical thinking, hones
 language skills and builds confidence in public speaking.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_P4_Building_Perspectives_May_2026.png">
+<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/EL_P4_Building_Perspectives_May_2026.png">
 </div>
 <p></p>
 <p><strong>Primary 5: Debate</strong>
@@ -156,7 +156,7 @@ and elaborate on their ideas prior to writing. The writing phase turns
 this organisation of ideas into a composition.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL_Our_Yearly_Publication_Our_Efforts_May_2026.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/EL_Our_Yearly_Publication_Our_Efforts_May_2026.png">
 </div>
 <p></p>
 <p><strong><u>Reading Programmes</u></strong>
@@ -174,7 +174,7 @@ are engaged in different activities that deepen their reading interest.
 Thematic book displays are also put up regularly to introduce students
 to the wide variety of good books in the library.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/EL_Hello_Author_May_2026.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/EL_Hello_Author_May_2026.png">
 </div>
 <p><strong>In-curriculum Reading Programme</strong>
 </p>
@@ -189,7 +189,7 @@ these activities, RSS students discover the joy of reading and open themselves
 up to a world beyond their imagination.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL_Book_Flood_RSS_Library_May_2026.png">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/EL_Book_Flood_RSS_Library_May_2026.png">
 </div>
 <p><strong>RSS Reads!</strong>
 <br>RSS Reads! is a termly event organized by both the English and Chinese
