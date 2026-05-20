@@ -30,13 +30,14 @@ enjoyment is a fundamental aspect of all positive reading and writing experience
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/The%20Upper%20Primary%20STELLAR%20comprises%20of%20the%20following%20strategies.png">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/chinese%20opera.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/wishy%20washy.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/EL_STELLAR_Story_Chinese_Opera_May_2026.png">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/EL_STELLAR_Story_Wishy_Washy_May_2026.png">
+</div>
 <p><strong>Learning Support Programme (LSP), Reading Remediation Programme (RRP) and School-based Dyslexia Remediation (SDR)</strong>
 </p>
 <p>The LSP (Primary 1 &amp; Primary 2), RRP (Primary 3, Primary 4 &amp; Primary
@@ -47,7 +48,7 @@ who provide remediation in reading, using comprehensive teaching packages
 developed by the Reading Unit of EL Curriculum Planning and Development
 Division.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL_Word_Games_May_2026.png">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/EL_Word_Games_May_2026.png">
 </div>
 <p></p>
 <p><strong>RSS Key Programmes / Activities</strong>
