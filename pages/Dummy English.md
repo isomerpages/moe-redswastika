@@ -174,6 +174,9 @@ are engaged in different activities that deepen their reading interest.
 Thematic book displays are also put up regularly to introduce students
 to the wide variety of good books in the library.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/EL_Hello_Author_May_2026.png">
+</div>
 <p></p>
 <p><strong>In-curriculum Reading Programme</strong>
 </p>
