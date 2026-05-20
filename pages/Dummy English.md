@@ -85,9 +85,6 @@ to “act out” the different roles in a story by reading in an expressive
 manner, using effective vocal cues. Through this activity, the students
 learn effective dramatization skills and continue to build their confidence
 in engaging an audience.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/EL_P3_Characters_in_Action_2_May_2026.png">
-</div>
 <p></p>
 <p><strong>Primary 4: Persuasive Presentation</strong>
 </p>
@@ -97,6 +94,9 @@ They are empowered to choose articles that have impacted them, analyze
 opposing viewpoints and craft compelling presentations, advocating their
 chosen stance. This dynamic process strengthens critical thinking, hones
 language skills and builds confidence in public speaking.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/EL_P4_Building_Perspectives_May_2026.png">
+</div>
 <p></p>
 <p><strong>Primary 5: Debate</strong>
 </p>
