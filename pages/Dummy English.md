@@ -110,9 +110,6 @@ new information and put knowledge into action. Classroom debates also help
 students learn through friendly competition, examine controversial topics
 as well as strengthen their skills in the areas of leadership, communication,
 problem solving and presentation.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_P5_Speaking_with_Purpose_.png">
-</div>
 <p></p>
 <p><strong>Primary 6: Podcast</strong>
 </p>
@@ -154,7 +151,9 @@ Process Writing consists of two major and interdependent phases: the prewriting
 phase and the writing phase. Prewriting helps writers to organize, sequence,
 and elaborate on their ideas prior to writing. The writing phase turns
 this organisation of ideas into a composition.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL_Our_Yearly_Publication_Our_Efforts_May_2026.png">
+</div>
 <p></p>
 <p><strong><u>Reading Programmes</u></strong>
 </p>
