@@ -183,4 +183,31 @@ community through tiered awards.</p>
 </tr>
 </tbody>
 </table>
+<p><strong>National Education (NE)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="269" width="394" alt="NE.jpg" src="/images/NE.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>RSS commemorates four NE Commemorative Days every year – Total Defence
+Day, International Friendship Day, Racial Harmony Day and National Day.
+These events provide opportunities for students to deepen their appreciation
+of our shared past and Singapore’s current realities, and foster a sense
+of hope and belonging to Singapore. The learning of school values exemplified
+by the Three Littles is intentionally weaved into the events for reinforcement.
+In addition, the school also brings in the discussion of contemporary issues
+to deepen students’ knowledge of current affairs.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
