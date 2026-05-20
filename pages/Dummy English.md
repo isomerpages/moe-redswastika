@@ -205,10 +205,10 @@ the following:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_RSS_Reads_2_May_2026.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 73%;" height="auto" width="100%" alt="" src="/images/EL_RSS_Reads_3_May_2026.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/EL_RSS_Reads_3_May_2026.png">
+</div>
 <p><u>Parent Support Group collaboration</u>
 <br>Our Parent Support Group (PSG) partners both the English and Chinese Language
 departments in supporting the school’s reading programmes. Through storytelling,
