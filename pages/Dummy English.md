@@ -201,9 +201,6 @@ the following:</p>
 </div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EL_RSS_Reads_2_May_2026.png">
-</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
