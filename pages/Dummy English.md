@@ -36,6 +36,7 @@ enjoyment is a fundamental aspect of all positive reading and writing experience
 <div class="isomer-image-wrapper">
 <img style="width:65%" height="auto" width="100%" src="/images/wishy%20washy.png">
 </div>
+<p></p>
 <p><strong>Learning Support Programme (LSP), Reading Remediation Programme (RRP) and School-based Dyslexia Remediation (SDR)</strong>
 </p>
 <p>The LSP (Primary 1 &amp; Primary 2), RRP (Primary 3, Primary 4 &amp; Primary
@@ -45,9 +46,8 @@ by trained Learning Support Coordinators (LSC), RRP and SDR teacher-instructors
 who provide remediation in reading, using comprehensive teaching packages
 developed by the Reading Unit of EL Curriculum Planning and Development
 Division.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/word%20games.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/EL_Word_Games_May_2026.png">
 </div>
 <p></p>
 <p><strong>RSS Key Programmes / Activities</strong>
