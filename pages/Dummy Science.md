@@ -33,7 +33,8 @@ literacy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Demonstrate_Learning_May_2026.png">
 </div>
-<p>Demonstrating learning in various topics</p>
+<p><em>Demonstrating learning in various topics</em>
+</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -47,7 +48,8 @@ literacy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Digestive_System_2_May_2026.png">
 </div>
-<p>Models on the Digestive System made by students</p>
+<p><em>Models on the Digestive System made by students</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -56,7 +58,8 @@ literacy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 93%;" height="auto" width="100%" alt="" src="/images/Science_students_complete_quiz_ipad_2_May_2026.png">
 </div>
-<p>Students completing a quiz with their iPads at the BuzzStop</p>
+<p><em>Students completing a quiz with their iPads at the BuzzStop</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -75,12 +78,14 @@ experiences, and apply scientific thinking in meaningful contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Hands_On_Learning_P3_May_2026.png">
 </div>
-<p>Hands‑on Learning in Action: P3 Students Planting Vegetables</p>
+<p><em>Hands‑on Learning in Action: P3 Students Planting Vegetables</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Learning_Journey_May_2026.png">
 </div>
-<p>Learning Comes Alive as Students Discover and Learn During Learning Journeys</p>
+<p><em>Learning Comes Alive as Students Discover and Learn During Learning Journeys</em>
+</p>
 <p></p>
 <p><strong>Learning about Environmental Conservation</strong>
 </p>
@@ -97,7 +102,8 @@ and caring future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Environmental_Sustainability_Studies_May_2026.png">
 </div>
-<p>Students engaged in environmental and sustainability activities</p>
+<p><em>Students engaged in environmental and sustainability activities</em>
+</p>
 <p><strong>Developing the Potential of our Students through Enrichment Activities</strong>
 </p>
 <p>Students with a strong passion and aptitude in Science are given opportunities
@@ -112,7 +118,8 @@ grow in confidence and capability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Fruit_DNA_extraction_May_2026.png">
 </div>
-<p>Students immersed in Fruit DNA extraction activity</p>
+<p><em>Students immersed in Fruit DNA extraction activity</em>
+</p>
 <p><strong>Useful Resources</strong>
 </p>
 <p>Encourage your child to keep exploring Science at home with these recommended
