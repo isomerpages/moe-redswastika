@@ -97,9 +97,6 @@ They are empowered to choose articles that have impacted them, analyze
 opposing viewpoints and craft compelling presentations, advocating their
 chosen stance. This dynamic process strengthens critical thinking, hones
 language skills and builds confidence in public speaking.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/EL_P4_Building_Perspectives_May_2026.png">
-</div>
 <p></p>
 <p><strong>Primary 5: Debate</strong>
 </p>
@@ -110,7 +107,9 @@ new information and put knowledge into action. Classroom debates also help
 students learn through friendly competition, examine controversial topics
 as well as strengthen their skills in the areas of leadership, communication,
 problem solving and presentation.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 73%;" height="auto" width="100%" alt="" src="/images/EL_P5_Speaking_with_Purpose_.png">
+</div>
 <p><strong>Primary 6: Podcast</strong>
 </p>
 <p>Our P6 students will find that producing a podcast is a great way for
