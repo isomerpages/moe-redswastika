@@ -72,92 +72,6 @@ empathy and character.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="269" width="394" alt="NE.jpg" src="/images/NE.jpeg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>RSS commemorates four NE Commemorative Days every year – Total Defence
-Day, International Friendship Day, Racial Harmony Day and National Day.
-These events provide opportunities for students to deepen their appreciation
-of our shared past and Singapore’s current realities, and foster a sense
-of hope and belonging to Singapore. The learning of school values exemplified
-by the Three Littles is intentionally weaved into the events for reinforcement.
-In addition, the school also brings in the discussion of contemporary issues
-to deepen students’ knowledge of current affairs.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Values in Action (VIA)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>VIAs are learning experiences that support our students’ development to
-becoming socially responsible citizens who can contribute meaningfully
-to the school and community. RSS students in the lower primary (P1 and
-P2) start their service journey from home by assisting family members with
-household chores. They continue to extend their services to school through
-structured platforms to keep the school environment clean. Students in
-the middle primary (P3 and P4) show their appreciation to different groups
-of stakeholders who have supported them in school while students in the
-upper primary (P5 and P6) offer their services to the community - packing
-and sending gift packs to the needy around the community, taking part in
-donation drives.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="307" width="394" alt="VIA.jpg" src="/images/VIA.jpeg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Learning For Life (LLP) Character Lessons</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="261" width="394" alt="LLP.PNG" src="/images/LLP.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teachers design and deliver the LLP Character lessons with intentionality.
-Adopting the spiral approach, students are taught the school vision, mission
-and values gradually and repeatedly, reinforcing the learning over time.
-Each lesson delivers rich content through various pedagogical approaches
-that are developmentally appropriate and engage students cognitively and
-affectively. To develop our students as reflective learners, they are given
-the opportunity to reflect on their learning at the end of every lesson.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<p></p>
-<p></p>
-<p><strong>National Education (NE)</strong>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
 <p>We commemorate Total Defence Day, International Friendship Day, Racial
 Harmony Day and National Day every year to foster national identity and
 cohesion through experiential learning. These days mark defining historical
@@ -219,6 +133,49 @@ in donation drives.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>National Education (NE)</strong>
+</p>
+<p>We commemorate Total Defence Day, International Friendship Day, Racial
+Harmony Day and National Day every year to foster national identity and
+cohesion through experiential learning. These days mark defining historical
+moments, encouraging students to reflect on and appreciate Singapore's
+past, present, and future.</p>
+<p>Beyond assembly programmes, students are engaged in interactive recess
+engagements, where they participate in hands-on experiences that deepen
+their understanding of Singapore’s history and multicultural identity.</p>
+<p>The school values, anchored in the “Three Littles”, are intentionally
+woven into these experiences to reinforce character development and strengthen
+students’ understanding of their role in the community and nation.</p>
+<p>Students are also guided through structured reflections to make connections
+of their learning to their daily lives, considering different perspectives
+and developing a growing sense of belonging and responsibility towards
+the nation.</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCE_NE2_May_2026.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_NE1_May_2026.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong>Cyber Wellness</strong>
 </p>
 <p>Cyber Wellness education is delivered on multiple learning platforms –
