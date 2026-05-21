@@ -123,11 +123,12 @@ the nation.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_NE2_May_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_NE1_crop_May_2026.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_NE1_May_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_NE2_crop_May_2026.jpg">
 </div>
+<p></p>
 <p><strong>Values in Action (VIA)</strong>
 </p>
 <table style="minWidth: 50px">
