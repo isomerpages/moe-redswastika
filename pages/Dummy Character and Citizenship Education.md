@@ -101,6 +101,29 @@ the nation.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>National Education (NE)</strong>
+</p>
+<p>We commemorate Total Defence Day, International Friendship Day, Racial
+Harmony Day and National Day every year to foster national identity and
+cohesion through experiential learning. These days mark defining historical
+moments, encouraging students to reflect on and appreciate Singapore's
+past, present, and future.</p>
+<p>Beyond assembly programmes, students are engaged in interactive recess
+engagements, where they participate in hands-on experiences that deepen
+their understanding of Singapore’s history and multicultural identity.</p>
+<p>The school values, anchored in the “Three Littles”, are intentionally
+woven into these experiences to reinforce character development and strengthen
+students’ understanding of their role in the community and nation.</p>
+<p>Students are also guided through structured reflections to make connections
+of their learning to their daily lives, considering different perspectives
+and developing a growing sense of belonging and responsibility towards
+the nation.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_NE_Combined_May_2026.png">
+</div>
+<p></p>
+<p></p>
 <p><strong>Values in Action (VIA)</strong>
 </p>
 <table style="minWidth: 50px">
@@ -134,47 +157,25 @@ in donation drives.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong>National Education (NE)</strong>
+<p><strong>Values in Action (VIA)</strong>
 </p>
-<p>We commemorate Total Defence Day, International Friendship Day, Racial
-Harmony Day and National Day every year to foster national identity and
-cohesion through experiential learning. These days mark defining historical
-moments, encouraging students to reflect on and appreciate Singapore's
-past, present, and future.</p>
-<p>Beyond assembly programmes, students are engaged in interactive recess
-engagements, where they participate in hands-on experiences that deepen
-their understanding of Singapore’s history and multicultural identity.</p>
-<p>The school values, anchored in the “Three Littles”, are intentionally
-woven into these experiences to reinforce character development and strengthen
-students’ understanding of their role in the community and nation.</p>
-<p>Students are also guided through structured reflections to make connections
-of their learning to their daily lives, considering different perspectives
-and developing a growing sense of belonging and responsibility towards
-the nation.</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<p>Values in Action (VIA) programmes provide meaningful learning for students
+to grow into socially responsible citizens, proactively caring for others
+and contributing to the community.</p>
+<p>RSS VIA journey begins in the lower primary levels (P1 and P2), where
+students learn to serve at home by assisting family members with household
+chores and care for the school through simple acts, such as keeping their
+classrooms clean. In the middle primary levels (P3 and P4), students learn
+to recognise and appreciate members of the school community, such as the
+General Office staff and school attendants, who support them in their daily
+school experiences. In the upper primary levels (P5 and P6), students extend
+their service to the wider community through visits to elderly centres,
+the distribution of essential supplies to those in need, and participation
+in donation drives.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/CCE_NE2_May_2026.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_VIA_May_2026.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
 <p></p>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CCE_NE1_May_2026.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p></p>
 <p><strong>Cyber Wellness</strong>
 </p>
@@ -226,31 +227,15 @@ community through tiered awards.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>National Education (NE)</strong>
+<p></p>
+<p><strong>RSS Character Affirmation Programme</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<p>Our Character Affirmation Programme recognises and affirms students’ growth
+in character, encouraging them to demonstrate positive values and behaviours
+in their daily lives and be a role model to others. The programme, anchored
+in the school values, affirm students’ growth and contributions to the
+community through tiered awards.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="269" width="394" alt="NE.jpg" src="/images/NE.jpeg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CCE_Three_Littles_Character_Award_v2_May_2026.jpg">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>RSS commemorates four NE Commemorative Days every year – Total Defence
-Day, International Friendship Day, Racial Harmony Day and National Day.
-These events provide opportunities for students to deepen their appreciation
-of our shared past and Singapore’s current realities, and foster a sense
-of hope and belonging to Singapore. The learning of school values exemplified
-by the Three Littles is intentionally weaved into the events for reinforcement.
-In addition, the school also brings in the discussion of contemporary issues
-to deepen students’ knowledge of current affairs.</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
