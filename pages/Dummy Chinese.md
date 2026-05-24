@@ -61,9 +61,8 @@ DJ陈宁和宇容主持的“克服舞台恐惧”讲座。全部年级也参与
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLF_2025_1_May_2026.png">
 </div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MTLF_2025_2_May_2026.png">
-</div>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p><strong>一年级 ▪ 拼音城堡</strong>
