@@ -69,14 +69,14 @@ DJ陈宁和宇容主持的“克服舞台恐惧”讲座。全部年级也参与
 <p></p>
 <p><strong>二年级 ▪ 上咖啡店</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Visit_Coffee_Shop_P2_May_2026.png">
+</div>
 <p></p>
 <p><strong>三年级 ▪ 戏剧欣赏《三借芭蕉扇》</strong>
 </p>
 <p>　　三年级的学生在新加坡福建会馆文化学院（Sennett校区）欣赏了一场生动活泼的华文戏剧表演——《三借芭蕉扇》。这次体验是“文化随意门”计划（Cultural
 Performance Exposure Scheme）的一部分，让学生们沉浸在丰富多彩的华语与中华文化世界中。他们被精彩的表演、绚丽的服饰以及以齐天大圣为主角的精彩故事情节深深吸引。</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CL_Performace_Exposure_P3_May_2026.png">
-</div>
 <p></p>
 <p><strong>四年级 ▪ 《西游记》文化营</strong>
 </p>
