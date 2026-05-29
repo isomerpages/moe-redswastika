@@ -393,11 +393,46 @@ our students together.</p>
 <p></p>
 <p><strong>Useful Resources</strong>
 </p>
-<p><strong>Parent Kit:</strong>
+<ol data-tight="true" class="tight">
+<li>
+<p>MOE Parent Kit: Parent-Child Relationship</p>
+</li>
+</ol>
+<p><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship</a>
 </p>
-<p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>MOE Parent Kit: Well-being</p>
+</li>
+</ol>
+<p><a href="https://www.moe.gov.sg/parentkit?pt=Well-Being" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit?pt=Well-Being</a>
 </p>
-<p><strong>SEL Resources For Parents:</strong>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Families for Life: Parenting Resources for Children (7-12 years)</p>
+</li>
+</ol>
+<p><a href="https://familiesforlife.sg/pages/fflp-modules?fflpgroup=6" rel="noopener noreferrer nofollow" target="_blank">https://familiesforlife.sg/pages/fflp-modules?fflpgroup=6</a>
 </p>
-<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents" rel="noopener nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning/sel-resources-for-parents</a>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Schoolbag: Parenting</p>
+</li>
+</ol>
+<p><a href="https://www.schoolbag.edu.sg/story-tag/parenting/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story-tag/parenting/</a>
 </p>
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>SEL Resources For Parents</p>
+</li>
+</ol>
+<p><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning</a>
+</p>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>Parenting for Wellness</p>
+</li>
+</ol>
+<p><a href="https://parentingforwellness.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://parentingforwellness.hpb.gov.sg/</a>
+</p>
+<p></p>
