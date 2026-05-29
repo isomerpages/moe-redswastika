@@ -83,11 +83,7 @@ environment for everyone</p>
 </ul>
 <p>Enable target setting/reflection by students to consolidate learning and
 set sight on future achievement and developmental goals.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SD_BTS_SIR_EIR_May_2026.jpg">
-</div>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Level-Focused Student Development Programmes</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -118,8 +114,7 @@ to develop greater self-awareness, emotional regulation, responsibility,
 and decision-making skills. They also learn effective communication, empathy,
 teamwork, and conflict management strategies to build positive relationships
 with peers, teachers, and family members.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>Positive Teacher-Student Relationships</strong>
 </p>
 <p>We believe that teachers play a significant role in mentoring students.
