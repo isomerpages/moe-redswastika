@@ -86,7 +86,8 @@ set sight on future achievement and developmental goals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SD_BTS_SIR_EIR_May_2026.jpg">
 </div>
-<p></p>
+<p><strong>&nbsp;</strong>
+</p>
 <p><strong>Level-Focused Student Development Programmes</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -149,7 +150,6 @@ in Character and Citizenship Education (CCE) and 21st Century Competencies
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Positive Growth: We monitor student
 well-being and focus on identifying and nurturing each child's unique strengths
 and potential.</p>
-<p>&nbsp;</p>
 <p><strong>Tier 2: Early Targeted Support (For students who need additional support)</strong>
 </p>
 <p>In addition to the Tier 1 foundation, some students may require extra
@@ -164,7 +164,6 @@ environments for students to grow after school hours.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strengthening Factors: We focus
 on building the child's confidence and improving their social and behavioral
 resilience.</p>
-<p>&nbsp;</p>
 <p><strong>Tier 3: Intensive Targeted Support (For students who need more intensive support)</strong>
 </p>
 <p>For students with more complex or severe needs that persist despite Tier
@@ -197,7 +196,6 @@ guidance.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Referral Procedures: Understanding
 when and how to escalate concerns to teachers, ensuring a robust safety
 net for all students.</p>
-<p>&nbsp;</p>
 <p>Through these sessions, SPS build the confidence and competence needed
 to support their peers effectively, fostering a school-wide spirit of care,
 support and respect.</p>
