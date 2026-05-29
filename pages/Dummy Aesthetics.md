@@ -38,15 +38,6 @@ of Singapore.</p>
 new media through the purposeful use of digital technologies. These experiences
 empower them to innovate, experiment with contemporary forms of expression,
 and apply artistic skills in creative, reflective and meaningful ways.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Pictures_1_May_2026.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Pictures_2_May_2026.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Pictures_3_May_2026.jpg">
-</div>
 <p></p>
 <p></p>
