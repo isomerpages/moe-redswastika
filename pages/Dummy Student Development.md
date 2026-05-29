@@ -59,6 +59,16 @@ and we help them grow into confident, resilient and responsible individuals.</p>
 <p>The Student Development Team anchors its efforts on the ‘Three Littles’
 to concretise the desired values, personal qualities and behavioral outcomes
 for our students.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Little Friend.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Little Teacher.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Little Master.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:30%" height="auto" width="100%" src="/images/Icon.png">
 </div>
