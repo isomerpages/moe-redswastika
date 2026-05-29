@@ -72,13 +72,20 @@ Programmes are designed to guide students to a good closure of each term,
 with rich learning and meaningful reflection. All programmes are aligned
 to the focus of each term and customised to meet the developmental needs
 of our students at different levels and they help:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Set expectations and routines
-with students to provide a positive learning environment for everyone</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Build strong, positive relationships;
-and</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Set expectations and routines with students to provide a positive learning
+environment for everyone</p>
+</li>
+<li>
+<p>Build strong, positive relationships; and</p>
+</li>
+</ul>
 <p>Enable target setting/reflection by students to consolidate learning and
 set sight on future achievement and developmental goals.</p>
-<p>&lt;insert collage picture&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SD_BTS_SIR_EIR_May_2026.jpg">
+</div>
 <p></p>
 <p><strong>Level-Focused Student Development Programmes</strong>
 </p>
