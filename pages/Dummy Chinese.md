@@ -36,9 +36,10 @@ description: ""
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGG7W_palG010E1PwELauUqkg1kOzJQKQeQOmcrKbnol-eXklozZFb6Buqkq9Ku3eE41MTtxw-rIlC/pubembed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
 </div>
-<p><a href="https://drive.google.com/file/d/1nh3kh-vTNNm4alNyvYRJMuqPqUIAetKF/view?usp=sharing" rel="noopener nofollow" target="_blank">MATATALAB - 卍慈校园</a>
-</p>
 <p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZFAkBNrguIQ?si=og1CiqY2Zmm9tdEu"></iframe>
+</div>
 <p><strong>爱上写作</strong>
 </p>
 <p>　　为激发学生的华文创作兴趣，学校除了每年编印《力奋》作文集，华文部也推出《卍花筒》，汇集三至六年级学生的优秀文章与漫画作品，展现同学们的创意与文采。入选的同学还会在晨读时间（Share
