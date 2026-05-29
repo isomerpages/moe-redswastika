@@ -33,12 +33,9 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CL_MATATALAB_May_2026.png">
 </div>
-<div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSGG7W_palG010E1PwELauUqkg1kOzJQKQeQOmcrKbnol-eXklozZFb6Buqkq9Ku3eE41MTtxw-rIlC/pubembed?start=true&amp;loop=true&amp;delayms=60000"></iframe>
-</div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe referrerpolicy="strict-origin-when-cross-origin" height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZFAkBNrguIQ?si=og1CiqY2Zmm9tdEu"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" style="display: block; margin: 0 auto;" height="560" width="315" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZFAkBNrguIQ?si=og1CiqY2Zmm9tdEu"></iframe>
 </div>
 <p><strong>爱上写作</strong>
 </p>
