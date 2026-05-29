@@ -233,12 +233,22 @@ School Ambassadors)</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD___Projects_May_2026.jpg">
 </div>
 <p></p>
-<p>Empowering students – RSS Buzz Stop</p>
+<p><strong>Empowering students – RSS Buzz Stop</strong>
+</p>
 <p>RSS is home to our students, and every student plays an active role as
 an Innovative Leader, in improving the school for everyone.</p>
 <p>RSS Buzz Stop is a space set aside [in the school canteen] for student-led
 facilitation sessions, student voice and idea-sharing, recognition of everyday
-RSS heroes, and as a visual anchor for SHAPE</p>
+RSS heroes, and as a visual anchor for SHAPE.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/SD___SHAPE_May_2026.png">
+</div>
+<p>and Student Leadership culture. Through RSS Voice, a student feedback
+platform, students are empowered to initiate efforts to make life better
+for everyone in the school – By Students, For Students!</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SD___Buzz_Stop_May_2026.jpg">
+</div>
 <p></p>
 <p></p>
 <p><strong>Positive Teacher-student Relationships</strong>
