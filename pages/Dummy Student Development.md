@@ -249,36 +249,59 @@ for everyone in the school – By Students, For Students!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SD___Buzz_Stop_May_2026.jpg">
 </div>
-<p></p>
-<p></p>
-<p><strong>Positive Teacher-student Relationships</strong>
-</p>
-<p>We believe that teachers play a significant role as trusted adults whom
-students can turn to for guidance. Hence, the school has put in place multiple
-avenues to help teachers establish rapport with our students. Through these
-avenues, teachers build positive teacher–student relationships (TSR) which
-would lead to positive student outcomes in terms of their learning, relationship
-management as well as their well-being.</p>
 <div class="isomer-image-wrapper">
-<img style="width:55%" height="auto" width="100%" src="/images/Positive%20Teacher-student%20Relationships.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SD___RSS_Voice_May_2026.png">
 </div>
-<p><strong>Our Positive Discipline Approach</strong>
+<p><strong>Our Positive Disciplinary Approach</strong>
 </p>
-<p>The school adopts a positive discipline approach that involves catching
-students doing right and leveraging reflective practice to help students
-take responsibility for their actions. To help students take responsibility
-for their actions, students are taught that their actions carry consequences.
-Anchored on a reflective approach, students face consequences that are
-based on the 3Rs (Restitution, Reconciliation, Resolution). Reflection
+<p>The school adopts a positive disciplinary approach, where we seek to ‘catch’
+students doing right and leverage reflective practice to help students
+take responsibility for their actions and learn that their actions carry
+consequences. Anchored in a reflective approach, students face consequences
+that are based on the 3Rs (Restitution, Reconciliation, Resolution). Reflection
 questions are framed using the Three Littles as part of the school’s unique
 approach to character development.</p>
 <div class="isomer-image-wrapper">
 <img style="width:55%" height="auto" width="100%" src="/images/Our%20Positive%20Discipline%20Approach.png">
 </div>
-<p><strong>Parents Engagement</strong>
+<p><strong>Management of Bullying and Hurtful Behaviours @RSS</strong>
 </p>
-<p>To promote collaborative home-school partnership, we organise the following
-engagement sessions with parents yearly:</p>
+<p>The school adopts a zero-tolerance stance towards bullying and hurtful
+behaviours. All reported cases are investigated thoroughly, using information
+from multiple sources to ensure fair and appropriate action. Depending
+on the severity and frequency, actions taken may range from counselling
+and restorative conversations to removal of privileges or suspension, in
+line with the Student Handbook. We strongly encourage students to report
+incidents early so the school can intervene promptly and support all parties
+involved.</p>
+<p></p>
+<p><strong>Grow Well SG</strong>
+</p>
+<p>We are committed to supporting Grow Well SG, Singapore's nationwide initiative
+aimed at fostering holistic well-being in children. Built around five foundational
+pillars — Eat Well, Sleep Well, Learn Well, Exercise Well, and Bond Well
+— the programme takes a comprehensive approach to cultivating healthy habits
+from an early age.</p>
+<p></p>
+<p><strong>Home-School Partnership</strong>
+</p>
+<p>Parents play a critical role in shaping their children’s values and behaviour.
+A strong partnership between school and parents ensures that every child
+feels safe, valued, and respected. In RSS, we believe that a strong home-school
+partnership is the foundation for every child's growth and success. In
+alignment with MOE’s Guidelines for School-Home Partnership, we encourage
+all parents and caregivers to engage our teachers and staff in a spirit
+of mutual respect and kindness. This means communicating through official
+channels during working hours, listening openly to one another's perspectives,
+and trusting in our shared commitment to every child's well-being. Together,
+as role models in both words and actions, we can raise a generation that
+is happy, confident, and kind. We look forward to growing this partnership
+with you.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SD___School_Home_Partnership_May_2026.png">
+</div>
+<p>To strengthen home-school partnerships, teachers engage parents through
+the following platforms and initiatives:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -287,15 +310,49 @@ engagement sessions with parents yearly:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Engagement Session</p>
+<p><strong>Platform</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Focus</p>
+<p><strong>Focus</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent Conference</p>
+<p><strong>Class Dojo / Email / Phone Call</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Primary channels of communication, enabling form teachers to establish
+direct and personal contact with parents</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RSS Parents’ Portal</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Key communication bridge, keeping parents informed, involved, and empowered
+throughout their child's learning journey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>RSS Instagram</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Celebrates school life and nurtures community connections by offering
+parents a glimpse into school events, Co-Curricular Activities (CCAs),
+and everyday school life through curated snapshots</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parent Conference</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Getting to know the Form Teachers
@@ -304,21 +361,38 @@ engagement sessions with parents yearly:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Parent-Child-Teacher Conference</p>
+<p><strong>Parent-Child-Teacher Conference</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Sharing on student’s holistic development</p>
+<p>Facilitate meaningful conversations centred on each student's holistic
+development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Parent Engagement Forums</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gaining insights and practical guidance on children’s behavioural development
+from professionals</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SD___School_Home_Partnership_2_May_2026.png">
+</div>
 <p>The school also participates in the Positive Parenting Programme (Triple
-P) where parenting seminars are organised to equip parents with parenting
-skills to promote their children’s psychological, social and emotional
-competence. As valued partners in education, we look forward to the active
-participation of parents in supporting the development of our students
-together.</p>
-<h1>Useful Resources</h1>
+P), through which parenting seminars are organised to equip parents with
+parenting skills to promote their children’s psychological, social and
+emotional competence. As valued partners in education, we look forward
+to the active participation of parents in supporting the development of
+our students together.</p>
+<p></p>
+<p><strong>Useful Resources</strong>
+</p>
 <p><strong>Parent Kit:</strong>
 </p>
 <p><a href="https://www.moe.gov.sg/parentkit" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit</a>
