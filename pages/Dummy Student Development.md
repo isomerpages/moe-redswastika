@@ -80,10 +80,14 @@ environment for everyone</p>
 <li>
 <p>Build strong, positive relationships; and</p>
 </li>
-</ul>
+<li>
 <p>Enable target setting/reflection by students to consolidate learning and
 set sight on future achievement and developmental goals.</p>
-<p></p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD_BTS_SIR_EIR_May_2026.jpg">
+</div>
 <p><strong>Level-Focused Student Development Programmes</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -136,40 +140,57 @@ and guidance, ranging from school-wide programmes to individualized intervention
 <p>Tier 1 focuses on creating a positive school culture that builds character
 and essential life skills. This foundation serves as a preventive measure,
 ensuring every child feels safe and empowered to learn.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A Caring Environment: We build a
-supportive atmosphere through strong Teacher-Student Relationships (TSR)
-and Peer Support and Relationships (PSR).</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Holistic Development: Students engage
-in Character and Citizenship Education (CCE) and 21st Century Competencies
-(21CC) to develop social, emotional, and cognitive skills.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Positive Growth: We monitor student
-well-being and focus on identifying and nurturing each child's unique strengths
-and potential.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A Caring Environment: We build a supportive atmosphere through strong
+Teacher-Student Relationships (TSR) and Peer Support and Relationships
+(PSR).</p>
+</li>
+<li>
+<p>Holistic Development: Students engage in Character and Citizenship Education
+(CCE) and 21st Century Competencies (21CC) to develop social, emotional,
+and cognitive skills.</p>
+</li>
+<li>
+<p>Positive Growth: We monitor student well-being and focus on identifying
+and nurturing each child's unique strengths and potential.</p>
+</li>
+</ul>
 <p><strong>Tier 2: Early Targeted Support (For students who need additional support)</strong>
 </p>
 <p>In addition to the Tier 1 foundation, some students may require extra
 help in specific areas—whether academic, social, or emotional. Tier 2 provides
 early intervention to help students get back on track.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Small Group Learning: Support is
-provided through specialised programmes like the Learning Support Programme
-or after-school remediation.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Enhanced Engagement: Programmes
-such as Student Care Centres and After-school Support Lessons provide structured
-environments for students to grow after school hours.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Strengthening Factors: We focus
-on building the child's confidence and improving their social and behavioral
-resilience.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Small Group Learning: Support is provided through specialised programmes
+like the Learning Support Programme or after-school remediation.</p>
+</li>
+<li>
+<p>Enhanced Engagement: Programmes such as Student Care Centres and After-school
+Support Lessons provide structured environments for students to grow after
+school hours.</p>
+</li>
+<li>
+<p>Strengthening Factors: We focus on building the child's confidence and
+improving their social and behavioral resilience.</p>
+</li>
+</ul>
 <p><strong>Tier 3: Intensive Targeted Support (For students who need more intensive support)</strong>
 </p>
 <p>For students with more complex or severe needs that persist despite Tier
 2 support, we provide highly individualized and intensive care.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Individualised Care: Support may
-include one-to-one counselling or customized Individual Learning/Behaviour
-Plans.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Specialised Expertise: This tier
-often involves collaboration with specialised personnel, government agencies,
-and community partners to provide a comprehensive support network for the
-child.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Individualised Care: Support may include one-to-one counselling or customized
+Individual Learning/Behaviour Plans.</p>
+</li>
+<li>
+<p>Specialised Expertise: This tier often involves collaboration with specialised
+personnel, government agencies, and community partners to provide a comprehensive
+support network for the child.</p>
+</li>
+</ul>
 <p></p>
 <p><strong>Positive Peer Relationships: Student Peer Supporters Programme</strong>
 </p>
@@ -239,7 +260,7 @@ School Ambassadors)</p>
 an Innovative Leader, in improving the school for everyone.</p>
 <p>RSS Buzz Stop is a space set aside [in the school canteen] for student-led
 facilitation sessions, student voice and idea-sharing, recognition of everyday
-RSS heroes, and as a visual anchor for SHAPE.</p>
+RSS heroes, and as a visual anchor for SHAPE</p>
 <div class="isomer-image-wrapper">
 <img style="width: 45%;" height="auto" width="100%" alt="" src="/images/SD___SHAPE_May_2026.png">
 </div>
@@ -249,9 +270,11 @@ for everyone in the school – By Students, For Students!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SD___Buzz_Stop_May_2026.jpg">
 </div>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SD___RSS_Voice_May_2026.png">
 </div>
+<p></p>
 <p><strong>Our Positive Disciplinary Approach</strong>
 </p>
 <p>The school adopts a positive disciplinary approach, where we seek to ‘catch’
@@ -381,9 +404,11 @@ from professionals</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/SD___School_Home_Partnership_2_May_2026.png">
 </div>
+<p></p>
 <p>The school also participates in the Positive Parenting Programme (Triple
 P), through which parenting seminars are organised to equip parents with
 parenting skills to promote their children’s psychological, social and
