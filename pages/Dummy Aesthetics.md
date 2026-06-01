@@ -110,10 +110,10 @@ themselves musically, develop cultural awareness, and build confidence
 while learning to appreciate music as a shared form of communication across
 cultures.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_7_May_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_8_May_2026.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_8_May_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_7_May_2026.png">
 </div>
 <p>Our Music Programme further deepens students’ learning through the purposeful
 progression of musical knowledge and skills across the levels. From Primary
@@ -137,9 +137,6 @@ a lifelong enjoyment and appreciation of Music.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_9_May_2026.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_10_May_2026.png">
-</div>
 <p><strong>RSS Aesthetics Week</strong>
 </p>
 <p>RSS Aesthetics Week is a vibrant celebration of the Arts, where students
@@ -152,4 +149,7 @@ deepen their appreciation of the Arts while developing creativity, confidence
 and joy in learning. RSS Aesthetics Week offers a fun and enriching platform
 for students to explore, create and collaborate, celebrating creativity,
 expression and the shared joy of learning through the Arts.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_10_May_2026.png">
+</div>
 <p></p>
