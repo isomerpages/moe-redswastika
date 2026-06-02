@@ -420,11 +420,13 @@ our students together.</p>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>MOE Parent Kit: Parent-Child Relationship <a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship</a>
+<p>MOE Parent Kit: Parent-Child Relationship
+<br><a href="https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit?pt=Parent-Child%20Relationship</a>
 </p>
 </li>
 <li>
-<p>MOE Parent Kit: Well-being <a href="https://www.moe.gov.sg/parentkit?pt=Well-Being" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit?pt=Well-Being</a>
+<p>MOE Parent Kit: Well-being
+<br><a href="https://www.moe.gov.sg/parentkit?pt=Well-Being" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/parentkit?pt=Well-Being</a>
 </p>
 </li>
 <li>
@@ -432,15 +434,18 @@ our students together.</p>
 </p>
 </li>
 <li>
-<p>Schoolbag: Parenting <a href="https://www.schoolbag.edu.sg/story-tag/parenting/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story-tag/parenting/</a>
+<p>Schoolbag: Parenting
+<br><a href="https://www.schoolbag.edu.sg/story-tag/parenting/" rel="noopener noreferrer nofollow" target="_blank">https://www.schoolbag.edu.sg/story-tag/parenting/</a>
 </p>
 </li>
 <li>
-<p>SEL Resources For Parents <a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning</a>
+<p>SEL Resources for Parents
+<br><a href="https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/education-in-sg/our-programmes/social-and-emotional-learning</a>
 </p>
 </li>
 <li>
-<p>Parenting for Wellness <a href="https://parentingforwellness.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://parentingforwellness.hpb.gov.sg/</a>
+<p>Parenting for Wellness
+<br><a href="https://parentingforwellness.hpb.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">https://parentingforwellness.hpb.gov.sg/</a>
 </p>
 </li>
 </ol>
