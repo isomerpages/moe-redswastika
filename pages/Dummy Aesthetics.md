@@ -38,7 +38,17 @@ of Singapore.</p>
 new media through the purposeful use of digital technologies. These experiences
 empower them to innovate, experiment with contemporary forms of expression,
 and apply artistic skills in creative, reflective and meaningful ways.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_1_May_2026.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_2_May_2026.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_3_May_2026.png">
+</div>
 <p>Beyond artistic skills and practices, our Art Programme encompasses rich
 cultural learning experiences. In support of our school’s mission to nurture
 bilingual and multicultural students with a global outlook, our programme
@@ -50,9 +60,8 @@ culture through meaningful engagement with cultural art forms and practices.
 Through these rich and varied learning experiences, students learn to enjoy
 and appreciate the Arts, communicate ideas visually, and make meaning by
 connecting art to society, heritage and culture.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_4_May_2026.png">
-</div>
+<p></p>
+<p></p>
 <p>Our Aesthetics department also celebrates the creativity, voice and growth
 of our students through our Primary 1 to Primary 6 Art Cohort Exhibitions
 and the Young Artists in RSS Art competition. Held across the school, these
@@ -72,9 +81,7 @@ respect diverse viewpoints, and appreciate one another’s creative contribution
 By giving students a visible and valued voice, these exhibitions inspire
 the wider school community and empower every learner to see themselves
 as confident creators and artists in their own right.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_5_May_2026.png">
-</div>
+<p></p>
 <p></p>
 <p><strong>Young Artist in RSS Art Competition Winners and their Artworks</strong>
 </p>
