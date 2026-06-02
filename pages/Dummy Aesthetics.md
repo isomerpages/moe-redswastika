@@ -38,15 +38,6 @@ of Singapore.</p>
 new media through the purposeful use of digital technologies. These experiences
 empower them to innovate, experiment with contemporary forms of expression,
 and apply artistic skills in creative, reflective and meaningful ways.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_1_May_2026.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_2_May_2026.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_3_May_2026.png">
-</div>
 <p></p>
 <p>Beyond artistic skills and practices, our Art Programme encompasses rich
 cultural learning experiences. In support of our school’s mission to nurture
