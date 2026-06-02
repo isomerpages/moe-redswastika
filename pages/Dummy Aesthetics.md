@@ -60,8 +60,9 @@ culture through meaningful engagement with cultural art forms and practices.
 Through these rich and varied learning experiences, students learn to enjoy
 and appreciate the Arts, communicate ideas visually, and make meaning by
 connecting art to society, heritage and culture.</p>
-<p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_4_May_2026.jpg">
+</div>
 <p>Our Aesthetics department also celebrates the creativity, voice and growth
 of our students through our Primary 1 to Primary 6 Art Cohort Exhibitions
 and the Young Artists in RSS Art competition. Held across the school, these
@@ -81,7 +82,9 @@ respect diverse viewpoints, and appreciate one another’s creative contribution
 By giving students a visible and valued voice, these exhibitions inspire
 the wider school community and empower every learner to see themselves
 as confident creators and artists in their own right.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_5_May_2026.jpg">
+</div>
 <p></p>
 <p><strong>Young Artist in RSS Art Competition Winners and their Artworks</strong>
 </p>
@@ -107,12 +110,8 @@ genres. These authentic learning experiences enable students to express
 themselves musically, develop cultural awareness, and build confidence
 while learning to appreciate music as a shared form of communication across
 cultures.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_8_May_2026.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_7_May_2026.png">
-</div>
+<p></p>
+<p></p>
 <p>Our Music Programme further deepens students’ learning through the purposeful
 progression of musical knowledge and skills across the levels. From Primary
 3 to Primary 6, students develop fundamental instrumental skills through
@@ -132,9 +131,8 @@ appreciate music from diverse cultures within local and global contexts,
 develop essential competencies in creative expression and communication,
 and cultivate confidence and joy in making music—motivating them towards
 a lifelong enjoyment and appreciation of Music.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_9_May_2026.png">
-</div>
+<p></p>
+<p></p>
 <p><strong>RSS Aesthetics Week</strong>
 </p>
 <p>RSS Aesthetics Week is a vibrant celebration of the Arts, where students
