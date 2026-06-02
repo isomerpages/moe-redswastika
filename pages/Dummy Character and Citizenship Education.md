@@ -142,6 +142,6 @@ in their daily lives and be a role model to others. The programme, anchored
 in the school values, affirm students’ growth and contributions to the
 community through tiered awards.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 76%;" height="auto" width="100%" alt="" src="/images/CCE_Three_Littles_Character_Award_v3_May_2026.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/CCE_Three_Littles_Character_Award_v3_May_2026.png">
 </div>
 <p></p>
