@@ -110,8 +110,13 @@ genres. These authentic learning experiences enable students to express
 themselves musically, develop cultural awareness, and build confidence
 while learning to appreciate music as a shared form of communication across
 cultures.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_7_May_2026.jpg">
+</div>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_8_May_2026.jpg">
+</div>
 <p>Our Music Programme further deepens students’ learning through the purposeful
 progression of musical knowledge and skills across the levels. From Primary
 3 to Primary 6, students develop fundamental instrumental skills through
@@ -131,7 +136,9 @@ appreciate music from diverse cultures within local and global contexts,
 develop essential competencies in creative expression and communication,
 and cultivate confidence and joy in making music—motivating them towards
 a lifelong enjoyment and appreciation of Music.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AES_Picture_9_May_2026.jpg">
+</div>
 <p></p>
 <p><strong>RSS Aesthetics Week</strong>
 </p>
