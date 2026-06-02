@@ -130,8 +130,8 @@ developmental journeys with our students.</p>
 5 and 6. In SEd, students learn to understand the physiological, social
 and emotional changes they experience as they mature. They also learn how
 to develop healthy and rewarding relationships and make informed and responsible
-decisions.</p>
-<p><a href="https://www.redswastika.moe.edu.sg/curriculum/sexuality-education" rel="noopener nofollow" target="_blank">https://www.redswastika.moe.edu.sg/curriculum/sexuality-education</a>
+decisions.
+<br><a href="https://www.redswastika.moe.edu.sg/curriculum/sexuality-education" rel="noopener nofollow" target="_blank">https://www.redswastika.moe.edu.sg/curriculum/sexuality-education</a>
 </p>
 <p></p>
 <p><strong>RSS Character Affirmation Programme</strong>
