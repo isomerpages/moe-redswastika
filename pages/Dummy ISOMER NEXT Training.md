@@ -184,30 +184,25 @@ the opportunity to reflect on their learning at the end of every lesson.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>Cyber Wellness (CW)</strong>
 </p>
 <p>CW education in RSS is delivered over multiple learning platforms – FTGP,
 school-based enrichment (SBE) lessons and Assembly. Lessons are designed
 to teach students to be respectful, safe and responsible users of technology
 and be a positive peer advocate for online safety.</p>
-<p><strong>Education and Career Guidance (ECG)</strong>
-</p>
-<p>ECG is about equipping students with the necessary knowledge, skills and
-values to make informed decisions at each key education stage. Students
-explore their values, interests and personality. They also learn about
-occupational clusters and the type of skills required for these clusters.
-To broaden the learning experiences in ECG, the school also leverages the
-partnership with the Alumni Association for members to share about their
-real-life work experiences with our students.</p>
-<p><strong><a href="/curriculum/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education (SEd)</a></strong>
-</p>
-<p>Sexuality Education lessons are conducted for students at Primary 5 and
-6. In SEd, students learn to understand the physiological, social and emotional
-changes they experience as they mature. They also gain a better understanding
-of how to develop healthy and rewarding relationships, as well as learn
-how to make informed and responsible decisions on sexuality matters.</p>
+<p></p>
+<p></p>
+<p></p>
 <p><strong>RSS Character Affirmation Programme</strong>
 </p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
