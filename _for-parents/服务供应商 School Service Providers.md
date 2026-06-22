@@ -27,7 +27,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mondays, Tuesdays, Thursdays and Fridays: 8.00am-3.00pm
-<br>Wednesdays: 8.00am - 2.30pm</p>
+<br>Wednesdays: 8.00am-2.30pm</p>
 </td>
 </tr>
 <tr>
@@ -174,7 +174,7 @@ variant: tiptap
 <p>Contact:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6775 5115/ 8444 5115&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+<p>6775 5115 / 8444 5115&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
@@ -203,42 +203,39 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Monday - Thursday:</p>
+<p>Monday, Wednesday, Friday:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8.00am - 5.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Friday:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>8.00am - 5.00pm</p>
+<p>8.00am-5.00pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lunch:</p>
+<p>Tuesday, Thursday:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>12.30pm - 1.30pm</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>School holiday:</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Same as above (Subject to change)</p>
+<p>8.00am-5.30pm</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Contact:</p>
+<p>Lunch Hour:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>8940 9587</p>
+<p>12.30pm-1.30pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>School Holidays:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject to change</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>The clinic operates on alternate weeks; please refer to the monthly schedule.</p>
 </td>
 </tr>
 </tbody>
@@ -263,11 +260,11 @@ variant: tiptap
 <p>Operating hours:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>During school term</p>
-<p>Monday to Fridays : 1.30pm - 7.00pm</p>
-<p>During school holidays</p>
-<p>Monday to Fridays : 7.30am - 7.00pm</p>
-<p>Closed on Saturdays, Sundays and Public Holidays</p>
+<p>During School Term</p>
+<p>(Monday to Friday): 1.30pm–7.00pm</p>
+<p>Curtailment During School Term: 10:00am–7:00pm</p>
+<p>During School Holidays (Monday to Friday): 7:30am–7:00pm</p>
+<p>Closed on: Saturdays, Sundays, and Public Holidays</p>
 </td>
 </tr>
 <tr>

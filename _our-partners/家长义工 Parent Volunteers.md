@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p>Dear Parent Volunteers,</p>
 <p>The application period for the Phase 2B Parent Volunteer Scheme is tentatively
-scheduled to open in <strong>October 2026</strong> for children <strong>born in 2022</strong>,
+scheduled to open in <strong>September 2026</strong> for children <strong>born in 2022</strong>,
 who will participate in the <strong>2028 Primary One Registration Exercise</strong> (for
 admission in 2029).</p>
 <p>Please look out for the opening of the application window on our website

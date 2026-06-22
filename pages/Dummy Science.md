@@ -33,7 +33,8 @@ literacy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Demonstrate_Learning_May_2026.png">
 </div>
-<p>Demonstrating learning in various topics</p>
+<p><em>Demonstrating learning in various topics</em>
+</p>
 <p></p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -47,7 +48,8 @@ literacy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Digestive_System_2_May_2026.png">
 </div>
-<p>Models on the Digestive System made by students</p>
+<p><em>Models on the Digestive System made by students</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -56,7 +58,8 @@ literacy.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 93%;" height="auto" width="100%" alt="" src="/images/Science_students_complete_quiz_ipad_2_May_2026.png">
 </div>
-<p>Students completing a quiz with their iPads at the BuzzStop</p>
+<p><em>Students completing a quiz with their iPads at the BuzzStop</em>
+</p>
 </td>
 </tr>
 </tbody>
@@ -75,12 +78,14 @@ experiences, and apply scientific thinking in meaningful contexts.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Hands_On_Learning_P3_May_2026.png">
 </div>
-<p>Hands‑on Learning in Action: P3 Students Planting Vegetables</p>
+<p><em>Hands‑on Learning in Action: P3 Students Planting Vegetables</em>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Learning_Journey_May_2026.png">
 </div>
-<p>Learning Comes Alive as Students Discover and Learn During Learning Journeys</p>
+<p><em>Learning Comes Alive as Students Discover and Learn During Learning Journeys</em>
+</p>
 <p></p>
 <p><strong>Learning about Environmental Conservation</strong>
 </p>
@@ -97,7 +102,8 @@ and caring future.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Environmental_Sustainability_Studies_May_2026.png">
 </div>
-<p>Students engaged in environmental and sustainability activities</p>
+<p><em>Students engaged in environmental and sustainability activities</em>
+</p>
 <p><strong>Developing the Potential of our Students through Enrichment Activities</strong>
 </p>
 <p>Students with a strong passion and aptitude in Science are given opportunities
@@ -112,7 +118,8 @@ grow in confidence and capability.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Science_Fruit_DNA_extraction_May_2026.png">
 </div>
-<p>Students immersed in Fruit DNA extraction activity</p>
+<p><em>Students immersed in Fruit DNA extraction activity</em>
+</p>
 <p><strong>Useful Resources</strong>
 </p>
 <p>Encourage your child to keep exploring Science at home with these recommended
@@ -140,35 +147,43 @@ magazines and websites!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Science at Home – Science Centre Singapore:&nbsp;<a href="https://www.science.edu.sg/for-schools/resources/science-at-home" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/for-schools/resources/science-at-home</a>
+<p>Science at Home – Science Centre Singapore&nbsp;
+<br><a href="https://www.science.edu.sg/for-schools/resources/science-at-home" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/for-schools/resources/science-at-home</a>
 </p>
 </li>
 <li>
-<p>How Stuff Works:&nbsp;<a href="https://www.howstuffworks.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.howstuffworks.com/</a>
+<p>How Stuff Works&nbsp;
+<br><a href="https://www.howstuffworks.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.howstuffworks.com/</a>
 </p>
 </li>
 <li>
-<p>BrainPOP:&nbsp;<a href="https://www.brainpop.com" rel="noopener noreferrer nofollow" target="_blank">https://www.brainpop.com</a>
+<p>BrainPOP
+<br><a href="https://www.brainpop.com" rel="noopener noreferrer nofollow" target="_blank">https://www.brainpop.com</a>
 </p>
 </li>
 <li>
-<p>PhET Interactive Simulations:&nbsp;<a href="https://phet.colorado.edu" rel="noopener noreferrer nofollow" target="_blank">https://phet.colorado.edu</a>
+<p>PhET Interactive Simulations
+<br><a href="https://phet.colorado.edu" rel="noopener noreferrer nofollow" target="_blank">https://phet.colorado.edu</a>
 </p>
 </li>
 <li>
-<p>NASA Climate Kids:&nbsp;<a href="https://climatekids.nasa.gov" rel="noopener noreferrer nofollow" target="_blank">https://climatekids.nasa.gov</a>
+<p>NASA Climate Kids
+<br><a href="https://climatekids.nasa.gov" rel="noopener noreferrer nofollow" target="_blank">https://climatekids.nasa.gov</a>
 </p>
 </li>
 <li>
-<p>Desert USA:&nbsp;<a href="https://www.desertusa.com" rel="noopener noreferrer nofollow" target="_blank">https://www.desertusa.com</a>
+<p>Desert USA
+<br><a href="https://www.desertusa.com" rel="noopener noreferrer nofollow" target="_blank">https://www.desertusa.com</a>
 </p>
 </li>
 <li>
-<p>BBC Earth:&nbsp;<a href="https://www.bbc.co.uk/earth/world" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/earth/world</a>
+<p>BBC Earth
+<br><a href="https://www.bbc.co.uk/earth/world" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/earth/world</a>
 </p>
 </li>
 <li>
-<p>National Geographic Kids:&nbsp;<a href="https://kids.nationalgeographic.com" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a>
+<p>National Geographic Kids
+<br><a href="https://kids.nationalgeographic.com" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a>
 </p>
 </li>
 </ul>
