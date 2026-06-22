@@ -46,7 +46,8 @@ description: ""
 <p>&lt;multiple spacing but only see one row spacing&gt;</p>
 <p></p>
 <p></p>
-<p></p>
+<p><strong>Paragraph size</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD___Level_Focused_Student_Development_Programmes_May_2026.png">
 </div>
