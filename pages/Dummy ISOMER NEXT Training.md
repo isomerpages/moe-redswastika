@@ -8,8 +8,13 @@ description: ""
 <h2>Heading 1</h2>
 <h3>Heading 2</h3>
 <h4>Heading 3</h4>
+<p></p>
+<p><strong>Paragraph</strong>
+<br>&lt;sample text&gt;</p>
+<p></p>
 <p><strong>Paragraph</strong>
 </p>
+<p>&lt;sample text&gt;</p>
 <p></p>
 <p><strong>Developing the Potential of our Students through Enrichment Activities</strong>
 </p>
