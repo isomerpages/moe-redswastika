@@ -147,35 +147,43 @@ magazines and websites!</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Science at Home – Science Centre Singapore:&nbsp;<a href="https://www.science.edu.sg/for-schools/resources/science-at-home" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/for-schools/resources/science-at-home</a>
+<p>Science at Home – Science Centre Singapore&nbsp;
+<br><a href="https://www.science.edu.sg/for-schools/resources/science-at-home" rel="noopener noreferrer nofollow" target="_blank">https://www.science.edu.sg/for-schools/resources/science-at-home</a>
 </p>
 </li>
 <li>
-<p>How Stuff Works:&nbsp;<a href="https://www.howstuffworks.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.howstuffworks.com/</a>
+<p>How Stuff Works&nbsp;
+<br><a href="https://www.howstuffworks.com/" rel="noopener noreferrer nofollow" target="_blank">https://www.howstuffworks.com/</a>
 </p>
 </li>
 <li>
-<p>BrainPOP:&nbsp;<a href="https://www.brainpop.com" rel="noopener noreferrer nofollow" target="_blank">https://www.brainpop.com</a>
+<p>BrainPOP
+<br><a href="https://www.brainpop.com" rel="noopener noreferrer nofollow" target="_blank">https://www.brainpop.com</a>
 </p>
 </li>
 <li>
-<p>PhET Interactive Simulations:&nbsp;<a href="https://phet.colorado.edu" rel="noopener noreferrer nofollow" target="_blank">https://phet.colorado.edu</a>
+<p>PhET Interactive Simulations
+<br><a href="https://phet.colorado.edu" rel="noopener noreferrer nofollow" target="_blank">https://phet.colorado.edu</a>
 </p>
 </li>
 <li>
-<p>NASA Climate Kids:&nbsp;<a href="https://climatekids.nasa.gov" rel="noopener noreferrer nofollow" target="_blank">https://climatekids.nasa.gov</a>
+<p>NASA Climate Kids
+<br><a href="https://climatekids.nasa.gov" rel="noopener noreferrer nofollow" target="_blank">https://climatekids.nasa.gov</a>
 </p>
 </li>
 <li>
-<p>Desert USA:&nbsp;<a href="https://www.desertusa.com" rel="noopener noreferrer nofollow" target="_blank">https://www.desertusa.com</a>
+<p>Desert USA
+<br><a href="https://www.desertusa.com" rel="noopener noreferrer nofollow" target="_blank">https://www.desertusa.com</a>
 </p>
 </li>
 <li>
-<p>BBC Earth:&nbsp;<a href="https://www.bbc.co.uk/earth/world" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/earth/world</a>
+<p>BBC Earth
+<br><a href="https://www.bbc.co.uk/earth/world" rel="noopener noreferrer nofollow" target="_blank">https://www.bbc.co.uk/earth/world</a>
 </p>
 </li>
 <li>
-<p>National Geographic Kids:&nbsp;<a href="https://kids.nationalgeographic.com" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a>
+<p>National Geographic Kids
+<br><a href="https://kids.nationalgeographic.com" rel="noopener noreferrer nofollow" target="_blank">https://kids.nationalgeographic.com</a>
 </p>
 </li>
 </ul>
