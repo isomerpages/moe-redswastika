@@ -10,6 +10,20 @@ description: ""
 <h4>Heading 3</h4>
 <p><strong>Paragraph</strong>
 </p>
+<p></p>
+<p><strong>Developing the Potential of our Students through Enrichment Activities</strong>
+</p>
+<p>Students with a strong passion and aptitude in Science are given opportunities
+to stretch their potential through Science competitions, project showcases,
+and the E2K Science Programme — a research-based enrichment programme that
+develops the reasoning, metacognitive, and creative thinking skills of
+budding young scientists, while deepening their curiosity and love for
+learning. These enrichment platforms provide students with authentic opportunities
+to explore complex ideas, ask deeper questions, and persevere through challenges
+— celebrating both curiosity and the courage to think innovatively as they
+grow in confidence and capability.</p>
+<p></p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
