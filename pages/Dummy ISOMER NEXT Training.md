@@ -101,6 +101,139 @@ description: ""
 </table>
 <p></p>
 <p></p>
+<p><strong>National Education (NE)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="269" width="394" alt="NE.jpg" src="/images/NE.jpeg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>RSS commemorates four NE Commemorative Days every year – Total Defence
+Day, International Friendship Day, Racial Harmony Day and National Day.
+These events provide opportunities for students to deepen their appreciation
+of our shared past and Singapore’s current realities, and foster a sense
+of hope and belonging to Singapore. The learning of school values exemplified
+by the Three Littles is intentionally weaved into the events for reinforcement.
+In addition, the school also brings in the discussion of contemporary issues
+to deepen students’ knowledge of current affairs.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Values in Action (VIA)</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>VIAs are learning experiences that support our students’ development to
+becoming socially responsible citizens who can contribute meaningfully
+to the school and community. RSS students in the lower primary (P1 and
+P2) start their service journey from home by assisting family members with
+household chores. They continue to extend their services to school through
+structured platforms to keep the school environment clean. Students in
+the middle primary (P3 and P4) show their appreciation to different groups
+of stakeholders who have supported them in school while students in the
+upper primary (P5 and P6) offer their services to the community - packing
+and sending gift packs to the needy around the community, taking part in
+donation drives.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="307" width="394" alt="VIA.jpg" src="/images/VIA.jpeg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Learning For Life (LLP) Character Lessons</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="261" width="394" alt="LLP.PNG" src="/images/LLP.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teachers design and deliver the LLP Character lessons with intentionality.
+Adopting the spiral approach, students are taught the school vision, mission
+and values gradually and repeatedly, reinforcing the learning over time.
+Each lesson delivers rich content through various pedagogical approaches
+that are developmentally appropriate and engage students cognitively and
+affectively. To develop our students as reflective learners, they are given
+the opportunity to reflect on their learning at the end of every lesson.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Cyber Wellness (CW)</strong>
+</p>
+<p>CW education in RSS is delivered over multiple learning platforms – FTGP,
+school-based enrichment (SBE) lessons and Assembly. Lessons are designed
+to teach students to be respectful, safe and responsible users of technology
+and be a positive peer advocate for online safety.</p>
+<p><strong>Education and Career Guidance (ECG)</strong>
+</p>
+<p>ECG is about equipping students with the necessary knowledge, skills and
+values to make informed decisions at each key education stage. Students
+explore their values, interests and personality. They also learn about
+occupational clusters and the type of skills required for these clusters.
+To broaden the learning experiences in ECG, the school also leverages the
+partnership with the Alumni Association for members to share about their
+real-life work experiences with our students.</p>
+<p><strong><a href="/curriculum/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">Sexuality Education (SEd)</a></strong>
+</p>
+<p>Sexuality Education lessons are conducted for students at Primary 5 and
+6. In SEd, students learn to understand the physiological, social and emotional
+changes they experience as they mature. They also gain a better understanding
+of how to develop healthy and rewarding relationships, as well as learn
+how to make informed and responsible decisions on sexuality matters.</p>
+<p><strong>RSS Character Affirmation Programme</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Our Character Affirmation Programme provides feedback to students on their
+character growth. It encourages our students to demonstrate the characteristics
+of the Three Littles. The school has put in place a student recognition
+structure which includes a 3-tiered Character Awards. Role models of the
+Three Littles from each class are nominated via the termly Class Affirmation
+Periods.</p>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="290" width="394" alt="RSS.PNG" src="/images/RSS.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
