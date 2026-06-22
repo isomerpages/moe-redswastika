@@ -12,6 +12,17 @@ description: ""
 <p><strong>Paragraph</strong>
 <br>&lt;sample text&gt;</p>
 <p></p>
+<p><strong>Developing the Potential of our Students through Enrichment Activities</strong>
+<br>Students with a strong passion and aptitude in Science are given opportunities
+to stretch their potential through Science competitions, project showcases,
+and the E2K Science Programme — a research-based enrichment programme that
+develops the reasoning, metacognitive, and creative thinking skills of
+budding young scientists, while deepening their curiosity and love for
+learning. These enrichment platforms provide students with authentic opportunities
+to explore complex ideas, ask deeper questions, and persevere through challenges
+— celebrating both curiosity and the courage to think innovatively as they
+grow in confidence and capability.</p>
+<p></p>
 <p><strong>Paragraph</strong>
 </p>
 <p>&lt;sample text&gt;</p>
