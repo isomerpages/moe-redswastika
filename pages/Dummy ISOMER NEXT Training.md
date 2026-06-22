@@ -85,10 +85,12 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
-<p>&lt;caption 1&gt;</p>
+<p><em>AV Leaders in action, supporting school events and mentoring juniors.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&lt;caption 2&gt;</p>
+<p><em>AV Leaders learning photography skills.</em>
+</p>
 </td>
 </tr>
 </tbody>
