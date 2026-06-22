@@ -53,7 +53,11 @@ description: ""
 </div>
 <p></p>
 <p></p>
-<p></p>
+<p><strong>Paragraph size</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/School_PhilosophyBeliefs_Colour_Dark_2_EN.jpg">
+</div>
 <p></p>
 <p></p>
 <p></p>
