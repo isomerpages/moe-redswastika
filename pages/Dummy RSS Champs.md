@@ -37,17 +37,20 @@ empathetic glocal citizens, and lifelong learners with a passion for excellence
 and mastery.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RSSChamp_Pics_2_June_2026.jpg">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/RSSChamp_Pics_2_June_2026.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSSChamps_Pic_3_June_2026.png">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSSChamps_Pic_4_June_2026.png">
+</div>
 <p></p>
-<p></p>
-<p><em>P4 student participants of the Chinese translation workshop</em>
-</p>
-<p></p>
-<p><em>Online exchange with a Taiwanese school</em>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSSChamps_Pic_5_June_2026.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
