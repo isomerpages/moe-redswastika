@@ -36,7 +36,19 @@ Programme, each thoughtfully designed to foster confident communicators,
 empathetic glocal citizens, and lifelong learners with a passion for excellence
 and mastery.</p>
 <p></p>
-<p>Students participating in an English debate activity</p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/RSSChamp_Pics_2_June_2026.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><em>P4 student participants of the Chinese translation workshop</em>
+</p>
+<p></p>
+<p><em>Online exchange with a Taiwanese school</em>
+</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
