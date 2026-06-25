@@ -203,15 +203,20 @@ is accessible at every level of student life:</p>
 </div>
 <p>To ensure our SPS are well-equipped for their roles, they undergo regular
 training sessions that include:</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Skill Building: Developing emotional
-literacy, active listening, and empathy to provide sensitive emotional
-comfort.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Practical Strategies: Learning how
-to identify distress signals in peers and provide appropriate practical
-guidance.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Referral Procedures: Understanding
-when and how to escalate concerns to teachers, ensuring a robust safety
-net for all students.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Skill Building: Developing emotional literacy, active listening, and empathy
+to provide sensitive emotional comfort.</p>
+</li>
+<li>
+<p>Practical Strategies: Learning how to identify distress signals in peers
+and provide appropriate practical guidance.</p>
+</li>
+<li>
+<p>Referral Procedures: Understanding when and how to escalate concerns to
+teachers, ensuring a robust safety net for all students.</p>
+</li>
+</ul>
 <p>Through these sessions, SPS build the confidence and competence needed
 to support their peers effectively, fostering a school-wide spirit of care,
 support and respect.</p>
