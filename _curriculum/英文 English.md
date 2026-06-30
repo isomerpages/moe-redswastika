@@ -4,7 +4,8 @@ permalink: /curriculum/english/
 description: ""
 variant: tiptap
 ---
-<h1><strong>Our Objectives</strong></h1>
+<p><strong>Our Objectives</strong>
+</p>
 <p>At RSS, we seek to nurture every student to be a confident and effective
 communicator and a critical thinker, endowed with 21<sup>st</sup> Century
 Competencies (21CC) and the ability to leverage technology for learning.
