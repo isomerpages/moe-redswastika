@@ -45,7 +45,7 @@ and mastery.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSSChamps_Pic_4_June_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSSChamps_Pic_4_w_space_June_2026.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
