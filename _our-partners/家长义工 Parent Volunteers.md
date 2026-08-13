@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Registration Period: Opens 1 Sep 2026 till 18 Sep 2026</strong></h4>
-<p><u>PHASE 2B PARENT VOLUNTEER (PV) APPLICATION - For Children Born in 2022 for Scheduled Registration Exercise in 2028 (Admission in 2029)</u>
+<p><strong><u>PHASE 2B PARENT VOLUNTEER (PV) APPLICATION - For Children Born in 2022 for Scheduled Registration Exercise in 2028 (Admission in 2029)</u></strong>
 </p>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -33,8 +33,19 @@ distance, please refer to the One Map School Query Service <a href="https://www.
 by the Singapore Land Authority (SLA).</p>
 </li>
 <li>
-<p>Parents who are interested may apply via this link <a href="https://form.gov.sg/6a2a182e16022277c972d67c" rel="noopener nofollow" target="_blank">FormSG.</a>
-</p>
+<p>Parents who are interested may apply via this link <a href="https://form.gov.sg/6a2a182e16022277c972d67c" rel="noopener nofollow" target="_blank">FormSG</a> from 1st
+September 2026.</p>
+</li>
+<li>
+<p>Parents who are interested may find an application link on FormSG here
+from 1st September 2026.</p>
+</li>
+<li>
+<p>Parents who are interested may apply via FormSG from 1 September 2026.
+The link will be made available on that date.</p>
+</li>
+<li>
+<p></p>
 </li>
 </ol>
 <p></p>
