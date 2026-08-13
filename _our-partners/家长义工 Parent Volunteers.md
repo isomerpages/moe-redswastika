@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Registration Period: Opens 1 Sep 2026 till 18 Sep 2026</strong></h4>
-<p><u>Phase 2B Parent Volunteer (PV) Application Scheme - FOR CHILDREN BORN IN 2022 FOR SCHEDULED REGISTRATION EXERCISE IN 2028 (ADMISSION IN 2029)</u>
+<p><u>PHASE 2B PARENT VOLUNTEER (PV) APPLICATION - For Children Born in 2022 for Scheduled Registration Exercise in 2028 (Admission in 2029)</u>
 </p>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -37,14 +37,4 @@ by the Singapore Land Authority (SLA).</p>
 </p>
 </li>
 </ol>
-<hr>
-<p>Dear Parent Volunteers,</p>
-<p>The application period for the Phase 2B Parent Volunteer Scheme is tentatively
-scheduled to open in <strong>September 2026</strong> for children <strong>born in 2022</strong>,
-who will participate in the <strong>2028 Primary One Registration Exercise</strong> (for
-admission in 2029).</p>
-<p>Please look out for the opening of the application window on our website
-in October 2026. For more information on P1 registration process, please
-visit the MOE website <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a>
-</p>
-<p>Thank you.</p>
+<p></p>
