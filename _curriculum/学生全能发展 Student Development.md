@@ -13,9 +13,8 @@ in a culture of care.</p>
 <p></p>
 <p><strong>A Culture of Care</strong>
 </p>
-<p>In RSS, we:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CARE.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/CARE_v2.png">
 </div>
 <p></p>
 <p><strong>Together with the form teachers, the Year Heads and Assistant Year Heads, support student well-being in the following areas:</strong>
