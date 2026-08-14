@@ -24,7 +24,7 @@ emerging 21st century competencies such as collaboration, self-directed
 learning, and digital literacy. These competencies equip students to navigate
 complexity and thrive in an ever-changing world.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSSChamp_Pics_1_w_space_June_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/RSSChamp_Pics_1_fixed_June_2026.jpg">
 </div>
 <p></p>
 <p>The English and Chinese enrichment components further enhance students’
